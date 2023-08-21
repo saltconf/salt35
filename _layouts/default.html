@@ -1,0 +1,28 @@
+<head>
+    <title>SALT34 ▪{{ page.title }}</title>
+    {% include head.html %}
+</head>
+<html>
+    <body>
+        <div class="container" >
+            <div class="row" >
+                {% include logo.html %}
+
+                <div class="row" >
+                    <div id="nav" class="three columns" >
+                        <ul>
+                            {% for page in site.data.navigation %}
+                            <li>
+                                <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <div id="content" class="nine columns" >
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

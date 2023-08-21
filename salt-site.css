@@ -118,14 +118,14 @@ hr {
 
 #speakers li:nth-child(even):before {
     margin-right: 0.5em;
-    content: url(/rochester-flower.svg);
+    content: url(/images/rochester-flower.svg);
     vertical-align: -12%;
     text-align: center;
 }
 
 #speakers li:nth-child(odd):before {
     margin-right: 0.5em;
-    content: url(/rochester-flower.svg);
+    content: url(/images/rochester-flower.svg);
     vertical-align: -12%;
     text-align: center;
 }

@@ -1,0 +1,6 @@
+name: SALT34
+
+exclude:
+- local-information.md
+- program.md
+- registration.md
