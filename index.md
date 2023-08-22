@@ -43,7 +43,7 @@ For questions or comments, please contact <span style="font-family: monospace">[
 
 <div class="row">
   <div class="three columns" style="text-align: center;">
-    <img id="lsa-logo" alt="LSA" src="images/lsa-logo.svg"/>
+    <img id="lsa-logo" alt="LSA" src="{{ "assets/images/lsa-logo.svg" | relative_url }}" />
   </div>
   <div class="nine columns">
     <br/>

@@ -3,6 +3,9 @@ title: SALT34
 url: http://aaronstevenwhite.io
 baseurl: /salt34
 
+sass:
+    sass_dir: _sass
+
 exclude:
 - local-information/*
 - conference-program/*

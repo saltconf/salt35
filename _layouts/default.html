@@ -11,9 +11,9 @@
                 <div class="row" >
                     <div id="nav" class="three columns" >
                         <ul>
-                            {% for page in site.data.navigation %}
+                            {% for item in site.data.navigation %}
                             <li>
-                                <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
+                                <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="current"{% endif %}>{{ item.title }}</a>
                             </li>
                             {% endfor %}
                         </ul>
