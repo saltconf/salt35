@@ -1,4 +1,7 @@
-name: SALT34
+title: SALT34
+#url: "localhost"
+url: http://aaronstevenwhite.io
+baseurl: /salt34
 
 exclude:
 - local-information.md
