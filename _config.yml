@@ -4,6 +4,6 @@ url: http://aaronstevenwhite.io
 baseurl: /salt34
 
 exclude:
-- local-information.md
-- program.md
-- registration.md
+- local-information/*
+- conference-program/*
+- registration/*
