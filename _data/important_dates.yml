@@ -1,5 +1,5 @@
-- date: "Sep 1"
-  event: "Submissions open"
+- date: "Oct 1"
+  event: "Abstract submissions open"
 
 - date: "Dec 1"
   event: "Abstract deadline"
@@ -14,10 +14,7 @@
   event: "Registration opens"
 
 - date: "Apr 24"
-  event: "Registration closes"
-
-- date: "Apr 25"
-  event: "Late registration opens"
+  event: "Early registration closes"
 
 - date: "May 24"
   event: "Late registration closes"
