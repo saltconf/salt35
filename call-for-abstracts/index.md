@@ -3,21 +3,23 @@ title: Call for Abstracts
 layout: default
 ---
 
-The organizers of the 34th annual meeting of Semantics and Linguitic Theory (SALT34) invite submission of abstracts for 30-minute oral presentations (with an additional 10 minutes for questions) or posters on any topic in natural language semantics with relevance to linguistic theory.
+The organizers of the 34th annual meeting of Semantics and Linguitic Theory (SALT34) invite submission of abstracts for 30-minute oral presentations (with an additional 10 minutes for questions) or posters on any topic in natural language semantics with relevance to linguistic theory. SALT34 will be held solely in-person, and there will be no remote presentation or attendance option.
 
 <hr/>
 
 ## Submission details
 
-**<span class="alert">Deadline:</span> Friday, December 1, 2023**, 11:59 pm anywhere in the world (UTC-11)
+**<span class="alert">Deadline:</span> Friday, December 1, 2023**, 11:59pm anywhere on Earth (UTC-12)
 
-Submissions should be made via the [SALT34 OpenReview site](https://openreview.net/group?id=saltconf.github.io/SALT/2024/Conference). We expect to notify authors of their acceptance in mid-February 2024.
+Submissions should be made via the [SALT34 OpenReview site](https://openreview.net/group?id=saltconf.github.io/SALT/2024/Conference). We expect to notify authors of acceptance decisions in mid-February 2024.
 
 <hr/>
 
 ## Requirements
 
-Abstracts must be anonymous. The main text should be at most 2 pages (US Letter or A4) in length, with an optional third page for examples, references, or figures. The abstract should use an 11pt font and 1 inch margins (for US Letter) or 3 cm margins (for A4) on all four sides. The line spacing must be single space. The abstract must be submitted as a single PDF file. These limitations will be strictly enforced. In addition to the intellectual interest of the abstract, clarity and readability will also be taken into account in reviewing. 
+Abstracts must be anonymous. The main text should be at most 2 pages (US Letter or A4) in length, with an optional third page for examples, references, or figures. No prose may extend onto the third page and captions for figures on the third page must not exceed 100 characters in length.
+
+The abstract should use one of Times New Roman, Arial, or Computer Modern in no smaller than 11pt, and its margins should be no smaller than 1 inch (for US Letter) or 3 cm margins (for A4) on all four sides. The line spacing must be no smaller than single space. The abstract must be submitted as a single PDF file. These limitations will be strictly enforced. In addition to the intellectual interest of the abstract, clarity and readability will also be taken into account in reviewing. 
 
 SALT 34 will feature a poster session. Poster presentations will be published as regular papers in the proceedings. Poster presenters will be asked to give a short lightning round presentation prior to the poster session. 
 
