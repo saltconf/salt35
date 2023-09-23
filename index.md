@@ -41,6 +41,25 @@ For questions or comments, please contact <span style="font-family: monospace">[
 
 <hr/>
 
+## Important dates
+
+<table class="announce">
+  <tbody>
+    {% for milestone in site.data.important_dates %}
+    <tr>
+      <td class="time">
+        [{{ milestone.date }}]
+      </td>
+      <td>
+        {{ milestone.text }}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<hr/>
+
 <div class="row">
   <div class="three columns" style="text-align: center;">
     <img id="lsa-logo" alt="LSA" src="{{ "assets/images/lsa-logo.svg" | relative_url }}" />
