@@ -35,4 +35,4 @@ SALT does not accept papers that at the time of the conference have been publish
 
 ## Proceedings
 
-All papers presented at the conference–including posters–will be published in a SALT34 volume following the conclusion of the conference.
+All papers presented at the conference (including posters) will be published in a SALT34 volume following the conclusion of the conference.
