@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-Semantics and Linguistic Theory (SALT) 34 will be hosted by the Linguistics Department at the University of Rochester on May 28 &ndash; 30, 2024.
+Semantics and Linguistic Theory (SALT) 34 will be hosted by the Linguistics Department at the University of Rochester on May 28 &ndash; 30, 2024. The conference will be held solely in-person, and there will be no remote presentation or attendance option.
 
 For questions or comments, please contact <span style="font-family: monospace">[salt34.ur@gmail.com](mailto:salt34.ur@gmail.com)</span>. By attending, you agree to abide by the [Code of Conduct](code-of-conduct/).
 
