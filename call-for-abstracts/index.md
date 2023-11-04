@@ -21,6 +21,8 @@ Submissions should be made via the [SALT34 OpenReview site](https://openreview.n
 
 Abstracts must be anonymous. The main text should be at most 2 pages (US Letter or A4) in length, with an optional third page for references, figures, or non-English examples. All English examples must be interleaved within the main text of the abstract. No prose may extend onto the third page and captions for figures on the third page must not exceed 100 characters in length.
 
+**Clarification (11/4/23):** English context descriptions for non-English examples may be placed on the third page alongside the example they are associated with, but they must obey the constraint for figure captions on the third page–i.e. they must not exceed 100 characters in length. If longer English context descriptions are necessary–even for non-English examples that themselves are placed on the third page–they must be interleaved within the main text of the abstract.
+
 The abstract should use a font no smaller than 12pt for all text (including mathematical formulae, examples, figure captions, and footnotes), and its margins should be no smaller than 1 inch (for US Letter) or 3 cm margins (for A4) on all four sides. The line spacing must be no smaller than single space. The abstract must be submitted as a single PDF file. These limitations will be strictly enforced. In addition to the intellectual interest of the abstract, clarity and readability will also be taken into account in reviewing.
 
 <hr/>
