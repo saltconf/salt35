@@ -11,7 +11,7 @@ SALT34 will be held solely in-person, and there will be no remote presentation o
 
 ## Submission details
 
-**<span class="alert">Deadline:</span> <s>Friday, December 1, 2023</s> Monday, December 4, 2023**, 11:59 pm anywhere in the world (UTC-12)
+**<span class="alert">Deadline:</span> <s>Friday, December 1, 2023</s> Monday, December 4, 2023**, 11:59 pm (UTC-12)
 
 Submissions should be made via the [SALT34 OpenReview site](https://openreview.net/group?id=saltconf.github.io/SALT/2024/Conference). We expect to notify authors of their acceptance in mid-February 2024.
 
