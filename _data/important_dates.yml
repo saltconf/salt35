@@ -1,29 +1,26 @@
-- date: "Sep 1"
-  event: "Submissions open"
+- date: "Oct 1"
+  text: "Abstract submissions open"
 
 - date: "Dec 4"
   event: "Abstract deadline"
 
 - date: "Jan 26"
-  event: "Abstract reviews due"
+  text: "Abstract reviews due"
 
 - date: "Feb 16"
-  event: "Decision notification"
+  text: "Decision notification"
 
 - date: "Feb 20"
-  event: "Registration opens"
+  text: "Registration opens"
 
 - date: "Apr 24"
-  event: "Registration closes"
-
-- date: "Apr 25"
-  event: "Late registration opens"
+  text: "Early registration closes"
 
 - date: "May 24"
-  event: "Late registration closes"
+  text: "Late registration closes"
 
 - date: "May 28"
-  event: "Conference begins"
+  text: "Conference begins"
 
 - date: "May 30"
-  event: "Conference ends"
+  text: "Conference ends"
