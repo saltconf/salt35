@@ -11,9 +11,11 @@ SALT34 will be held solely in-person, and there will be no remote presentation o
 
 ## Submission details
 
-**<span class="alert">Deadline:</span> Friday, December 1, 2023**, 11:59pm anywhere on Earth (UTC-12)
+**<span class="alert">Deadline:</span> <s>Friday, December 1, 2023</s> Monday, December 4, 2023**, 11:59 pm anywhere in the world (UTC-12)
 
-Submissions should be made via the [SALT34 OpenReview site](https://openreview.net/group?id=saltconf.github.io/SALT/2024/Conference). We expect to notify authors of acceptance decisions in mid-February 2024.
+Submissions should be made via the [SALT34 OpenReview site](https://openreview.net/group?id=saltconf.github.io/SALT/2024/Conference). We expect to notify authors of their acceptance in mid-February 2024.
+
+**Update (12/1/23):** Due to technical difficulties experienced by some submitters, the submission deadline has been extended to Monday, December 4, 2023, 11:59 pm anywhere in the world (UTC-12). The main technical difficulty that submitters have experienced has to do with the fact that it can (though often does not) take 12 hours for an OpenReview account to be activated. If you plan to submit and have not made an OpenReview account yet, please do so as soon as possible in order to ensure that the account is active before the new deadline. 
 
 <hr/>
 
