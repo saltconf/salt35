@@ -7,6 +7,5 @@ sass:
     sass_dir: _sass
 
 exclude:
-- local-information/*
 - conference-program/*
 - registration/*

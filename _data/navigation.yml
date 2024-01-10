@@ -7,8 +7,8 @@
 # - title: Registration
 #   url: /registration/
 
-# - title: Local information
-#   url: /local-information/
+- title: Local information
+  url: /local-information/
 
 # - title: Program
 #   url: /conference-program/
