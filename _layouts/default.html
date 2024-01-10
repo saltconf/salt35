@@ -13,7 +13,7 @@
                         <ul>
                             {% for item in site.data.navigation %}
                             <li>
-                                <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="current"{% endif %}>{{ item.title }}</a>
+                                <a href={% if item.relative %} "{{ item.url | relative_url }}" {% else %} "{{ item.url }}" {% endif %} {% if page.url == item.url %}class="current"{% endif %}>{{ item.title }}</a>
                             </li>
                             {% endfor %}
                         </ul>

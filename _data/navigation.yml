@@ -1,14 +1,23 @@
 - title: Home
   url: /
+  relative: true
 
 - title: Call for abstracts
   url: /call-for-abstracts/
+  relative: true
 
 # - title: Registration
 #   url: /registration/
-
-- title: Local information
-  url: /local-information/
+#   relative: true
 
 # - title: Program
 #   url: /conference-program/
+#   relative: true
+
+- title: Local information
+  url: /local-information/
+  relative: true
+
+- title: Conference gear
+  url: https://my-store-ea2979.creator-spring.com/
+  relative: false
