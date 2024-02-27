@@ -8,8 +8,8 @@ keynotes:
   - name: "Robert Henderson"
     institution: "University of Arizona"
     website: "https://www.rhenderson.net/"
-  - name: "Judith Degen"
-    institution: "Stanford University"
+  - name: "<s>Judith Degen</s>"
+    institution: "<s>Stanford University</s>"
     website: "https://thegricean.github.io/"
   
 talks: null
