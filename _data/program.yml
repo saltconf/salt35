@@ -1,17 +1,108 @@
 keynotes:
-  - name: "Jessica Rett"
+  rett: 
+    name: "Jessica Rett"
     institution: "University of California, Los Angeles"
     website: "https://linguistics.ucla.edu/people/Rett/"
-  - name: "Kyle Rawlins"
+  rawlins:
+    name: "Kyle Rawlins"
     institution: "Johns Hopkins University"
     website: "https://rawlins.io/"
-  - name: "Robert Henderson"
+  henderson:
+    name: "Robert Henderson"
     institution: "University of Arizona"
     website: "https://www.rhenderson.net/"
-  - name: "<s>Judith Degen</s>"
+  degen:
+    name: "<s>Judith Degen</s>"
     institution: "<s>Stanford University</s>"
     website: "https://thegricean.github.io/"
   
 talks: null
-
 posters: null
+
+days:
+  - events:
+    - type: "talk session"
+      name: "Talk Session 1"
+      - time: "9:00-9:40"
+        talk: null
+      - time: "9:40-10:20"
+        talk: null
+      - time: "10:20-11:00"
+        talk: null
+    - type: "break"
+      time: "11:00-11:20"
+    - type: "workshop"
+      name: "SALTED Workshop"
+      time: "11:20-12:50"
+    - type: "lunch"
+      time: "12:50-14:00"
+    - type: "invited talk"
+      time: "14:00-15:00"
+      talk: rett
+    - type: "break"
+      time: "15:00-15:30"
+    - type: "talk session"
+      name: "Talk Session 2"
+      - time: "15:30-16:10"
+        talk: null
+      - time: "16:10-16:50"
+        talk: null
+      - time: "16:50-17:30"
+        talk: null
+  - events:
+    - type: "talk session"
+      name: "Talk Session 3"
+      - time: "9:00-9:40"
+        talk: null
+      - time: "9:40-10:20"
+        talk: null
+      - time: "10:20-11:00"
+        talk: null
+    - type: "break"
+      time: "11:00-11:20"
+    - type: "lightning talk session"
+      name: "Lightning Talk Session A"
+      time: "11:20-12:00"
+    - type: "break"
+      time: "12:00-12:20"
+    - type: "lightning talk session"
+      name: "Lightning Talk Session B"
+      time: "12:20-13:00"
+    - type: "lunch"
+      time: "13:00-14:00"
+    - type: "invited talk"
+      time: "14:00-15:00"
+      talk: rawlins
+    - type: "break"
+      time: "15:00-15:30"
+    - type: "talk session"
+      name: "Talk Session 4"
+      - time: "15:30-16:10"
+        talk: null
+      - time: "16:10-16:50"
+        talk: null
+      - time: "16:50-17:30"
+        talk: null
+    - type: "poster session"
+      name: "Poster Session"
+      time: "17:40-19:30"
+  - events:
+    - type: "talk session"
+      name: "Talk Session 5"
+      - time: "9:00-9:40"
+        talk: null
+      - time: "9:40-10:20"
+        talk: null
+    - type: "break"
+      time: "10:20-10:40"
+    - type: "invited talk"
+      time: "10:40-11:40"
+      talk: henderson
+    - type: "break"
+      time: "11:40-12:00"
+    - type: "talk session"
+      name: "Talk Session 6"
+      - time: "12:00-12:40"
+        talk: null
+      - time: "12:40-13:20"
+        talk: null

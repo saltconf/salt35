@@ -10,9 +10,9 @@
   url: /salted/
   relative: true
 
-# - title: Registration
-#   url: /registration/
-#   relative: true
+- title: Registration
+  url: /registration/
+  relative: true
 
 # - title: Program
 #   url: /conference-program/
