@@ -8,4 +8,3 @@ sass:
 
 exclude:
 - conference-program/*
-- registration/*
