@@ -1,104 +1,113 @@
-keynotes:
-  - name: "Jessica Rett"
-    institution: "University of California, Los Angeles"
-    website: "https://linguistics.ucla.edu/people/Rett/"
-  - name: "Kyle Rawlins"
-    institution: "Johns Hopkins University"
-    website: "https://rawlins.io/"
-  - name: "Robert Henderson"
-    institution: "University of Arizona"
-    website: "https://www.rhenderson.net/"
-  - name: "<s>Judith Degen</s>"
-    institution: "<s>Stanford University</s>"
-    website: "https://thegricean.github.io/"
-  
-talks: null
-posters: null
-
-# days:
-#   - events:
-#     - type: "talk session"
-#       name: "Talk Session 1"
-#       - time: "9:00-9:40"
-#         talk: null
-#       - time: "9:40-10:20"
-#         talk: null
-#       - time: "10:20-11:00"
-#         talk: null
-#     - type: "break"
-#       time: "11:00-11:20"
-#     - type: "workshop"
-#       name: "SALTED Workshop"
-#       time: "11:20-12:50"
-#     - type: "lunch"
-#       time: "12:50-14:00"
-#     - type: "invited talk"
-#       time: "14:00-15:00"
-#       talk: rett
-#     - type: "break"
-#       time: "15:00-15:30"
-#     - type: "talk session"
-#       name: "Talk Session 2"
-#       - time: "15:30-16:10"
-#         talk: null
-#       - time: "16:10-16:50"
-#         talk: null
-#       - time: "16:50-17:30"
-#         talk: null
-#   - events:
-#     - type: "talk session"
-#       name: "Talk Session 3"
-#       - time: "9:00-9:40"
-#         talk: null
-#       - time: "9:40-10:20"
-#         talk: null
-#       - time: "10:20-11:00"
-#         talk: null
-#     - type: "break"
-#       time: "11:00-11:20"
-#     - type: "lightning talk session"
-#       name: "Lightning Talk Session A"
-#       time: "11:20-12:00"
-#     - type: "break"
-#       time: "12:00-12:20"
-#     - type: "lightning talk session"
-#       name: "Lightning Talk Session B"
-#       time: "12:20-13:00"
-#     - type: "lunch"
-#       time: "13:00-14:00"
-#     - type: "invited talk"
-#       time: "14:00-15:00"
-#       talk: rawlins
-#     - type: "break"
-#       time: "15:00-15:30"
-#     - type: "talk session"
-#       name: "Talk Session 4"
-#       - time: "15:30-16:10"
-#         talk: null
-#       - time: "16:10-16:50"
-#         talk: null
-#       - time: "16:50-17:30"
-#         talk: null
-#     - type: "poster session"
-#       name: "Poster Session"
-#       time: "17:40-19:30"
-#   - events:
-#     - type: "talk session"
-#       name: "Talk Session 5"
-#       - time: "9:00-9:40"
-#         talk: null
-#       - time: "9:40-10:20"
-#         talk: null
-#     - type: "break"
-#       time: "10:20-10:40"
-#     - type: "invited talk"
-#       time: "10:40-11:40"
-#       talk: henderson
-#     - type: "break"
-#       time: "11:40-12:00"
-#     - type: "talk session"
-#       name: "Talk Session 6"
-#       - time: "12:00-12:40"
-#         talk: null
-#       - time: "12:40-13:20"
-#         talk: null
+- day: tuesday
+  date: Tuesday, March 28
+  events:
+  - type: break
+    name: Registration
+    time: "8:00–8:45"
+  - type: admin
+    name: Welcome
+    time: "8:45–9:00"
+  - type: talk_session
+    name: "Talk Session 1"
+    subevents:
+    - time: "9:00-9:40"
+      talkid: roberts_double
+    - time: "9:40-10:20"
+      talkid: banerjee_accounting
+    - time: "10:20-11:00"
+      talkid: wang_tiered
+  - type: break
+    name: Coffee Break
+    time: "11:00-11:20"
+  - type: workshop
+    name: "Spotlighting sign languages in semantics"
+    time: "11:20-12:50"
+  - type: break
+    name: Lunch
+    time: "12:50-14:00"
+  - type: keynote
+    time: "14:00-15:00"
+    talkid: rett_characterizing
+  - type: break
+    name: Coffee Break
+    time: "15:00-15:30"
+  - type: talk_session
+    name: "Talk Session 2"
+    subevents:
+    - time: "15:30-16:10"
+      talkid: rouillard_note
+    - time: "16:10-16:50"
+      talkid: yip_only
+    - time: "16:50-17:30"
+      talkid: amiraz_evidence
+- day: wednesday
+  date: Wednesday, March 29
+  events:
+  - type: talk_session
+    name: "Talk Session 3"
+    subevents:
+    - time: "9:00-9:40"
+      talkid: romero_mood
+    - time: "9:40-10:20"
+      talkid: flor_coarse
+    - time: "10:20-11:00"
+      talkid: gatchalian_optional
+  - type: break
+    name: Coffee Break
+    time: "11:00-11:20"
+  - type: lightning
+    name: "Lightning Talk Session A"
+    time: "11:20-12:00"
+  - type: break
+    name: Coffee Break
+    time: "12:00-12:20"
+  - type: lightning
+    name: "Lightning Talk Session B"
+    time: "12:20-13:00"
+  - type: break
+    name: Lunch
+    time: "13:00-14:00"
+  - type: keynote
+    time: "14:00-15:00"
+    talkid: rawlins_asking
+  - type: break
+    name: Coffee Break
+    time: "15:00-15:30"
+  - type: talk_session
+    name: "Talk Session 4"
+    subevents:
+    - time: "15:30-16:10"
+      talkid: lecavelier_question
+    - time: "16:10-16:50"
+      talkid: bassi_pathological
+    - time: "16:50-17:30"
+      talkid: bondarenko_javanese
+  - type: poster
+    name: "Poster Session"
+    time: "17:40-19:30"
+- day: thursday
+  date: Thursday, March 29
+  events:
+  - type: talk_session
+    name: "Talk Session 5"
+    subevents:
+    - time: "9:00-9:40"
+      talkid: bade_more
+    - time: "9:40-10:20"
+      talkid: krifka_number
+  - type: break
+    name: Coffee Break
+    time: "10:20-10:40"
+  - type: keynote
+    time: "10:40-11:40"
+    talkid: henderson_morphosemantics
+  - type: break
+    name: Coffee Break
+    time: "11:40-12:00"
+  - type: talk_session
+    name: "Talk Session 6"
+    subevents:
+    - time: "12:00-12:40"
+      talkid: mayr_non-de
+    - time: "12:40-13:20"
+      talkid: kaiser_morphology

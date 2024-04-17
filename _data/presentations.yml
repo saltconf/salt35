@@ -1,0 +1,206 @@
+keynotes:
+  rett_characterizing:
+    authors:
+    - jessica_rett
+    title: Characterizing illocutionary content
+  rawlins_asking:
+    authors:
+    - kyle_rawlins
+    title: Asking questions
+  henderson_morphosemantics:
+    authors:
+    - robert_henderson
+    title: The morphosemantics of incremental plurality
+  degen_null:
+    authors:
+    - judith_degen
+    title: null
+  
+
+talks:
+  amiraz_evidence:
+    authors:
+    - omri_amiraz
+    title: Evidence for projection of cleft exhaustivity
+  bade_more:
+    authors:
+    - nadine_bade
+    title: More experimental evidence on the triggering problem for presuppositions
+  banerjee_accounting:
+    authors:
+    - ushasi_banerjee
+    title: Accounting for counting (crosslinguistically)
+  bassi_pathological:
+    authors:
+    - itai_bassi
+    title: Pathological questions, focus, and unacceptable ellipsis
+  bondarenko_javanese:
+    authors:
+    - tatiana_bondarenko
+    title: 'Javanese Veridicality Mismatches: Q-to-P reduction amid uniformity'
+  flor_coarse:
+    authors:
+    - enrico_flor
+    title: Coarse modality with Italian <i>magari</i>
+  gatchalian_optional:
+    authors:
+    - terrance_gatchalian
+    title: Optional Past Tenses in Kanien'kéha
+  kaiser_morphology:
+    authors:
+    - elsi_kaiser
+    title: 'Morphology and scale structure: On -ish in Finnish'
+  krifka_number:
+    authors:
+    - manfred_krifka
+    - fereshteh_modarresi
+    title: 'Number agreement of coordinated subjects: Competing syntactic and semantic rules'
+  lecavelier_question:
+    authors:
+    - jeanne_lecavelier
+    - malte_zimmermann
+    title: 'Question embedding without wh-interrogatives: A unified account'
+  mayr_non-de:
+    authors:
+    - clemens_mayr
+    - viola_schmitt
+    title: Non-de dicto construals as a uniform phenomenon
+  roberts_double:
+    authors:
+    - tom_roberts
+    title: 'Double counting: The semantics of numerals and number in Estonian'
+  romero_mood:
+    authors:
+    - maribel_romero
+    title: 'Mood across constructions: A unified approach'
+  rouillard_note:
+    authors:
+    - vincent_rouillard
+    title: A note on <i>any</i> and simplification
+  wang_tiered:
+    authors:
+    - ruoan_wang
+    title: "Tiered honorification in Eastern Indo-Aryan: [HON]-less, and also presuppositionless"
+  yip_only:
+    authors:
+    - ka-fai_yip
+    title: 'Only <i>only</i> only: A distributed meaning approach to exclusive doubling'
+
+posters:
+  abraham_donkey:
+    authors:
+    - anand_abraham
+    title: Donkey anaphora is complicated, but quantifiers don't have to be
+  akolkar_blocking:
+    authors:
+    - shweta_akolkar
+    title: Blocking <i>de re</i> readings across a perspectival domain
+  aonuki_third:
+    authors:
+    - yurika_aonuki
+    title: A third option in the degreeful-degreeless dichotomy
+  armenante_temporal:
+    authors:
+    - giuliano_armenante
+    title: 'Temporal de Re and semantic variation: Composing simultaneity in Asante Twi'
+  berulava_bare:
+    authors:
+    - tamari_berulava
+    - clemens_mayr
+    title: Bare plurals in articleless languages as weak definites
+  esipova_prosody:
+    authors:
+    - maria_esipova
+    title: Prosody across sentence types
+  goodale_sense:
+    authors:
+    - michael_eric_goodale
+    title: Sense as sampling propensity
+  haug_deriving:
+    authors:
+    - dag_trygve_truslew_haug
+    - daniel_altshuler
+    title: Deriving the paradoxical effects of metalepsis
+  hohaus_scope:
+    authors:
+    - vera_hohaus
+    - ryan_walter_smith
+    title: Scope, monotonicity and maximal informativity cannot be underestimated! A compositional analysis of an apparent linguistic illusion
+  kobayashi_minimal:
+    authors:
+    - filipe_hisao_kobayashi
+    title: A minimal account of pair-list readings
+  kobayashi_quantification:
+    authors:
+    - filipe_hisao_kobayashi
+    - enrico_flor
+    title: Quantification Uncovered
+  mchugh_new:
+    authors:
+    - dean_mchugh
+    - tomasz_klochowicz
+    title: New experimental evidence against the similarity approach to conditionals
+  müller_making:
+    authors:
+    - kalle_müller
+    title: Making claims, decisions, and other things
+  nicolae_exceptives:
+    authors:
+    - andreea_nicolae
+    - aron_hirsch
+    - anamaria_falaus
+    title: 'Exceptives under negation: Strengthening the case for p-Exh'
+  oney_quantificational:
+    authors:
+    - burak_oney
+    title: On the quantificational force of negative sensitive items in Turkish
+  palucci_pseudo-scoping:
+    authors:
+    - jonathan_palucci
+    title: 'Pseudo-scoping out of relative clauses: An individual concept approach'
+  ronai_embedded:
+    authors:
+    - eszter_ronai
+    title: Embedded scalar diversity
+  saha_mandarin:
+    authors:
+    - ankana_saha
+    - yagmur_sag
+    - jian_cui
+    - kathryn_davidson
+    title: Mandarin demonstratives as strong definites
+  sandoval_as:
+    authors:
+    - starr_sandoval
+    title: <i>As</i> phrases as a window onto multidimensionality
+  santorio_time-relative:
+    authors:
+    - paolo_santorio
+    title: 'Time-relative counterfactuality: Future-less-vivid conditionals and the modal Past'
+  swanson_real-time:
+    authors:
+    - elizabeth_swanson
+    - hugh_rabagliati
+    - alex_de_carvalho
+    title: Real-time comprehension of connectives by preschool children and adults
+  walter_indirect:
+    authors:
+    - sebastian_walter
+    title: 'Indirect discourse as mixed quotation: Evidence from self pointing gestures'
+  wang_exceptional:
+    authors:
+    - huilei_wang
+    title: Exceptional scope out of finite complement clauses
+  xu_demonstratives:
+    authors:
+    - jingying_xu
+    - cristina_schmitt
+    title: 'Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults'
+  yagi_cross-linguisitc:
+    authors:
+    - yusuke_yagi
+    title: Cross-Linguistic variations in disjunction explained in two-dimensional semantics
+  zeijlstra_trivial:
+    authors:
+    - hedde_zeijlstra
+    title: A trivial problem

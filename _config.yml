@@ -5,6 +5,3 @@ baseurl: /salt34
 
 sass:
     sass_dir: _sass
-
-exclude:
-- conference-program/*
