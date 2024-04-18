@@ -1,0 +1,7 @@
+---
+talkid: krifka_number
+group: talks
+layout: abstract
+---
+
+We provide experimental results on subject agreement to coordinated subjects in German. While conjunctive referential DPs like (English translations) the tenant and the guest trigger plural agreement, disjunctive referential DPs like the tenant or the guest and conjunctive singular universal DPs like every tenant and every guest also allow for singular agreement. We explain this by assuming (i) a preference for interpreting and as sum formation for conjunctive referential DPs (as contrasted to type-lifting to quantifiers and Boolean conjunction) and two competing subject agreement rules: (ii) a syntactic rule triggering plural agreement for all coordinated subjects and (iii) a semantic rule that triggers singular agreement when the argument consists of one atom, and plural agreement when the agreement consists of more than one atom. This predicts the observed agreement patterns: the tenant and the guest lead to sum information (i), and both (ii) and (iii) result in plural agreement, whereas the tenant or the guest and every tenant an every guest are not interpreted as sums but as quantifier conjunctions, where (ii) results in plural agreement whereas (iii) results in singular agreement. We also show how enforced Boolean coordination in the tenant and every guest and both the tenant and the guest leads to singular agreement, and type shifting enforced by reciprocal predicates in every tenant and every guest like each other leads to plural agreement.

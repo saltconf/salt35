@@ -28,69 +28,101 @@ talks:
     authors:
     - omri_amiraz
     title: Evidence for projection of cleft exhaustivity
+    abstract_pdf: false
+    abstract_md: false
   bade_more:
     authors:
     - nadine_bade
     title: More experimental evidence on the triggering problem for presuppositions
+    abstract_pdf: false
+    abstract_md: true 
   banerjee_accounting:
     authors:
     - ushasi_banerjee
     title: Accounting for counting (crosslinguistically)
+    abstract_pdf: false
+    abstract_md: true 
   bassi_pathological:
     authors:
     - itai_bassi
     title: Pathological questions, focus, and unacceptable ellipsis
+    abstract_pdf: false
+    abstract_md: true 
   bondarenko_javanese:
     authors:
     - tatiana_bondarenko
     title: 'Javanese Veridicality Mismatches: Q-to-P reduction amid uniformity'
+    abstract_pdf: false
+    abstract_md: true 
   flor_coarse:
     authors:
     - enrico_flor
     title: Coarse modality with Italian <i>magari</i>
+    abstract_pdf: false
+    abstract_md: true 
   gatchalian_optional:
     authors:
     - terrance_gatchalian
     title: Optional Past Tenses in Kanien'kéha
+    abstract_pdf: false
+    abstract_md: true 
   kaiser_morphology:
     authors:
     - elsi_kaiser
     title: 'Morphology and scale structure: On -ish in Finnish'
+    abstract_pdf: false
+    abstract_md: true 
   krifka_number:
     authors:
     - manfred_krifka
     - fereshteh_modarresi
     title: 'Number agreement of coordinated subjects: Competing syntactic and semantic rules'
+    abstract_pdf: false
+    abstract_md: true 
   lecavelier_question:
     authors:
     - jeanne_lecavelier
     - malte_zimmermann
     title: 'Question embedding without wh-interrogatives: A unified account'
+    abstract_pdf: false
+    abstract_md: true 
   mayr_non-de:
     authors:
     - clemens_mayr
     - viola_schmitt
-    title: Non-de dicto construals as a uniform phenomenon
+    title: Non-<i>de dicto</i> construals as a uniform phenomenon
+    abstract_pdf: false
+    abstract_md: true 
   roberts_double:
     authors:
     - tom_roberts
     title: 'Double counting: The semantics of numerals and number in Estonian'
+    abstract_pdf: false
+    abstract_md: true 
   romero_mood:
     authors:
     - maribel_romero
     title: 'Mood across constructions: A unified approach'
+    abstract_pdf: false
+    abstract_md: true 
   rouillard_note:
     authors:
     - vincent_rouillard
     title: A note on <i>any</i> and simplification
+    abstract_pdf: false
+    abstract_md: true 
   wang_tiered:
     authors:
     - ruoan_wang
     title: "Tiered honorification in Eastern Indo-Aryan: [HON]-less, and also presuppositionless"
+    abstract_pdf: false
+    abstract_md: true 
   yip_only:
     authors:
     - ka-fai_yip
     title: 'Only <i>only</i> only: A distributed meaning approach to exclusive doubling'
+    abstract_pdf: false
+    abstract_md: true 
 
 posters:
   abraham_donkey:

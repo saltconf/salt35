@@ -1,0 +1,7 @@
+---
+talkid: yip_only
+group: talks
+layout: abstract
+---
+
+Cross-linguistically, exclusive particles 'only' may be doubled with a single focus association, giving rise to an apparent syntax-semantics mismatch. Focuses on an understudied case of doubling of exclusive adverbial particles and sentence-final particles (SFPs) in Cantonese, this study refines the operator-particle analysis (Quek & Hirsch 2017, a.o.) and argues for a novel view where exclusive doubling instantiates scalar focus structure. I propose that the adverbial particle encodes at-issue exclusive meaning (i.e., the operator) and the SFP encodes not-at-issue scalar meaning. I further suggest that the higher SFP accesses the lower alternative set of propositions C (Rooth 1992) taken by the adverbial particle via co-indexation of C, which is enforced by a syntactic Agree relation between the two particles. This view reconciles the role of syntax and semantics in exclusive doubling, and implicates that there is more than one way to access lower alternatives across another focus operator (cf. Fox 2007, Bade & Sachs 2019). I also discuss how the scalar focus account extends to other languages like Mandarin and Vietnamese, as well as other types of exclusive doubling that involve adfocal particles.
