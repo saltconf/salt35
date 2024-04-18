@@ -80,7 +80,7 @@ Talk sessions and on-site registration will take place on the first floor of [We
     {% elsif event.type == "lightning" %}
     <tr class="posterChairinfo"><td colspan="3">Lightning Talk Session</td></tr>
     <tr class="postertalk">
-      <td class="time">10:15-11:00</td>
+      <td class="time">{{ event.time }}</td>
       <td class="title" colspan="2">
         <span id="light{{ lightning_bin_str }}PosterArr" class="collapsed"></span>
         <a id="light{{ lightning_bin_str }}PosterSwitch" href="javascript:void(0)" onclick="lightning('posterInfoLight{{ lightning_bin_str }}', 'light{{ lightning_bin_str }}PosterArr')">{{ event.name }}</a>
