@@ -18,10 +18,6 @@
   url: /registration/
   relative: true
 
-# - title: Program
-#   url: /conference-program/
-#   relative: true
-
 - title: Local information
   url: /local-information/
   relative: true
