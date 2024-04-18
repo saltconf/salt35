@@ -3,9 +3,22 @@ title: Program
 layout: default
 ---
 
+<script type="text/javascript">
+   function lightning(cls, arr) {
+       var rows = document.getElementsByClassName(cls);
+       for (var i = 0; i < rows.length; i++) {
+	         rows[i].classList.toggle("hidden");
+       }
+       document.getElementById(arr).classList.toggle("collapsed");
+   }
+</script>
+
 <p>
   <b>NB:</b> This schedule is preliminary and subject to change. Abstracts will be made available in the near future.
 </p>
+
+{% assign lightning_bin = 0 %}
+{% assign lightning_bin_str = "One" %}
 
 {% for day in site.data.program %}
 
@@ -55,16 +68,26 @@ layout: default
     <tr class="postertalk">
       <td class="time">10:15-11:00</td>
       <td class="title" colspan="2">
-        <!-- <span id="lightOnePosterArr" class="collapsed"></span> -->
-        {{ event.name }}
-        <!-- <a id="lightOnePosterSwitch" href="javascript:void(0)" onclick="lightning('posterInfoLightOne', 'lightOnePosterArr')">{{ event.name }}</a> -->
+        <span id="light{{ lightning_bin_str }}PosterArr" class="collapsed"></span>
+        <a id="light{{ lightning_bin_str }}PosterSwitch" href="javascript:void(0)" onclick="lightning('posterInfoLight{{ lightning_bin_str }}', 'light{{ lightning_bin_str }}PosterArr')">{{ event.name }}</a>
       </td>
     </tr>
-    <!-- <tr class="posterInfoLightOne hidden">
-      <td class="time">&nbsp;</td>
-      <td class="title"><a href="abstracts/mascarenhas-picat-salt29-abstract.pdf">'Might' as a generator of alternatives: the view from reasoning</a></td>
-      <td class="authors">Salvador Mascarenhas and Léo Picat</td>
-    </tr> -->
+    {% for posterinfo in site.data.presentations.posters %}
+      {% if lightning_bin == posterinfo[1].lightning_bin %}
+      <tr class="posterInfoLight{{ lightning_bin_str }} hidden">
+        <td class="time">&nbsp;</td>
+        <td class="title">{{ posterinfo[1].title }}</td>
+        <td class="authors">
+        {% for authorid in posterinfo[1].authors %}
+          {% assign author = site.data.people[authorid] %}
+          {{ author.name }} {% unless forloop.last %}<br/>{% endunless %}
+        {% endfor %}
+        </td>
+      </tr>
+      {% endif %}
+    {% endfor %}
+    {% assign lightning_bin = 1 %}
+    {% assign lightning_bin_str = "Two" %}
     {% elsif event.type == "poster" %}
     <tr class="posterChairinfo"><td colspan="3">Poster Session</td></tr>
     <tr class="postertalk">

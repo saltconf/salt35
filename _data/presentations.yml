@@ -91,77 +91,94 @@ posters:
     authors:
     - anand_abraham
     title: Donkey anaphora is complicated, but quantifiers don't have to be
+    lightning_bin: 0
   akolkar_blocking:
     authors:
     - shweta_akolkar
     title: Blocking <i>de re</i> readings across a perspectival domain
+    lightning_bin: 0
   aonuki_third:
     authors:
     - yurika_aonuki
     title: A third option in the degreeful-degreeless dichotomy
+    lightning_bin: 0
   armenante_temporal:
     authors:
     - giuliano_armenante
     title: 'Temporal de Re and semantic variation: Composing simultaneity in Asante Twi'
+    lightning_bin: 0
   berulava_bare:
     authors:
     - tamari_berulava
     - clemens_mayr
     title: Bare plurals in articleless languages as weak definites
+    lightning_bin: 0
   esipova_prosody:
     authors:
     - maria_esipova
     title: Prosody across sentence types
+    lightning_bin: 0
   goodale_sense:
     authors:
     - michael_eric_goodale
     title: Sense as sampling propensity
+    lightning_bin: 0
   haug_deriving:
     authors:
     - dag_trygve_truslew_haug
     - daniel_altshuler
     title: Deriving the paradoxical effects of metalepsis
+    lightning_bin: 0
   hohaus_scope:
     authors:
     - vera_hohaus
     - ryan_walter_smith
     title: Scope, monotonicity and maximal informativity cannot be underestimated! A compositional analysis of an apparent linguistic illusion
+    lightning_bin: 0
   kobayashi_minimal:
     authors:
     - filipe_hisao_kobayashi
     title: A minimal account of pair-list readings
+    lightning_bin: 0
   kobayashi_quantification:
     authors:
     - filipe_hisao_kobayashi
     - enrico_flor
     title: Quantification Uncovered
+    lightning_bin: 1
   mchugh_new:
     authors:
     - dean_mchugh
     - tomasz_klochowicz
     title: New experimental evidence against the similarity approach to conditionals
+    lightning_bin: 0
   müller_making:
     authors:
     - kalle_müller
     title: Making claims, decisions, and other things
+    lightning_bin: 0
   nicolae_exceptives:
     authors:
     - andreea_nicolae
     - aron_hirsch
     - anamaria_falaus
     title: 'Exceptives under negation: Strengthening the case for p-Exh'
+    lightning_bin: 1
   oney_quantificational:
     authors:
     - burak_oney
     title: On the quantificational force of negative sensitive items in Turkish
+    lightning_bin: 1
   palucci_pseudo-scoping:
     authors:
     - jonathan_palucci
     title: 'Pseudo-scoping out of relative clauses: An individual concept approach'
+    lightning_bin: 1
   ronai_embedded:
     authors:
     - eszter_ronai
     title: Embedded scalar diversity
+    lightning_bin: 0
   saha_mandarin:
     authors:
     - ankana_saha
@@ -169,38 +186,47 @@ posters:
     - jian_cui
     - kathryn_davidson
     title: Mandarin demonstratives as strong definites
+    lightning_bin: 1
   sandoval_as:
     authors:
     - starr_sandoval
     title: <i>As</i> phrases as a window onto multidimensionality
+    lightning_bin: 1
   santorio_time-relative:
     authors:
     - paolo_santorio
-    title: 'Time-relative counterfactuality: Future-less-vivid conditionals and the modal Past'
+    title: 'Time-relative counterfactuality: Future-less-vivid conditionals and the modal past'
+    lightning_bin: 1
   swanson_real-time:
     authors:
     - elizabeth_swanson
     - hugh_rabagliati
     - alex_de_carvalho
     title: Real-time comprehension of connectives by preschool children and adults
+    lightning_bin: 1
   walter_indirect:
     authors:
     - sebastian_walter
     title: 'Indirect discourse as mixed quotation: Evidence from self pointing gestures'
+    lightning_bin: 1
   wang_exceptional:
     authors:
     - huilei_wang
     title: Exceptional scope out of finite complement clauses
+    lightning_bin: 1
   xu_demonstratives:
     authors:
     - jingying_xu
     - cristina_schmitt
     title: 'Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults'
+    lightning_bin: 1
   yagi_cross-linguisitc:
     authors:
     - yusuke_yagi
     title: Cross-Linguistic variations in disjunction explained in two-dimensional semantics
+    lightning_bin: 1
   zeijlstra_trivial:
     authors:
     - hedde_zeijlstra
     title: A trivial problem
+    lightning_bin: 1
