@@ -19,9 +19,10 @@ judith_degen:
   - <s>Stanford University</s>
   website: "https://thegricean.github.io/"
 alex_de_carvalho:
-  institutions: []
+  institutions:
+  - CNRS
   name: Alex de Carvalho
-  website: null
+  website: http://www.lscp.net/persons/decarvalho/
 anamaria_falaus:
   institutions:
   - CNRS
