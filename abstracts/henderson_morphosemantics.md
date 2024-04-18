@@ -1,4 +1,7 @@
-# The morphosemantics of incremental plurality
+---
+talkid: henderson_morphosemantics
+layout: abstract
+---
 
 An areal feature of indigenous languages of the Southwest United States and Northwest Mexico are morphologically complex systems of plura(actiona)lity. In particular, there are multiple instances of unrelated languages implementing *scale-based plura(actiona)lity*---that is, there is no one-to-one mapping between exponents and plural meanings (e.g., Seri (Baerman 2016), Hualapai (Baerman 2019), Salinan (Baerman 2024), etc.). Instead, these langauages have a list of plural meanings ordered by some notion of "more plural" (call it <ₛ for semantic order), along with a list of exponents ordered by some morphosyntactically defined order (call it <ₘ for morphological order). Paradigms are well-formed as long as these orders are in scale alignment. More precisely, α <ₘ β iff ⟦α⟧ <ₛ ⟦β⟧.
 

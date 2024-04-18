@@ -3,14 +3,20 @@ keynotes:
     authors:
     - jessica_rett
     title: Characterizing illocutionary content
+    abstract_pdf: true
+    abstract_md: false 
   rawlins_asking:
     authors:
     - kyle_rawlins
     title: Asking questions
+    abstract_pdf: false
+    abstract_md: true 
   henderson_morphosemantics:
     authors:
     - robert_henderson
     title: The morphosemantics of incremental plurality
+    abstract_pdf: false
+    abstract_md: true 
   degen_null:
     authors:
     - judith_degen

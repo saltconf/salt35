@@ -1,0 +1,41 @@
+{% assign talkinfo = site.data.presentations.keynotes[page.talkid] %}
+
+<head>
+    <title>SALT34 ▪{{ talkinfo.title }}</title>
+    {% include head.html %}
+</head>
+<html>
+    <body>
+        <div class="container" >
+            <div class="row" >
+                {% include logo.html %}
+
+                <div class="row" >
+                    <div id="nav" class="three columns" >
+                        <ul>
+                            {% for item in site.data.navigation %}
+                            <li>
+                                <a href={% if item.relative %} "{{ item.url | relative_url }}" {% else %} "{{ item.url }}" {% endif %} {% if page.url == item.url %}class="current"{% endif %}>{{ item.title }}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <div id="content" class="nine columns" >
+                        <h2>{{ talkinfo.title }}</h2>
+                        {% for authorid in talkinfo.authors %}
+                        {% assign author = site.data.people[authorid] %}
+                        {% if author.website != null %}
+                        <a class="authorwebsite" href="{{ author.website }}">{{ author.name }}</a> ({{ author.institutions | join: ", " }})
+                        {% else %}
+                        {{ author.name }} ({{ author.institutions | join: ", " }})
+                        {% endif %}
+                        {% unless forloop.last %}<br/>{% endunless %}
+                        {% endfor %}
+                        <br/><br/>
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

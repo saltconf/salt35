@@ -57,7 +57,13 @@ Talk sessions and on-site registration will take place on the first floor of [We
     <tr class="invitedChairinfo"><td colspan="3">Invited Talk</td></tr>
     <tr class="invited">
       <td class="time">{{ event.time }}</td>
+      {% if talkinfo.abstract_md %}
+      <td class="title"><a href="/salt34/abstracts/{{ event.talkid }}.html">{{ talkinfo.title }}</a></td>
+      {% elsif talkinfo.abstract_pdf %}
+      <td class="title"><a href="/salt34/abstracts/{{ event.talkid }}.pdf">{{ talkinfo.title }}</a></td>
+      {% else %}
       <td class="title">{{ talkinfo.title }}</td>
+      {% endif %}
       <!-- <a href="abstracts/{{ talk.talkid }}">{{ talkinfo.title }}</a> -->
       <td class="authors">
         {% for authorid in talkinfo.authors %}
