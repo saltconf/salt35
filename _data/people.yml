@@ -120,9 +120,10 @@ hedde_zeijlstra:
   name: Hedde Zeijlstra
   website: http://heddezeijlstra.org
 hugh_rabagliati:
-  institutions: []
+  institutions:
+  - University of Edinburgh
   name: Hugh Rabagliati
-  website: null
+  website: http://www.psy.ed.ac.uk/homepages/the-rab-lab/
 huilei_wang:
   institutions:
   - University of California, Los Angeles
