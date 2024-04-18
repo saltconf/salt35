@@ -140,9 +140,10 @@ jeanne_lecavelier:
   name: Jeanne Lecavelier
   website: https://www.researchgate.net/profile/Jeanne_Lecavelier
 jian_cui:
-  institutions: []
+  institutions:
+  - Harvard University
   name: Jian Cui
-  website: null
+  website: https://cuicuiyou.github.io/
 jingying_xu:
   institutions:
   - Michigan State University
