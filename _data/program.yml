@@ -40,9 +40,15 @@
       talkid: yip_only
     - time: "16:50-17:30"
       talkid: amiraz_evidence
+  - type: break
+    name: Happy Hour at <a href="https://www.swandiveroc.com/">Swan Dive</a> (<a href="https://maps.app.goo.gl/29i6irEcZ5y4aazZ6">map</a>)
+    time: "18:00–20:00"
 - day: wednesday
   date: Wednesday, May 29
   events:
+  - type: break
+    name: Run starting from Hilton Garden Inn (<a href="https://maps.app.goo.gl/F9fQYrcn8GKsukNbA">map</a>)
+    time: "7:00–8:00"
   - type: talk_session
     name: "Talk Session 3"
     subevents:
@@ -83,7 +89,7 @@
     - time: "16:50-17:30"
       talkid: bondarenko_javanese
   - type: poster
-    name: "Poster Session"
+    name: Poster Session and Reception
     time: "17:40-19:30"
 - day: thursday
   date: Thursday, May 30
