@@ -18,7 +18,7 @@ All talks and posters at SALT34 will take place on the University of Rochester's
 Talk sessions and on-site registration will take place on the first floor of [Wegmans Hall](https://www.rochester.edu/college/ecm/locations/wegmans.html) (Room 1400; <a href="https://maps.app.goo.gl/erMSWCyUjNKpYigv7">map</a>), and coffee breaks will take place on the first floor of [Goergen Hall](https://www.rochester.edu/college/ecm/locations/goergen.html) (Munnerlyn Atrium; <a href="https://maps.app.goo.gl/PvRXJY6xbWBgUyxR8">map</a>). On Wednesday evening (May 29), there will be a reception concurrent with the poster session, both in <a href="https://www.rochester.edu/college/rettnerhall/facilities/atrium.html">Rettner Hall</a> (Rettner Atrium; <a href="https://maps.app.goo.gl/koZ8dDNAnxJNfjjdA">map</a>).
 
 <p>
-  <b>NB:</b> This schedule is preliminary and subject to change. Abstracts for posters will be made available in the near future.
+  <b>NB:</b> This schedule is preliminary and subject to change.
 </p>
 
 {% assign lightning_bin = 0 %}
@@ -102,7 +102,13 @@ Talk sessions and on-site registration will take place on the first floor of [We
       {% if lightning_bin == posterinfo[1].lightning_bin %}
       <tr class="posterInfoLight{{ lightning_bin_str }} hidden">
         <td class="time">&nbsp;</td>
+        {% if posterinfo[1].abstract_md %}
+        <td class="title"><a href="/salt34/abstracts/{{ posterinfo[0] }}.html">{{ posterinfo[1].title }}</a></td>
+        {% elsif posterinfo[1].abstract_pdf %}
+        <td class="title"><a href="/salt34/abstracts/{{ posterinfo[0] }}.pdf">{{ posterinfo[1].title }}</a></td>
+        {% else %}
         <td class="title">{{ posterinfo[1].title }}</td>
+        {% endif %}
         <td class="authors">
         {% for authorid in posterinfo[1].authors %}
           {% assign author = site.data.people[authorid] %}
