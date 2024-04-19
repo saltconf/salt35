@@ -51,7 +51,7 @@ talks:
   bondarenko_javanese:
     authors:
     - tatiana_bondarenko
-    title: 'Javanese Veridicality Mismatches: Q-to-P reduction amid uniformity'
+    title: 'Javanese veridicality mismatches: Q-to-P reduction amid uniformity'
     abstract_pdf: false
     abstract_md: true 
   flor_coarse:
@@ -143,7 +143,7 @@ posters:
   armenante_temporal:
     authors:
     - giuliano_armenante
-    title: 'Temporal de Re and semantic variation: Composing simultaneity in Asante Twi'
+    title: 'Temporal <i>de re</i> and semantic variation: Composing simultaneity in Asante Twi'
     lightning_bin: 0
   berulava_bare:
     authors:
