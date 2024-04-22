@@ -152,7 +152,7 @@ posters:
     title: 'Temporal <i>de re</i> and semantic variation: Composing simultaneity in Asante Twi'
     lightning_bin: 0
     abstract_pdf: false
-    abstract_md: false
+    abstract_md: true
   berulava_bare:
     authors:
     - tamari_berulava
