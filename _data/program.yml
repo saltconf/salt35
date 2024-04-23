@@ -24,21 +24,21 @@
     time: "11:20-12:50"
   - type: break
     name: Lunch
-    time: "12:50-14:00"
+    time: "12:50-14:20"
   - type: keynote
-    time: "14:00-15:00"
+    time: "14:20-15:20"
     talkid: rett_characterizing
   - type: break
     name: Coffee Break
-    time: "15:00-15:30"
+    time: "15:20-15:40"
   - type: talk_session
     name: "Talk Session 2"
     subevents:
-    - time: "15:30-16:10"
+    - time: "15:40-16:20"
       talkid: rouillard_note
-    - time: "16:10-16:50"
+    - time: "16:20-17:00"
       talkid: yip_only
-    - time: "16:50-17:30"
+    - time: "17:00-17:40"
       talkid: amiraz_evidence
   - type: break
     name: Happy Hour at <a href="https://www.swandiveroc.com/">Swan Dive</a> (<a href="https://maps.app.goo.gl/29i6irEcZ5y4aazZ6">map</a>)
@@ -72,25 +72,25 @@
     time: "12:20-13:00"
   - type: break
     name: Lunch
-    time: "13:00-14:00"
+    time: "13:00-14:30"
   - type: keynote
-    time: "14:00-15:00"
+    time: "14:30-15:30"
     talkid: rawlins_asking
   - type: break
     name: Coffee Break
-    time: "15:00-15:30"
+    time: "15:30-15:50"
   - type: talk_session
     name: "Talk Session 4"
     subevents:
-    - time: "15:30-16:10"
+    - time: "15:50-16:30"
       talkid: lecavelier_question
-    - time: "16:10-16:50"
+    - time: "16:30-17:10"
       talkid: bassi_pathological
-    - time: "16:50-17:30"
+    - time: "17:10-17:50"
       talkid: bondarenko_javanese
   - type: poster
     name: Poster Session and Reception
-    time: "17:40-19:30"
+    time: "18:00-19:30"
 - day: thursday
   date: Thursday, May 30
   events:
