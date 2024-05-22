@@ -55,7 +55,9 @@ On-campus parking in the [Library Lot](https://www.google.com/maps/place/Library
 
 ## Food and Drink
 
-Rochester has excellent culinary offerings, though they require a car to access. Some of our favorite restaurants are:
+The closest food to campus can be found in the [College Town](https://maps.app.goo.gl/8uQap6VjF385C5CcA) area, which is a 10-15 minute walk from Wegmans Hall. College Town is your best bet for a quick lunch on Tuesday and Wednesday.
+
+For a more leisurely lunch or dinner, there are a range of excellent culinary offerings a short drive from campus. Some of our favorite restaurants are:
 
 <div class="row" >
   <div class="one-half column" >
@@ -90,6 +92,25 @@ There are quite a few great vegetarian restaurants. Some of our favorites are:
   </div>
   <div class="one-half column" >
   <a href="https://redfernrochester.com/">Red Fern</a><br>283 Oxford St.<br>Rochester, NY 14607
+  </div>
+</div>
+
+A few good breakfast spots are:
+
+<div class="row" >
+  <div class="one-half column" >
+  <a href="https://www.highlandparkdinerny.com/">Highland Park Diner</a><br>960 S Clinton Ave.<br>Rochester NY, 14620
+  </div>
+  <div class="one-half column" >
+  <a href="http://www.jinesrestaurant.com/">Jines</a><br>658 Park Ave.<br>Rochester, NY 14607
+  </div>
+</div>
+<div class="row" >
+  <div class="one-half column" >
+  <a href="http://www.jimsonmain.com/">Jim's on Main</a><br>785 East Main St.<br>Rochester, NY 14605
+  </div>
+  <div class="one-half column" >
+  <a href="https://flourcitybread.com/">Flour City Bread</a><br>45 Public Market<br>Rochester, NY 14609
   </div>
 </div>
 
