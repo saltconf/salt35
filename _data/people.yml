@@ -17,7 +17,7 @@ judith_degen:
   name: <s>Judith Degen</s>
   institutions: 
   - <s>Stanford University</s>
-  website: "https://thegricean.github.io/"
+  website: null
 alex_de_carvalho:
   institutions:
   - CNRS
