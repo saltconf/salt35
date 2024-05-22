@@ -83,11 +83,11 @@
     name: "Talk Session 4"
     subevents:
     - time: "15:50-16:30"
-      talkid: lecavelier_question
-    - time: "16:30-17:10"
-      talkid: bassi_pathological
-    - time: "17:10-17:50"
       talkid: bondarenko_javanese
+    - time: "16:30-17:10"
+      talkid: lecavelier_question
+    - time: "17:10-17:50"
+      talkid: bassi_pathological
   - type: poster
     name: Poster Session and Reception
     time: "18:00-19:30"
