@@ -18,7 +18,7 @@ For questions or comments, please contact <span style="font-family: monospace">[
   {% assign speakerid = presentation[1].authors[0] %}
   {% assign speaker = site.data.people[speakerid] %}
   <li>
-    <a href="{{ speaker.website }}">{{ speaker.name }}</a> ({{ speaker.institutions | join: ", " }})
+    {% if speaker.website != null %}<a href="{{ speaker.website }}">{{ speaker.name }}</a>{% else %}{{ speaker.name }}{% endif %} ({{ speaker.institutions | join: ", " }})
   </li>
   {% endfor %}
 </ul>
