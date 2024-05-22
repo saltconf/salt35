@@ -15,11 +15,13 @@ For questions or comments, please contact <span style="font-family: monospace">[
 
 <ul id="speakers">
   {% for presentation in site.data.presentations.keynotes %}
-  {% assign speakerid = presentation[1].authors[0] %}
-  {% assign speaker = site.data.people[speakerid] %}
-  <li>
-    {% if speaker.website != null %}<a href="{{ speaker.website }}">{{ speaker.name }}</a>{% else %}{{ speaker.name }}{% endif %} ({{ speaker.institutions | join: ", " }})
-  </li>
+    {% if presentation[0] != "name" %}
+      {% assign speakerid = presentation[1].authors[0] %}
+      {% assign speaker = site.data.people[speakerid] %}
+      <li>
+        {% if speaker.website != null %}<a href="{{ speaker.website }}">{{ speaker.name }}</a>{% else %}{{ speaker.name }}{% endif %} ({{ speaker.institutions | join: ", " }})
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
 
@@ -64,12 +66,6 @@ For questions or comments, please contact <span style="font-family: monospace">[
 
 <hr/>
 
-<div class="row">
-  <div class="three columns" style="text-align: center;">
-    <img id="lsa-logo" alt="LSA" src="{{ "assets/images/lsa-logo.svg" | relative_url }}" />
-  </div>
-  <div class="nine columns">
-    <br/>
-    The Linguistic Society of America (LSA) is proud to sponsor SALT and to publish its <a href="https://journals.linguisticsociety.org/proceedings/index.php/SALT">proceedings</a>. Find out more about membership <a href="https://www.linguisticsociety.org/join">here</a>.
-  </div>
-</div>
+## Sponsors
+
+SALT34 is sponsored by the [University of Rochester Department of Linguistics](https://www.sas.rochester.edu/lin/) and the [Center for Language Sciences at the University of Rochester](https://www.sas.rochester.edu/cls/). The [Linguistic Society of America](https://www.lsadc.org/) publishes [the conference proceedings](https://journals.linguisticsociety.org/proceedings/index.php/SALT).

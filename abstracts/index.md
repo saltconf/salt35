@@ -4,7 +4,7 @@ layout: default
 ---
 
 {% for group in site.data.presentations %}
-  <h1>{{ group[0] | capitalize }}</h1>
+  <h1>{{ group[1].name }}<a id="{{ group[0] }}"></a></h1>
   <ul>
     {% for presentation in group[1] %}
       {% if presentation[1].title != null %}

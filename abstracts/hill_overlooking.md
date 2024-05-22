@@ -1,0 +1,7 @@
+---
+talkid: hill_overlooking
+group: salted
+layout: abstract
+---
+
+Like spoken languages, sign languages exhibit sociolinguistic variations and historical changes that are influenced by geographic and social factors that are typically observed in the sociolinguistic literature, for example, regions, age, gender, race, and education. Variation and change can be observed in different aspects of language including semantics, which can be seen in the use of different signs for the same concept, the iconicity of signs, the evolution of sign meanings over time, and the emergence of signs – all of which reflect cultural and institutional shifts and technological advancements. Unfortunately, semantic variation in sign language has not been studied as deeply as phonological, lexical, morphological, and syntactic variations as it often intersects or overlaps with the latter variations and it is limited by general scholarly interest and expertise. This presentation includes examples from the previous and current sociolinguistic variation projects that have been conducted by Joseph Hill and his colleagues including Ceil et al.’s (2001) sociolinguistic study of ASL and McCaskill et al.’s (2011) sociolinguistic study of Black ASL. Semantic variation could reveal a great deal of information in relation to the dynamic nature of sign languages. It also provides insights into the diverse experiences and choices of sign language users in their use of language.

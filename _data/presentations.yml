@@ -1,4 +1,5 @@
 keynotes:
+  name: Keynotes
   rett_characterizing:
     authors:
     - jessica_rett
@@ -22,8 +23,35 @@ keynotes:
     - judith_degen
     title: null
   
+salted:
+  name: SALTED
+  supalla_merits:
+    authors:
+    - ted_supalla
+    title: "Merits of a Historical Database: Connecting Meaning and Form Across the History of ASL"
+    abstract_pdf: false
+    abstract_md: true  
+  sampson_copulas:
+    authors:
+    - tory_sampson
+    title: "Copulas in ASL"
+    abstract_pdf: false
+    abstract_md: true    
+  davidson_bridging:
+    authors:
+    - kathryn_davidson
+    title: "Bridging formal semantics and sign linguistics: Projects, Pitfalls, Possibilities"
+    abstract_pdf: false
+    abstract_md: true
+  hill_overlooking:
+    authors:
+    - joseph_hill
+    title: "Overlooking Semantic Variation in Sign Languages in the U.S."
+    abstract_pdf: false
+    abstract_md: true 
 
 talks:
+  name: Talks
   amiraz_evidence:
     authors:
     - omri_amiraz
@@ -125,6 +153,7 @@ talks:
     abstract_md: true 
 
 posters:
+  name: Posters
   abraham_donkey:
     authors:
     - anand_abraham

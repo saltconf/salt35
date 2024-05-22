@@ -1,15 +1,15 @@
 jessica_rett:
-  name: "Jessica Rett"
+  name: Jessica Rett
   institutions:
   - UCLA
   website: "https://linguistics.ucla.edu/people/Rett/"
 kyle_rawlins:
-  name: "Kyle Rawlins"
+  name: Kyle Rawlins
   institutions:
   - Johns Hopkins University
   website: "https://rawlins.io/"
 robert_henderson:
-  name: "Robert Henderson"
+  name: Robert Henderson
   institutions:
   - University of Arizona
   website: "https://www.rhenderson.net/"
@@ -18,6 +18,26 @@ judith_degen:
   institutions: 
   - <s>Stanford University</s>
   website: null
+ted_supalla:
+  name: Ted Supalla
+  institutions:
+  - Georgetown University
+  website: "https://neurology.georgetown.edu/supalla/"
+tory_sampson:
+  name: Tory Sampson
+  institutions:
+  - Boston University
+  website: "https://sites.google.com/ucsd.edu/torysampson/"
+joseph_hill:
+  name: Joseph Hill
+  institutions:
+  - Rochester Institute of Technology
+  website: "https://www.josephchill.com/"
+kathryn_davidson:
+  name: Kathryn Davidson
+  institutions:
+  - Harvard University
+  website: "https://scholar.harvard.edu/kathryndavidson"
 alex_de_carvalho:
   institutions:
   - CNRS
