@@ -5,6 +5,15 @@ layout: default
 
 As part of SALT34, the SALT Equity and Diversity Committee (SALTED) and the SALT34 organizing committee will hold a workshop: *Spotlighting sign languages in semantics*. 
 
+The workshop will include a panel discussion with:
+
+<ul id="speakers">
+<li><a href="https://neurology.georgetown.edu/supalla/">Ted Supalla</a> (Georgetown University)</li>
+<li><a href="https://sites.google.com/ucsd.edu/torysampson/">Tory Sampson</a> (Boston University)</li>
+<li><a href="https://www.josephchill.com/">Joseph Hill</a> (Rochester Institute of Technology)</li>
+<li><a href="https://scholar.harvard.edu/kathryndavidson">Kathryn Davidson</a> (Harvard University)</li>
+</ul>
+
 Sign languages have an important role to play in generative linguistics and especially in semantics. For instance, features of logical vocabulary that have been posited based on indirect evidence from spoken languages are overtly realized in sign languages, thus giving us key insights into foundational issues in semantics (Schlenker 2018a,b, Schlenker et al. 2023, Zucchi 2012; among many others).
 
 At the same time, it is worth considering how to make academic spaces, such as conferences, more accessible to sign language users who are deaf or hard of hearing in order to facilitate more equitable participation in academic discourse. Providing access services for deaf participants is an important but challenging component of conference organization, often due to constraints of budget and qualified personnel.
