@@ -31,5 +31,3 @@ Accessibility
 - What barriers stand in the way of providing these access services?
 - How can conference organizers make their conferences as accessible as possible?
 - What resources are available for academics wanting to make their presentations more accessible?
-
-More information about the workshop will be available in the near future.
