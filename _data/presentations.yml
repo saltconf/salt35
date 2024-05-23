@@ -4,20 +4,17 @@ keynotes:
     authors:
     - jessica_rett
     title: Characterizing illocutionary content
-    abstract_pdf: true
-    abstract_md: false 
+    abstract: [pdf]
   rawlins_asking:
     authors:
     - kyle_rawlins
     title: Asking questions
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
   henderson_morphosemantics:
     authors:
     - robert_henderson
     title: The morphosemantics of incremental plurality
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
   degen_null:
     authors:
     - judith_degen
@@ -29,26 +26,22 @@ salted:
     authors:
     - ted_supalla
     title: "Merits of a Historical Database: Connecting Meaning and Form Across the History of ASL"
-    abstract_pdf: false
-    abstract_md: true  
+    abstract: [md]  
   sampson_copulas:
     authors:
     - tory_sampson
     title: "Copulas in ASL"
-    abstract_pdf: false
-    abstract_md: true    
+    abstract: [md]    
   davidson_bridging:
     authors:
     - kathryn_davidson
     title: "Bridging formal semantics and sign linguistics: Projects, Pitfalls, Possibilities"
-    abstract_pdf: false
-    abstract_md: true
+    abstract: [md]
   hill_overlooking:
     authors:
     - joseph_hill
     title: "Overlooking Semantic Variation in Sign Languages in the U.S."
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
 
 talks:
   name: Talks
@@ -56,101 +49,101 @@ talks:
     authors:
     - omri_amiraz
     title: Evidence for projection of cleft exhaustivity
-    abstract_pdf: false
-    abstract_md: false
+    abstract: []
+    talk_format: null
   bade_more:
     authors:
     - nadine_bade
     title: More experimental evidence on the triggering problem for presuppositions
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
   banerjee_accounting:
     authors:
     - ushasi_banerjee
     title: Accounting for counting (crosslinguistically)
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
   bassi_pathological:
     authors:
     - itai_bassi
     title: Pathological questions, focus, and unacceptable ellipsis
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
   bondarenko_javanese:
     authors:
     - tatiana_bondarenko
     title: 'Javanese veridicality mismatches: Q-to-P reduction amid uniformity'
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
   flor_coarse:
     authors:
     - enrico_flor
     title: Coarse modality with Italian <i>magari</i>
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
   gatchalian_optional:
     authors:
     - terrance_gatchalian
     title: Optional Past Tenses in Kanien'kéha
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
   kaiser_morphology:
     authors:
     - elsi_kaiser
     title: 'Morphology and scale structure: On -ish in Finnish'
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
   krifka_number:
     authors:
     - manfred_krifka
     - fereshteh_modarresi
     title: 'Number agreement of coordinated subjects: Competing syntactic and semantic rules'
-    abstract_pdf: false
-    abstract_md: true 
+    abstract_md: tru
+    talk_format: null 
   lecavelier_question:
     authors:
     - jeanne_lecavelier
     - malte_zimmermann
     title: 'Question embedding without wh-interrogatives: A unified account'
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
   mayr_non-de:
     authors:
     - clemens_mayr
     - viola_schmitt
     title: Non-<i>de dicto</i> construals as a uniform phenomenon
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
   roberts_double:
     authors:
     - tom_roberts
     title: 'Double counting: The semantics of numerals and number in Estonian'
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md]
+    talk_format: null 
   romero_mood:
     authors:
     - maribel_romero
     title: 'Mood across constructions: A unified approach'
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
   rouillard_note:
     authors:
     - vincent_rouillard
     title: A note on <i>any</i> and simplification
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
   wang_tiered:
     authors:
     - ruoan_wang
     title: "Tiered honorification in Eastern Indo-Aryan: [HON]-less, and also presuppositionless"
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
   yip_only:
     authors:
     - ka-fai_yip
     title: 'Only <i>only</i> only: A distributed meaning approach to exclusive doubling'
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    talk_format: null
 
 posters:
   name: Posters
@@ -159,90 +152,102 @@ posters:
     - anand_abraham
     title: Donkey anaphora is complicated, but quantifiers don't have to be
     lightning_bin: 0
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   akolkar_blocking:
     authors:
     - shweta_akolkar
     title: Blocking <i>de re</i> readings across a perspectival domain
     lightning_bin: 0
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   aonuki_third:
     authors:
     - yurika_aonuki
     title: "Comparatives and differential measure phrases without -er in Gitksan"
     lightning_bin: 0
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   armenante_temporal:
     authors:
     - giuliano_armenante
     title: 'Temporal <i>de re</i> and semantic variation: Composing simultaneity in Asante Twi'
     lightning_bin: 0
-    abstract_pdf: false
-    abstract_md: true
+    abstract: [md]
+    poster_format: null  
+    talk_format: null
   berulava_bare:
     authors:
     - tamari_berulava
     - clemens_mayr
     title: Bare plurals in articleless languages as weak definites
     lightning_bin: 0
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md]
+    poster_format: null  
+    talk_format: null 
   esipova_prosody:
     authors:
     - maria_esipova
     title: Prosody across sentence types
     lightning_bin: 0
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   goodale_sense:
     authors:
     - michael_eric_goodale
     title: Sense as sampling propensity
     lightning_bin: 0
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   haug_deriving:
     authors:
     - dag_trygve_truslew_haug
     - daniel_altshuler
     title: Deriving the paradoxical effects of metalepsis
     lightning_bin: 0
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md]
+    poster_format: pdf
+    talk_format: null  
   hohaus_scope:
     authors:
     - vera_hohaus
     - ryan_walter_smith
     title: Scope, monotonicity and maximal informativity cannot be underestimated! A compositional analysis of an apparent linguistic illusion
     lightning_bin: 0
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   kobayashi_quantification:
     authors:
     - filipe_hisao_kobayashi
     - enrico_flor
     title: Quantification Uncovered
     lightning_bin: 1
-    abstract_pdf: false
     abstract_md: false
+    poster_format: null  
+    talk_format: null
   mchugh_new:
     authors:
     - dean_mchugh
     - tomasz_klochowicz
     title: New experimental evidence against the similarity approach to conditionals
     lightning_bin: 0
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   müller_making:
     authors:
     - kalle_müller
     title: Making claims, decisions, and other things
     lightning_bin: 0
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   nicolae_exceptives:
     authors:
     - andreea_nicolae
@@ -250,29 +255,33 @@ posters:
     - anamaria_falaus
     title: 'Exceptives under negation: Strengthening the case for p-Exh'
     lightning_bin: 1
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   oney_quantificational:
     authors:
     - burak_oney
     title: On the quantificational force of negative sensitive items in Turkish
     lightning_bin: 1
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   palucci_pseudo-scoping:
     authors:
     - jonathan_palucci
     title: 'Pseudo-scoping out of relative clauses: An individual concept approach'
     lightning_bin: 1
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   ronai_embedded:
     authors:
     - eszter_ronai
     title: Embedded scalar diversity
     lightning_bin: 0
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   saha_mandarin:
     authors:
     - ankana_saha
@@ -281,22 +290,25 @@ posters:
     - kathryn_davidson
     title: Mandarin demonstratives as strong definites
     lightning_bin: 1
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md]
+    poster_format: null  
+    talk_format: null 
   sandoval_as:
     authors:
     - starr_sandoval
     title: <i>As</i> phrases as a window onto multidimensionality
     lightning_bin: 1
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   santorio_time-relative:
     authors:
     - paolo_santorio
     title: 'Time-relative counterfactuality: Future-less-vivid conditionals and the modal past'
     lightning_bin: 1
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   swanson_real-time:
     authors:
     - elizabeth_swanson
@@ -304,41 +316,47 @@ posters:
     - alex_de_carvalho
     title: Real-time comprehension of connectives by preschool children and adults
     lightning_bin: 1
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   walter_indirect:
     authors:
     - sebastian_walter
     title: 'Indirect discourse as mixed quotation: Evidence from self pointing gestures'
     lightning_bin: 1
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   wang_exceptional:
     authors:
     - huilei_wang
     title: Exceptional scope out of finite complement clauses
     lightning_bin: 1
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md]
+    poster_format: null  
+    talk_format: null 
   xu_demonstratives:
     authors:
     - jingying_xu
     - cristina_schmitt
     title: 'Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults'
     lightning_bin: 1
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md]
+    poster_format: null  
+    talk_format: null
   yagi_cross-linguistic:
     authors:
     - yusuke_yagi
     title: Cross-Linguistic variations in disjunction explained in two-dimensional semantics
     lightning_bin: 1
-    abstract_pdf: false
-    abstract_md: true 
+    abstract: [md] 
+    poster_format: null  
+    talk_format: null
   zeijlstra_trivial:
     authors:
     - hedde_zeijlstra
     title: A trivial problem
     lightning_bin: 1
-    abstract_pdf: false
-    abstract_md: false
+    abstract: []
+    poster_format: null  
+    talk_format: null
