@@ -23,7 +23,7 @@
                     <div id="content" class="nine columns" >
                         <h2>
                             {{ talkinfo.title }} 
-                            [<a href="{{ site.baseurl }}/presentation-materials/{{ page.talkid }}.{{ talkinfo.materials_format }}"></a>{% if page.group == "posters" and talkinfo.poster_format != null %}poster{% else %}{{ talkinfo.materials_type }}{% endif %}</a>]
+                            {% if talkinfo.materials_format != null %}[<a href="{{ site.baseurl }}/presentation-materials/{{ page.talkid }}.{{ talkinfo.materials_format }}">{% if page.group == "posters" %}poster{% else %}{{ talkinfo.materials_type }}{% endif %}</a>]{% endif %}
                         </h2>
                         {% for authorid in talkinfo.authors %}
                         {% assign author = site.data.people[authorid] %}
