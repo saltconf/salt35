@@ -38,14 +38,18 @@ Talk sessions and on-site registration will take place on the first floor of [We
     {% assign talkinfo = site.data.presentations.talks[talk.talkid] %}
     <tr class="talk">
       <td class="time">{{ talk.time }}</td>
-      {% if talkinfo.abstract_md %}
-      <td class="title"><a href="/salt34/abstracts/{{ talk.talkid }}.html">{{ talkinfo.title }}</a></td>
-      {% elsif talkinfo.abstract_pdf %}
-      <td class="title"><a href="/salt34/abstracts/{{ talk.talkid }}.pdf">{{ talkinfo.title }}</a></td>
+      <td class="title">
+      {% if talkinfo.abstract_formats contains "md" %}
+      <a href="/salt34/abstracts/{{ event.talkid }}.html">{{ talkinfo.title }}</a>
+      {% elsif talkinfo.abstract_formats contains "pdf" %}
+      <a href="/salt34/abstracts/{{ event.talkid }}.pdf">{{ talkinfo.title }}</a>
       {% else %}
-      <td class="title">{{ talkinfo.title }}</td>
+      {{ talkinfo.title }}
       {% endif %}
-      <!-- <a href="abstracts/{{ talk.talkid }}">{{ talkinfo.title }}</a> -->
+      {% if talkinfo.materials_format != null %}
+        [<a href="{{ site.baseurl }}/presentation-materials/{{ event.talkid }}.{{ talkinfo.materials_format }}">{{ talkinfo.materials_type }}</a>]
+      {% endif %}
+      </td>
       <td class="authors">
         {% for authorid in talkinfo.authors %}
           {% assign author = site.data.people[authorid] %}
@@ -71,14 +75,18 @@ Talk sessions and on-site registration will take place on the first floor of [We
     <tr class="invitedChairinfo"><td colspan="3">Invited Talk // chair: <a href="{{ chair.website }}" class="chairName">{{ chair.name }}</a></td></tr>
     <tr class="invited">
       <td class="time">{{ event.time }}</td>
-      {% if talkinfo.abstract_md %}
-      <td class="title"><a href="/salt34/abstracts/{{ event.talkid }}.html">{{ talkinfo.title }}</a></td>
-      {% elsif talkinfo.abstract_pdf %}
-      <td class="title"><a href="/salt34/abstracts/{{ event.talkid }}.pdf">{{ talkinfo.title }}</a></td>
+      <td class="title">
+      {% if talkinfo.abstract_formats contains "md" %}
+      <a href="/salt34/abstracts/{{ event.talkid }}.html">{{ talkinfo.title }}</a>
+      {% elsif talkinfo.abstract_formats contains "pdf" %}
+      <a href="/salt34/abstracts/{{ event.talkid }}.pdf">{{ talkinfo.title }}</a>
       {% else %}
-      <td class="title">{{ talkinfo.title }}</td>
+      {{ talkinfo.title }}
       {% endif %}
-      <!-- <a href="abstracts/{{ talk.talkid }}">{{ talkinfo.title }}</a> -->
+      {% if talkinfo.materials_format != null %}
+        [<a href="{{ site.baseurl }}/presentation-materials/{{ event.talkid }}.{{ talkinfo.materials_format }}">{{ talkinfo.materials_type }}</a>]
+      {% endif %}
+      </td>
       <td class="authors">
         {% for authorid in talkinfo.authors %}
           {% assign author = site.data.people[authorid] %}
@@ -96,7 +104,7 @@ Talk sessions and on-site registration will take place on the first floor of [We
     <tr class="posterChairinfo"><td colspan="3">SALTED Workshop // chair: <a href="{{ chair.website }}" class="chairName">{{ chair.name }}</a></td></tr>
     <tr class="poster">
       <td class="time">{{ event.time }}</td>
-      <td class="title" colspan="2">{{ event.name }}</td>
+      <td class="title" colspan="2"><a href="{{ site.baseurl }}/salted/">{{ event.name }}</a></td>
     </tr>
     {% elsif event.type == "lightning" %}
     {% assign chair = site.data.people[event.chairid] %}
@@ -112,13 +120,18 @@ Talk sessions and on-site registration will take place on the first floor of [We
       {% if lightning_bin == posterinfo[1].lightning_bin %}
       <tr class="posterInfoLight{{ lightning_bin_str }} hidden">
         <td class="time">&nbsp;</td>
-        {% if posterinfo[1].abstract_md %}
-        <td class="title"><a href="/salt34/abstracts/{{ posterinfo[0] }}.html">{{ posterinfo[1].title }}</a></td>
-        {% elsif posterinfo[1].abstract_pdf %}
-        <td class="title"><a href="/salt34/abstracts/{{ posterinfo[0] }}.pdf">{{ posterinfo[1].title }}</a></td>
+        <td class="title">
+        {% if posterinfo[1].abstract_formats contains "md" %}
+        <a href="/salt34/abstracts/{{ posterinfo[0] }}.html">{{ posterinfo[1].title }}</a>
+        {% elsif posterinfo[1].abstract_formats contains "pdf" %}
+        <a href="/salt34/abstracts/{{ posterinfo[0] }}.pdf">{{ posterinfo[1].title }}</a>
         {% else %}
-        <td class="title">{{ posterinfo[1].title }}</td>
+        {{ posterinfo[1].title }}
         {% endif %}
+        {% if posterinfo[1].materials_format != null %}
+          [<a href="{{ site.baseurl }}/presentation-materials/{{ posterinfo[0] }}.{{ posterinfo[1].materials_format }}">poster</a>]
+        {% endif %}
+        </td>
         <td class="authors">
         {% for authorid in posterinfo[1].authors %}
           {% assign author = site.data.people[authorid] %}
