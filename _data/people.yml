@@ -1,3 +1,28 @@
+aaron_white:
+  name: Aaron Steven White
+  institutions:
+  - University of Rochester
+  website: "https://aaronstevenwhite.io/"
+scott_grimm:
+  name: Scott Grimm
+  institutions:
+  - University of Rochester
+  website: "https://www.sas.rochester.edu/lin/sgrimm/"
+mary_moroney:
+  name: Mary Moroney
+  institutions:
+  - University of Rochester
+  website: "https://mrm366.github.io/"
+julian_grove:
+  name: Julian Grove
+  institutions:
+  - University of Rochester
+  website: "https://juliangrove.github.io/"
+jeff_runner:
+  name: Jeff Runner
+  institutions:
+  - University of Rochester
+  website: "https://www.sas.rochester.edu/lin/people/faculty/runner_jeff/"
 jessica_rett:
   name: Jessica Rett
   institutions:

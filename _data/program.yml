@@ -1,14 +1,23 @@
+# Session 1: Mary Maroney
+# Session 2: Maribel Romero
+# Session 3: Clemens Mayr
+# Session 4: Manfred Krifka
+# Session 5: Tom Roberts
+# Session 6: Malte Zimmermann
+
 - day: tuesday
   date: Tuesday, May 28
   events:
   - type: break
     name: Registration
     time: "8:00–8:45"
-  - type: admin
+  - type: welcome
     name: Welcome
+    chairid: jeff_runner
     time: "8:45–9:00"
   - type: talk_session
-    name: "Talk Session 1"
+    name: Talk Session 1
+    chairid: mary_moroney
     subevents:
     - time: "9:00-9:40"
       talkid: roberts_double
@@ -20,19 +29,22 @@
     name: Coffee Break
     time: "11:00-11:20"
   - type: workshop
-    name: "Spotlighting sign languages in semantics"
+    chairid: mary_moroney
+    name: Spotlighting sign languages in semantics
     time: "11:20-12:50"
   - type: break
     name: Lunch (<i>not provided</i>)
     time: "12:50-14:20"
   - type: keynote
     time: "14:20-15:20"
+    chairid: scott_grimm
     talkid: rett_characterizing
   - type: break
     name: Coffee Break
     time: "15:20-15:40"
   - type: talk_session
     name: "Talk Session 2"
+    chairid: maribel_romero
     subevents:
     - time: "15:40-16:20"
       talkid: rouillard_note
@@ -51,6 +63,7 @@
     time: "7:00–8:00"
   - type: talk_session
     name: "Talk Session 3"
+    chairid: clemens_mayr
     subevents:
     - time: "9:00-9:40"
       talkid: romero_mood
@@ -62,12 +75,14 @@
     name: Coffee Break
     time: "11:00-11:20"
   - type: lightning
+    chairid: julian_grove
     name: "Lightning Talk Session A"
     time: "11:20-12:00"
   - type: break
     name: Coffee Break
     time: "12:00-12:20"
   - type: lightning
+    chairid: julian_grove
     name: "Lightning Talk Session B"
     time: "12:20-13:00"
   - type: break
@@ -75,12 +90,14 @@
     time: "13:00-14:30"
   - type: keynote
     time: "14:30-15:30"
+    chairid: julian_grove
     talkid: rawlins_asking
   - type: break
     name: Coffee Break
     time: "15:30-15:50"
   - type: talk_session
     name: "Talk Session 4"
+    chairid: manfred_krifka
     subevents:
     - time: "15:50-16:30"
       talkid: bondarenko_javanese
@@ -96,6 +113,7 @@
   events:
   - type: talk_session
     name: "Talk Session 5"
+    chairid: Tom Roberts
     subevents:
     - time: "9:00-9:40"
       talkid: bade_more
@@ -106,12 +124,14 @@
     time: "10:20-10:40"
   - type: keynote
     time: "10:40-11:40"
+    chairid: aaron_white
     talkid: henderson_morphosemantics
   - type: break
     name: Coffee Break
     time: "11:40-12:00"
   - type: talk_session
     name: "Talk Session 6"
+    chairid: malte_zimmermann
     subevents:
     - time: "12:00-12:40"
       talkid: mayr_non-de

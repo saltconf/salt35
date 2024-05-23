@@ -141,3 +141,8 @@ tr.hidden {
 }
 #lightTwoPosterArr.collapsed:before, #lightOnePosterArr.collapsed:before {content: '▸ '; }
 #lightTwoPosterArr:not(.collapsed):before, #lightOnePosterArr:not(.collapsed):before {content: '▾ '; }
+
+a.chairName {
+    text-decoration: none;
+    font-weight: bold;
+}

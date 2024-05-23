@@ -32,7 +32,8 @@ Talk sessions and on-site registration will take place on the first floor of [We
   <tbody>
     {% for event in day.events %}
     {% if event.type == "talk_session" %}
-    <tr class="talkChairinfo"><td colspan="3">{{ event.name }}</td></tr>
+    {% assign chair = site.data.people[event.chairid] %}
+    <tr class="talkChairinfo"><td colspan="3">{{ event.name }} // chair: <a href="{{ chair.website }}" class="chairName">{{ chair.name }}</a></td></tr>
     {% for talk in event.subevents %}
     {% assign talkinfo = site.data.presentations.talks[talk.talkid] %}
     <tr class="talk">
@@ -58,9 +59,16 @@ Talk sessions and on-site registration will take place on the first floor of [We
       </td>
     </tr>
     {% endfor %}
+    {% elsif event.type == "welcome" %}
+    {% assign chair = site.data.people[event.chairid] %}
+    <tr>
+      <td class="time">{{ event.time }}</td>
+      <td class="title" colspan="2">{{ event.name }} by <a href="{{ chair.website }}">{{ chair.name }}</a></td>
+    </tr>
     {% elsif event.type == "keynote" %}
     {% assign talkinfo = site.data.presentations.keynotes[event.talkid] %}
-    <tr class="invitedChairinfo"><td colspan="3">Invited Talk</td></tr>
+    {% assign chair = site.data.people[event.chairid] %}
+    <tr class="invitedChairinfo"><td colspan="3">Invited Talk // chair: <a href="{{ chair.website }}" class="chairName">{{ chair.name }}</a></td></tr>
     <tr class="invited">
       <td class="time">{{ event.time }}</td>
       {% if talkinfo.abstract_md %}
@@ -84,13 +92,15 @@ Talk sessions and on-site registration will take place on the first floor of [We
       </td>
     </tr>
     {% elsif event.type == "workshop" %}
-    <tr class="posterChairinfo"><td colspan="3">SALTED Workshop</td></tr>
+    {% assign chair = site.data.people[event.chairid] %}
+    <tr class="posterChairinfo"><td colspan="3">SALTED Workshop // chair: <a href="{{ chair.website }}" class="chairName">{{ chair.name }}</a></td></tr>
     <tr class="poster">
       <td class="time">{{ event.time }}</td>
       <td class="title" colspan="2">{{ event.name }}</td>
     </tr>
     {% elsif event.type == "lightning" %}
-    <tr class="posterChairinfo"><td colspan="3">Lightning Talk Session</td></tr>
+    {% assign chair = site.data.people[event.chairid] %}
+    <tr class="posterChairinfo"><td colspan="3">Lightning Talk Session // chair: <a href="{{ chair.website }}" class="chairName">{{ chair.name }}</a></td></tr>
     <tr class="postertalk">
       <td class="time">{{ event.time }}</td>
       <td class="title" colspan="2">
@@ -134,7 +144,7 @@ Talk sessions and on-site registration will take place on the first floor of [We
     {% else %}
     <tr class="{{ event.type }}">
       <td class="time">{{ event.time }}</td>
-      <td class="title">{{ event.name }}</td>
+      <td class="title" colspan="2">{{ event.name }}</td>
       <td></td>
     </tr>
     {% endif %}
