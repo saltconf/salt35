@@ -260,7 +260,7 @@ posters:
     title: New experimental evidence against the similarity approach to conditionals
     lightning_bin: 0
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   müller_making:
     authors:
     - kalle_müller
@@ -297,7 +297,7 @@ posters:
     title: Embedded scalar diversity
     lightning_bin: 0
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   saha_mandarin:
     authors:
     - ankana_saha
