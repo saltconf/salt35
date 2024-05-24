@@ -113,7 +113,7 @@
   events:
   - type: talk_session
     name: "Talk Session 5"
-    chairid: Tom Roberts
+    chairid: tom_roberts
     subevents:
     - time: "9:00-9:40"
       talkid: bade_more
