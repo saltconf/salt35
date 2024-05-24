@@ -65,7 +65,7 @@ talks:
     authors:
     - omri_amiraz
     title: Evidence for projection of cleft exhaustivity
-    abstract_formats: []
+    abstract_formats: [md]
     materials_type: null
     materials_format: null
   bade_more:
