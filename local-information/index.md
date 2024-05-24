@@ -167,6 +167,53 @@ As a former milling boomtown, Rochester has [a long history of brewing](https://
   <a href="https://www.risingstormbrewing.com/rsbc-the-mill/">Rising Storm</a><br>1880 Blossom Rd.<br>Rochester NY, 14625
   </div>
   <div class="one-half column" >
-  <a href="http://fifthframe.co/">Fifth Frame</a><br>155 St. Paul St.<br>Rochester, NY 14604
+  <a href="https://www.21richmond.com/">The Richmond</a><br>21 Richmond St.<br>Rochester, NY 14607
+  </div>
+</div>
+
+<hr/>
+
+## Movies
+
+<div class="row" >
+  <div class="one-half column" >
+  <a href="https://thelittle.org/">Little Theater</a><br>240 East Ave.<br>Rochester, NY 14604
+  </div>
+  <div class="one-half column" >
+  <a href="https://www.eastman.org/events/film-screenings">Eastman Museum</a><br>900 East Ave.<br>Rochester, NY 14607
+  </div>
+</div>
+
+<hr/>
+
+## Music
+
+<div class="row" >
+  <div class="one-half column" >
+  <a href="https://www.bugjar.com/">Bug Jar</a><br>219 Monroe Ave.<br>Rochester, NY 14607
+  </div>
+  <div class="one-half column" >
+  <a href="https://lux666.com/">Lux</a><br>666 South Ave.<br>Rochester, NY 14620
+  </div>
+</div>
+<div class="row" >
+  <div class="one-half column" >
+  <a href="https://thelittle.org/cafe/">Little Cafe</a><br>240 East Ave.<br>Rochester, NY 14604
+  </div>
+  <div class="one-half column" >
+  <a href="153 Liberty Pole Way">Abilene</a><br>666 South Ave.<br>Rochester, NY 14604
+  </div>
+</div>
+
+<hr/>
+
+## Museums
+
+<div class="row" >
+  <div class="one-half column" >
+  <a href="https://mag.rochester.edu/">Memorial Art Gallery</a><br>500 University Ave.<br>Rochester, NY 14607
+  </div>
+  <div class="one-half column" >
+  <a href="https://www.eastman.org/">Eastman Museum</a><br>900 East Ave.<br>Rochester, NY 14607
   </div>
 </div>
