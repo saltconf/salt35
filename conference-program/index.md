@@ -32,37 +32,41 @@ Talk sessions and on-site registration will take place on the first floor of [We
   <tbody>
     {% for event in day.events %}
     {% if event.type == "talk_session" %}
-    {% assign chair = site.data.people[event.chairid] %}
-    <tr class="talkChairinfo"><td colspan="3">{{ event.name }} // chair: <a href="{{ chair.website }}" class="chairName">{{ chair.name }}</a></td></tr>
-    {% for talk in event.subevents %}
-    {% assign talkinfo = site.data.presentations.talks[talk.talkid] %}
-    <tr class="talk">
-      <td class="time">{{ talk.time }}</td>
-      <td class="title">
-      {% if talkinfo.abstract_formats contains "md" %}
-      <a href="/salt34/abstracts/{{ talk.talkid }}.html">{{ talkinfo.title }}</a>
-      {% elsif talkinfo.abstract_formats contains "pdf" %}
-      <a href="/salt34/abstracts/{{ talk.talkid }}.pdf">{{ talkinfo.title }}</a>
-      {% else %}
-      {{ talkinfo.title }}
-      {% endif %}
-      {% if talkinfo.materials_format != null %}
-        [<a href="{{ site.baseurl }}/presentation-materials/{{ talk.talkid }}.{{ talkinfo.materials_format }}">{{ talkinfo.materials_type }}</a>]
-      {% endif %}
-      </td>
-      <td class="authors">
-        {% for authorid in talkinfo.authors %}
-          {% assign author = site.data.people[authorid] %}
-          {% if author.website != null %}
-          <a class="authorwebsite" href="{{ author.website }}">{{ author.name }}</a>
-          {% else %}
-          {{ author.name }}
-          {% endif %}
-          {% unless forloop.last %}<br/>{% endunless %}
-        {% endfor %}
-      </td>
-    </tr>
-    {% endfor %}
+      {% assign chair = site.data.people[event.chairid] %}
+      <tr class="talkChairinfo">
+        <td colspan="3">
+          {{ event.name }} // chair: <a href="{{ chair.website }}" class="chairName">{{ chair.name }}</a>
+        </td>
+      </tr>
+      {% for talk in event.subevents %}
+        {% assign talkinfo = site.data.presentations.talks[talk.talkid] %}
+        <tr class="talk">
+          <td class="time">{{ talk.time }}</td>
+          <td class="title">
+            {% if talkinfo.abstract_formats contains "md" %}
+              <a href="/salt34/abstracts/{{ talk.talkid }}.html">{{ talkinfo.title }}</a>
+            {% elsif talkinfo.abstract_formats contains "pdf" %}
+              <a href="/salt34/abstracts/{{ talk.talkid }}.pdf">{{ talkinfo.title }}</a>
+            {% else %}
+              {{ talkinfo.title }}
+            {% endif %}
+            {% if talkinfo.materials_format != null %}
+              [<a href="{{ site.baseurl }}/presentation-materials/{{ talk.talkid }}.{{ talkinfo.materials_format }}">{{ talkinfo.materials_type }}</a>]
+            {% endif %}
+          </td>
+          <td class="authors">
+            {% for authorid in talkinfo.authors %}
+              {% assign author = site.data.people[authorid] %}
+              {% if author.website != null %}
+                <a class="authorwebsite" href="{{ author.website }}">{{ author.name }}</a>
+              {% else %}
+                {{ author.name }}
+              {% endif %}
+              {% unless forloop.last %}<br/>{% endunless %}
+            {% endfor %}
+          </td>
+        </tr>
+      {% endfor %}
     {% elsif event.type == "welcome" %}
     {% assign chair = site.data.people[event.chairid] %}
     <tr>
