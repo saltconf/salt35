@@ -177,7 +177,7 @@ As a former milling boomtown, Rochester has [a long history of brewing](https://
 
 <div class="row" >
   <div class="one-half column" >
-  <a href="https://thelittle.org/">Little Theater</a><br>240 East Ave.<br>Rochester, NY 14604
+  <a href="https://thelittle.org/">The Little Theater</a><br>240 East Ave.<br>Rochester, NY 14604
   </div>
   <div class="one-half column" >
   <a href="https://www.eastman.org/events/film-screenings">Eastman Museum</a><br>900 East Ave.<br>Rochester, NY 14607
