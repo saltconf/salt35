@@ -40,14 +40,14 @@ Talk sessions and on-site registration will take place on the first floor of [We
       <td class="time">{{ talk.time }}</td>
       <td class="title">
       {% if talkinfo.abstract_formats contains "md" %}
-      <a href="/salt34/abstracts/{{ event.talkid }}.html">{{ talkinfo.title }}</a>
+      <a href="/salt34/abstracts/{{ talk.talkid }}.html">{{ talkinfo.title }}</a>
       {% elsif talkinfo.abstract_formats contains "pdf" %}
-      <a href="/salt34/abstracts/{{ event.talkid }}.pdf">{{ talkinfo.title }}</a>
+      <a href="/salt34/abstracts/{{ talk.talkid }}.pdf">{{ talkinfo.title }}</a>
       {% else %}
       {{ talkinfo.title }}
       {% endif %}
       {% if talkinfo.materials_format != null %}
-        [<a href="{{ site.baseurl }}/presentation-materials/{{ event.talkid }}.{{ talkinfo.materials_format }}">{{ talkinfo.materials_type }}</a>]
+        [<a href="{{ site.baseurl }}/presentation-materials/{{ talk.talkid }}.{{ talkinfo.materials_format }}">{{ talkinfo.materials_type }}</a>]
       {% endif %}
       </td>
       <td class="authors">
