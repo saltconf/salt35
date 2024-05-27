@@ -66,8 +66,8 @@ talks:
     - omri_amiraz
     title: Evidence for projection of cleft exhaustivity
     abstract_formats: [md]
-    materials_type: null
-    materials_format: null
+    materials_type: slides
+    materials_format: pdf
   bade_more:
     authors:
     - nadine_bade
@@ -94,8 +94,8 @@ talks:
     - tatiana_bondarenko
     title: 'Javanese veridicality mismatches: Q-to-P reduction amid uniformity'
     abstract_formats: [md] 
-    materials_type: null
-    materials_format: null
+    materials_type: slides
+    materials_format: pdf
   flor_coarse:
     authors:
     - enrico_flor
@@ -160,15 +160,15 @@ talks:
     - vincent_rouillard
     title: A note on <i>any</i> and simplification
     abstract_formats: [md] 
-    materials_type: null
-    materials_format: null
+    materials_type: slides
+    materials_format: pdf
   wang_tiered:
     authors:
     - ruoan_wang
     title: "Tiered honorification in Eastern Indo-Aryan: [HON]-less, and also presuppositionless"
     abstract_formats: [md] 
-    materials_type: null
-    materials_format: null
+    materials_type: slides
+    materials_format: pdf
   yip_only:
     authors:
     - ka-fai_yip
@@ -193,13 +193,13 @@ posters:
     lightning_bin: 0
     abstract_formats: [md] 
     materials_format: null
-  aonuki_third:
+  aonuki_comparatives:
     authors:
     - yurika_aonuki
     title: "Comparatives and differential measure phrases without -er in Gitksan"
     lightning_bin: 0
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   armenante_temporal:
     authors:
     - giuliano_armenante
@@ -221,7 +221,7 @@ posters:
     title: Prosody across sentence types
     lightning_bin: 0
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   goodale_sense:
     authors:
     - michael_eric_goodale
@@ -244,7 +244,7 @@ posters:
     title: Scope, monotonicity and maximal informativity cannot be underestimated! A compositional analysis of an apparent linguistic illusion
     lightning_bin: 0
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   kobayashi_quantification:
     authors:
     - filipe_hisao_kobayashi
@@ -314,7 +314,7 @@ posters:
     title: <i>As</i> phrases as a window onto multidimensionality
     lightning_bin: 1
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   santorio_time-relative:
     authors:
     - paolo_santorio
@@ -359,11 +359,11 @@ posters:
     title: Cross-Linguistic variations in disjunction explained in two-dimensional semantics
     lightning_bin: 1
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   zeijlstra_trivial:
     authors:
     - hedde_zeijlstra
     title: A trivial problem
     lightning_bin: 1
     abstract_formats: []
-    materials_format: null
+    materials_format: pdf
