@@ -146,8 +146,8 @@ talks:
     - tom_roberts
     title: 'Double counting: The semantics of numerals and number in Estonian'
     abstract_formats: [md]
-    materials_type: null
-    materials_format: null 
+    materials_type: slides
+    materials_format: pdf
   romero_mood:
     authors:
     - maribel_romero
@@ -307,7 +307,7 @@ posters:
     title: Mandarin demonstratives as strong definites
     lightning_bin: 1
     abstract_formats: [md]
-    materials_format: null 
+    materials_format: pdf
   sandoval_as:
     authors:
     - starr_sandoval
