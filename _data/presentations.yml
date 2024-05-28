@@ -80,8 +80,8 @@ talks:
     - ushasi_banerjee
     title: Accounting for counting (crosslinguistically)
     abstract_formats: [md] 
-    materials_type: null
-    materials_format: null
+    materials_type: slides
+    materials_format: pdf
   bassi_pathological:
     authors:
     - itai_bassi
@@ -192,7 +192,7 @@ posters:
     title: Blocking <i>de re</i> readings across a perspectival domain
     lightning_bin: 0
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   aonuki_comparatives:
     authors:
     - yurika_aonuki
@@ -228,7 +228,7 @@ posters:
     title: Sense as sampling propensity
     lightning_bin: 0
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   haug_deriving:
     authors:
     - dag_trygve_truslew_haug
@@ -321,7 +321,7 @@ posters:
     title: 'Time-relative counterfactuality: Future-less-vivid conditionals and the modal past'
     lightning_bin: 1
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   swanson_real-time:
     authors:
     - elizabeth_swanson
@@ -330,7 +330,7 @@ posters:
     title: Real-time comprehension of connectives by preschool children and adults
     lightning_bin: 1
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   walter_indirect:
     authors:
     - sebastian_walter
@@ -344,7 +344,7 @@ posters:
     title: Exceptional scope out of finite complement clauses
     lightning_bin: 1
     abstract_formats: [md]
-    materials_format: null 
+    materials_format: pdf
   xu_demonstratives:
     authors:
     - jingying_xu
