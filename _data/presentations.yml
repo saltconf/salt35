@@ -5,8 +5,8 @@ keynotes:
     - jessica_rett
     title: Characterizing illocutionary content
     abstract_formats: [pdf]
-    materials_type: null
-    materials_format: null
+    materials_type: slides
+    materials_format: pdf
   rawlins_asking:
     authors:
     - kyle_rawlins
@@ -19,8 +19,8 @@ keynotes:
     - robert_henderson
     title: The morphosemantics of incremental plurality
     abstract_formats: [md] 
-    materials_type: null
-    materials_format: null
+    materials_type: handout
+    materials_format: pdf
   degen_null:
     authors:
     - judith_degen
