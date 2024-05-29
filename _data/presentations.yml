@@ -12,8 +12,8 @@ keynotes:
     - kyle_rawlins
     title: Asking questions
     abstract_formats: [md] 
-    materials_type: null
-    materials_format: null
+    materials_type: slides
+    materials_format: pdf
   henderson_morphosemantics:
     authors:
     - robert_henderson
