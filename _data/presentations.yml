@@ -87,8 +87,8 @@ talks:
     - itai_bassi
     title: Pathological questions, focus, and unacceptable ellipsis
     abstract_formats: [md] 
-    materials_type: null
-    materials_format: null
+    materials_type: slides
+    materials_format: pdf
   bondarenko_javanese:
     authors:
     - tatiana_bondarenko
@@ -108,8 +108,8 @@ talks:
     - terrance_gatchalian
     title: Optional Past Tenses in Kanien'kéha
     abstract_formats: [md] 
-    materials_type: null
-    materials_format: null
+    materials_type: slides
+    materials_format: pdf
   kaiser_morphology:
     authors:
     - elsi_kaiser
@@ -131,8 +131,8 @@ talks:
     - malte_zimmermann
     title: 'Question embedding without wh-interrogatives: A unified account'
     abstract_formats: [md]
-    materials_type: null 
-    materials_format: null
+    materials_type: slides
+    materials_format: pdf
   mayr_non-de:
     authors:
     - clemens_mayr
@@ -153,8 +153,8 @@ talks:
     - maribel_romero
     title: 'Mood across constructions: A unified approach'
     abstract_formats: [md] 
-    materials_type: null
-    materials_format: null
+    materials_type: handout
+    materials_format: pdf
   rouillard_note:
     authors:
     - vincent_rouillard
@@ -206,7 +206,7 @@ posters:
     title: 'Temporal <i>de re</i> and semantic variation: Composing simultaneity in Asante Twi'
     lightning_bin: 0
     abstract_formats: [md]
-    materials_format: null
+    materials_format: pdf
   berulava_bare:
     authors:
     - tamari_berulava
@@ -252,7 +252,7 @@ posters:
     title: Quantification Uncovered
     lightning_bin: 1
     abstract_md: false
-    materials_format: null
+    materials_format: pdf
   mchugh_new:
     authors:
     - dean_mchugh
@@ -276,14 +276,14 @@ posters:
     title: 'Exceptives under negation: Strengthening the case for p-Exh'
     lightning_bin: 1
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   oney_quantificational:
     authors:
     - burak_oney
     title: On the quantificational force of negative sensitive items in Turkish
     lightning_bin: 1
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   palucci_pseudo-scoping:
     authors:
     - jonathan_palucci
@@ -337,7 +337,7 @@ posters:
     title: 'Indirect discourse as mixed quotation: Evidence from self pointing gestures'
     lightning_bin: 1
     abstract_formats: [md] 
-    materials_format: null
+    materials_format: pdf
   wang_exceptional:
     authors:
     - huilei_wang
@@ -352,7 +352,7 @@ posters:
     title: 'Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults'
     lightning_bin: 1
     abstract_formats: [md]
-    materials_format: null
+    materials_format: pdf
   yagi_cross-linguistic:
     authors:
     - yusuke_yagi
