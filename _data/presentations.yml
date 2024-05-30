@@ -123,8 +123,8 @@ talks:
     - fereshteh_modarresi
     title: 'Number agreement of coordinated subjects: Competing syntactic and semantic rules'
     abstract_formats: [md] 
-    materials_type: null
-    materials_format: null 
+    materials_type: slides
+    materials_format: pdf
   lecavelier_question:
     authors:
     - jeanne_lecavelier
@@ -139,8 +139,8 @@ talks:
     - viola_schmitt
     title: Non-<i>de dicto</i> construals as a uniform phenomenon
     abstract_formats: [md] 
-    materials_type: null
-    materials_format: null
+    materials_type: slides
+    materials_format: pdf
   roberts_double:
     authors:
     - tom_roberts

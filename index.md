@@ -68,4 +68,4 @@ For questions or comments, please contact <span style="font-family: monospace">[
 
 ## Sponsors
 
-SALT34 is sponsored by the [University of Rochester Department of Linguistics](https://www.sas.rochester.edu/lin/) and the [Center for Language Sciences at the University of Rochester](https://www.sas.rochester.edu/cls/). The [Linguistic Society of America](https://www.lsadc.org/) publishes [the conference proceedings](https://journals.linguisticsociety.org/proceedings/index.php/SALT).
+SALT34 is sponsored by the University of Rochester [Department of Linguistics](https://www.sas.rochester.edu/lin/), [Center for Language Sciences](https://www.sas.rochester.edu/cls/), and [Goergen Institute for Data Science](https://www.sas.rochester.edu/dsc/). The [Linguistic Society of America](https://www.lsadc.org/) handles the registration and publishes [the conference proceedings](https://journals.linguisticsociety.org/proceedings/index.php/SALT).
