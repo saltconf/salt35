@@ -24,3 +24,15 @@
 
 - date: "May 30"
   text: "Conference ends"
+
+- date: "Aug 31"
+  text: "Proceedings submission deadline"
+
+- date: "Oct 7"
+  text: "Proceedings revisions sent out"
+
+- date: "Oct 31"
+  text: "Proceedings revisions due"
+
+- date: "Nov 15"
+  text: "Proceedings is published"
