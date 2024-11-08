@@ -3,6 +3,9 @@ title: Program
 layout: default
 ---
 
+Coming soon!
+
+<!--- 
 <script type="text/javascript">
    function lightning(cls, arr) {
        var rows = document.getElementsByClassName(cls);
@@ -170,3 +173,5 @@ Talk sessions and on-site registration will take place on the first floor of [We
 </table>
 
 {% endfor %}
+
+ --->
