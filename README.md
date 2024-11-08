@@ -1,6 +1,6 @@
 # SALT34 Website
 
-This repository houses [the website for SALT34](https://saltconf.github.io/salt34/). This website was forked directly from [the repository](https://github.com/saltconf/salt29) housing the [the SALT29 website](http://salt.linguistics.ucla.edu/29/).
+This repository houses [the website for SALT35](https://saltconf.github.io/salt34/). This website was forked directly from [the repository](https://github.com/saltconf/salt29) housing the [the SALT29 website](http://salt.linguistics.ucla.edu/29/).
 
 Beyond the obvious content changes, the structure of this repository differs substantially from that for the SALT29 website in order to factor the site content from the site structure and aesthetics using [jekyll](https://jekyllrb.com/). This change should enable organizers of future SALTs to:
 
