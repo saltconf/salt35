@@ -3,11 +3,11 @@ title: Home
 layout: default
 ---
 
-Semantics and Linguistic Theory (SALT) 34 will be hosted by the Linguistics Department at the University of Rochester on May 28 &ndash; 30, 2024. The conference will be held solely in-person, and there will be no remote presentation or attendance option.
+The 35th meeting of Semantics and Linguistic Theory (SALT 35) will be hosted by the Linguistics Department at Harvard University, Cambridge, MA on May 20 – 22, 2025. Presentations at SALT35 will take place in person. In participating, you agree to abide by the [Code of Conduct](code-of-conduct/).
 
-As part of SALT34, the SALT Equity and Diversity Committee (SALTED) and the SALT34 organizing committee will hold a workshop: *Spotlighting sign languages in semantics*.
+For questions or comments, please contact <span style="font-family: monospace">[salt35.harvard@gmail.com](mailto:salt35.harvard@gmail.com)</span>. 
 
-For questions or comments, please contact <span style="font-family: monospace">[salt34.ur@gmail.com](mailto:salt34.ur@gmail.com)</span>. By attending, you agree to abide by the [Code of Conduct](code-of-conduct/).
+For more general information on the goals and history of the conference, visit the permanent website for the [SALT conference](http://saltconf.github.io)
 
 <hr/>
 
@@ -68,4 +68,3 @@ For questions or comments, please contact <span style="font-family: monospace">[
 
 ## Sponsors
 
-SALT34 is sponsored by the University of Rochester [Department of Linguistics](https://www.sas.rochester.edu/lin/), [Center for Language Sciences](https://www.sas.rochester.edu/cls/), and [Goergen Institute for Data Science](https://www.sas.rochester.edu/dsc/). The [Linguistic Society of America](https://www.lsadc.org/) handles the registration and publishes [the conference proceedings](https://journals.linguisticsociety.org/proceedings/index.php/SALT).
