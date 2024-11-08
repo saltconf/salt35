@@ -1,12 +1,5 @@
 keynotes:
   name: Keynotes
-  mayr_title:
-    authors:
-    - clemens_mayr
-    title: tbd
-    abstract_formats: # [pdf]
-    materials_type: #slides
-    materials_format: # pdf
   arregui_title:
     authors:
     - ana_arregui
@@ -14,6 +7,13 @@ keynotes:
     abstract_formats: #[md] 
     materials_type: #slides
     materials_format: #pdf
+ mayr_title:
+    authors:
+    - clemens_mayr
+    title: tbd
+    abstract_formats: # [pdf]
+    materials_type: #slides
+    materials_format: # pdf   
   schwarz_title:
     authors:
     - florian_schwarz
@@ -24,6 +24,10 @@ keynotes:
   pearson_title:
     authors:
     - hazel_pearson
+    title: tbd
+    abstract_formats: # [md] 
+    materials_type: #handout
+    materials_format: # pdf
   
 salted:
   name: SALTED
