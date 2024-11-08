@@ -2,7 +2,12 @@
 title: Registration
 layout: default
 ---
-  
+ 
+ Coming soon!
+
+{% raw %}
+
+<!--- 
 Registration for SALT34 will be handled by the Linguistic Society of America.
 
 Please follow the link below to find instructions and information for online registration.
@@ -39,3 +44,6 @@ Early registration runs from March 4–April 24, 2024. Late registration runs fr
 </table>
 <br/>
 <hr/>
+
+--->
+ {% endraw %}
