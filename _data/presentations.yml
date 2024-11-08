@@ -1,32 +1,29 @@
 keynotes:
   name: Keynotes
-  rett_characterizing:
+  mayr_title:
     authors:
-    - jessica_rett
-    title: Characterizing illocutionary content
-    abstract_formats: [pdf]
-    materials_type: slides
-    materials_format: pdf
-  rawlins_asking:
+    - clemens_mayr
+    title: tbd
+    abstract_formats: # [pdf]
+    materials_type: #slides
+    materials_format: # pdf
+  arregui_title:
     authors:
-    - kyle_rawlins
-    title: Asking questions
-    abstract_formats: [md] 
-    materials_type: slides
-    materials_format: pdf
-  henderson_morphosemantics:
+    - ana_arregui
+    title: tbd
+    abstract_formats: #[md] 
+    materials_type: #slides
+    materials_format: #pdf
+  schwarz_title:
     authors:
-    - robert_henderson
-    title: The morphosemantics of incremental plurality
-    abstract_formats: [md] 
-    materials_type: handout
-    materials_format: pdf
-  degen_null:
+    - florian_schwarz
+    title: tbd
+    abstract_formats: # [md] 
+    materials_type: #handout
+    materials_format: # pdf
+  pearson_title:
     authors:
-    - judith_degen
-    title: null
-    materials_type: null
-    materials_format: null
+    - hazel_pearson
   
 salted:
   name: SALTED
