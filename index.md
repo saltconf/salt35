@@ -66,5 +66,10 @@ For more general information on the goals and history of the conference, visit t
 
 <hr/>
 
+{%raw%}
+<!--- 
 ## Sponsors
+
+{%endraw%}
+--->
 
