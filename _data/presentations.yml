@@ -4,26 +4,26 @@ keynotes:
     authors:
     - ana_arregui
     title: tbd
-    abstract_formats: #[md] 
+    abstract_formats: # [pdf]
     materials_type: #slides
-    materials_format: #pdf
- mayr_title:
+    materials_format: # pdf
+  mayr_title:
     authors:
     - clemens_mayr
     title: tbd
-    abstract_formats: # [pdf]
+    abstract_formats: #[md] 
     materials_type: #slides
-    materials_format: # pdf   
-  schwarz_title:
+    materials_format: #pdf
+  pearson_title:
     authors:
-    - florian_schwarz
+    - hazel_pearson
     title: tbd
     abstract_formats: # [md] 
     materials_type: #handout
     materials_format: # pdf
-  pearson_title:
+  schwarz_title:
     authors:
-    - hazel_pearson
+    - florian_schwarz
     title: tbd
     abstract_formats: # [md] 
     materials_type: #handout
