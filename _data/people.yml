@@ -1,3 +1,54 @@
+kate_davidson:
+  name: Kathryn Davidson
+  institutions:
+  - Harvard University
+  website: "https://scholar.harvard.edu/kathryndavidson"
+gennaro_chierchia:
+  name: Gennaro Chierchia
+  institutions:
+  - Harvard University
+  website: "https://scholar.harvard.edu/chierchia/home"
+tatiana_bondarenko:
+  institutions:
+  - Harvard
+  name: Tatiana Bondarenko
+  website: https://linguistics.fas.harvard.edu/people/tatiana-bondarenko
+ankana_saha:
+  institutions:
+  - Harvard
+  name: Ankana Saha
+  website: https://sites.google.com/g.harvard.edu/ankanasaha/
+nayantara_das:
+  name: Nayantara Das
+  institutions:
+  - Havard University
+  website: "https://linguistics.fas.harvard.edu/people/nayantara-das"
+yiqian_wang:
+  name: Yiqian Wang
+  institutions:
+  - Harvard University
+  website: "https://linguistics.fas.harvard.edu/people/yiqian-alexis-wang"
+clemens_mayr:
+  institutions:
+  - Georg-August Universität Göttingen
+  name: Clemens Mayr
+  website: https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html
+ana_arregui:
+  name: Ana Arregui
+  institutions:
+  - University of Massachusetts Amherst
+  website: "https://ana-arregui.com"
+florian_schwarz:
+  name: Florian Schwarz
+  institutions:
+  - University of Pennsylvania 
+  website: "https://www.florianschwarz.net"
+hazel_pearson:
+  name: Hazel Pearson
+  institutions:
+  - Queen Mary University of London
+  website: "https://sites.google.com/site/hazelpearsonling/home"
+
 aaron_white:
   name: Aaron Steven White
   institutions:
@@ -83,11 +134,6 @@ andreea_nicolae:
   - ZAS
   name: Andreea Nicolae
   website: https://sites.google.com/site/andreeanicolae/?pli=1
-ankana_saha:
-  institutions:
-  - Harvard
-  name: Ankana Saha
-  website: https://sites.google.com/g.harvard.edu/ankanasaha/
 aron_hirsch:
   institutions:
   - University of Maryland, College Park
@@ -98,11 +144,6 @@ burak_oney:
   - Cornell
   name: Burak Oney
   website: null
-clemens_mayr:
-  institutions:
-  - Georg-August Universität Göttingen
-  name: Clemens Mayr
-  website: https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html
 cristina_schmitt:
   institutions:
   - Michigan State University
@@ -283,11 +324,6 @@ tamari_berulava:
   - Georg-August Universität Göttingen
   name: Tamari Berulava
   website: null
-tatiana_bondarenko:
-  institutions:
-  - Harvard
-  name: Tatiana Bondarenko
-  website: https://linguistics.fas.harvard.edu/people/tatiana-bondarenko
 terrance_gatchalian:
   institutions:
   - McGill
