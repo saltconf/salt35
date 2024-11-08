@@ -3,7 +3,7 @@ title: Call for Abstracts
 layout: default
 ---
 
-The organizers of the 35th annual meeting of Semantics and Linguistic Theory (SALT34) invite submission of abstracts for 30-minute oral presentations (with an additional 10 minutes for questions) or posters on any topic in natural language semantics with relevance to linguistic theory. 
+The organizers of the 35th annual meeting of Semantics and Linguistic Theory (SALT35) invite submission of abstracts for 30-minute oral presentations (with an additional 10 minutes for questions) or posters on any topic in natural language semantics with relevance to linguistic theory. 
 
 SALT34 will be held solely in-person, and there will be no remote presentation or attendance option.
 
