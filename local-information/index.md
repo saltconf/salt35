@@ -5,6 +5,10 @@ layout: default
 
 ## Venue
 
+Coming soon!
+
+{%raw%}
+<!--- 
 All talks and posters at SALT34 will take place on the University of Rochester's [River Campus](https://www.google.com/maps/place/Wegmans+Hall/@43.1260797,-77.6326735,17z/). 
 
 Talk sessions and on-site registration will take place on the first floor of [Wegmans Hall](https://www.rochester.edu/college/ecm/locations/wegmans.html) (Room 1400; <a href="https://maps.app.goo.gl/erMSWCyUjNKpYigv7">map</a>), and coffee breaks will take place on the first floor of [Goergen Hall](https://www.rochester.edu/college/ecm/locations/goergen.html) (Munnerlyn Atrium; <a href="https://maps.app.goo.gl/PvRXJY6xbWBgUyxR8">map</a>). On Wednesday evening (May 29), there will be a reception concurrent with the poster session, both in <a href="https://www.rochester.edu/college/rettnerhall/facilities/atrium.html">Rettner Hall</a> (Rettner Atrium; <a href="https://maps.app.goo.gl/koZ8dDNAnxJNfjjdA">map</a>).
@@ -217,3 +221,6 @@ As a former milling boomtown, Rochester has [a long history of brewing](https://
   <a href="https://www.eastman.org/">Eastman Museum</a><br>900 East Ave.<br>Rochester, NY 14607
   </div>
 </div>
+
+--->
+{%endraw%}
