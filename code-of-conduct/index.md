@@ -9,7 +9,7 @@ layout: default
 
 ### Civility
 
-All participants of SALT34 are subject to the [LSA’s Civility Policy](https://www.linguisticsociety.org/content/lsa-civility-policy). 
+All participants of SALT35 are subject to the [LSA’s Civility Policy](https://www.linguisticsociety.org/content/lsa-civility-policy). 
 
 <hr/>
 
@@ -17,7 +17,7 @@ All participants of SALT34 are subject to the [LSA’s Civility Policy](https://
 
 Participants who are asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep SALT34 a welcoming environment for all participants. This includes warning the offender or expulsion from the conference with no refund.
+If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep SALT35 a welcoming environment for all participants. This includes warning the offender or expulsion from the conference with no refund.
 
 Organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
 
