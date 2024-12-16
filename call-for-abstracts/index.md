@@ -12,10 +12,9 @@ SALT35 will be held in-person in Cambridge MA.
 ## Submission details
 
 {%raw%}
-<!---
-**<span class="alert">Deadline:</span> <s>Friday, December 1, 2023</s> Monday, December 4, 2023**, 11:59 pm (UTC-12)
 
---->
+**<span class="alert">Deadline:</span> <s>Wednesday, December 18, 2024 (anywhere on earth)</s> Friday, December 20, 2024 (anywhere on earth)**, 
+
 {%endraw%}
 
 Submissions should be made via the [SALT35 OpenReview site](https://openreview.net/group?id=saltconf.github.io/SALT/2025). We expect to notify authors of their acceptance in February 2025.
