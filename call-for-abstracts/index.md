@@ -13,7 +13,7 @@ SALT35 will be held in-person in Cambridge MA.
 
 {%raw%}
 
-**<span class="alert">Deadline:</span> <s>Wednesday, December 18, 2024 (anywhere on earth)</s> Friday, December 20, 2024 (anywhere on earth)**, 
+**<span class="alert">Deadline:</span> <s>Wednesday, December 18, 2024 (anywhere on earth)</s> Friday, December 20, 2024 11:59 pm (UTC-12)**, 
 
 {%endraw%}
 
