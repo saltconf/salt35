@@ -21,6 +21,8 @@ Submissions should be made via the [SALT35 OpenReview site](https://openreview.n
 
 Please note that creating an account on the OpenReview platform can sometimes  take a little time to get fully activated (12 hours or so). If you plan to submit and do not have an OpenReview account, please make sure to please do so as soon as possible in order to ensure that the account is active before the deadline.
 
+On the submission page, you can summarize your abstract in one or two lines in the abstract field. This is not going to be used for evaluation purposes, it is just a requirement by the submission portal.
+
 {%raw%}
 <!---
 **Update (12/1/23):** Due to technical difficulties experienced by some submitters, the submission deadline has been extended to Monday, December 4, 2023, 11:59 pm anywhere in the world (UTC-12). The main technical difficulty that submitters have experienced has to do with the fact that it can (though often does not) take 12 hours for an OpenReview account to be activated. If you plan to submit and have not made an OpenReview account yet, please do so as soon as possible in order to ensure that the account is active before the new deadline. 
