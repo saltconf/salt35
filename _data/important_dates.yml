@@ -1,5 +1,5 @@
 - date: "Nov 8"
-  text: "Abstract submissions open"
+  text: <span class="alert"></span> <s>"Abstract submissions open"</s>
 
 - date: "Dec 18"
   text: "Abstract deadline"
