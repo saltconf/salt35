@@ -5,7 +5,7 @@
   text: <span class="alert"></span>  <s>"Abstract deadline" </s>
   
 - date: "Dec 20"
-  text:  <s> "[EXTENDED] Abstract deadline: " </s>
+  text:  <s> "[EXTENDED] Abstract deadline " </s>
 
 - date: "Jan 6"
   text: "Abstracts sent out to reviewers"
