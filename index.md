@@ -73,3 +73,7 @@ For more general information on the goals and history of the conference, visit t
 {%endraw%}
 --->
 
+## Sponsors
+
+SALT35 is supported by the [Mind, Brain and Behaviour Interfaculty Initiative](https://mbb.harvard.edu)), and the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/about) at Harvard University.
+
