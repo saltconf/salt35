@@ -7,7 +7,7 @@ The 35th meeting of Semantics and Linguistic Theory (SALT 35) will be hosted by 
 
 For questions or comments, please contact <span style="font-family: monospace">[salt35.harvard@gmail.com](mailto:salt35.harvard@gmail.com)</span>. 
 
-For more general information on the goals and history of the conference, visit the permanent website for the [SALT conference](http://saltconf.github.io)
+For more general information on the goals and history of the conference, visit the permanent website for the [SALT conference].(http://saltconf.github.io)
 
 <hr/>
 
