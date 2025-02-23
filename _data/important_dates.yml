@@ -14,5 +14,9 @@
   text: <s>"Abstract reviews due"</s>
 
 - date: "Feb 20"
-  text: "Decision notification"
+  text: <s>"Decision notification"</s>
+  
+- date: "March 5"
+  text: "Registration opens"  
+  
 
