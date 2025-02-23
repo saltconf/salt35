@@ -75,5 +75,5 @@ For more general information on the goals and history of the conference, visit t
 
 ## Sponsors
 
-SALT35 is supported by the [Mind, Brain and Behaviour Interfaculty Initiative](https://mbb.harvard.edu), and the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/about) at Harvard University.
+SALT35 is supported by the [Mind, Brain and Behaviour Interfaculty Initiative](https://mbb.harvard.edu), and the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/about) at Harvard University. The [Linguistics Society of America][https://www.lsadc.org]  handles the registration and publishes the conference proceedings.
 
