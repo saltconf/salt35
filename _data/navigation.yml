@@ -15,8 +15,8 @@
   relative: true
 
 - title: PUMP
-  #url: /salted/
-  #relative: true
+  url: /pump/
+  relative: true
 
 - title: Local information
   url: /local-information/
