@@ -14,6 +14,9 @@
   url: /registration/
   relative: true
 
+- title: PUMP
+  #url: /salted/
+  #relative: true
 
 - title: Local information
   url: /local-information/
@@ -27,9 +30,7 @@
   #relative: true
 
 
-- title: PUMP
-  #url: /salted/
-  #relative: true
+
 
 
 
