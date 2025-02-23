@@ -1,4 +1,4 @@
-# SALT34 Website
+# SALT35 Website
 
 This repository houses [the website for SALT35](https://saltconf.github.io/salt34/). This website was forked directly from [the repository](https://github.com/saltconf/salt29) housing the [the SALT29 website](http://salt.linguistics.ucla.edu/29/).
 
