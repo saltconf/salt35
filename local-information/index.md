@@ -5,19 +5,36 @@ layout: default
 
 ## Venue
 
-Coming soon!
+All talks and posters at SALT35 will take place in the Science Center at 1 Oxford Street, just outside Harvard Yard.
+
+
+## Travel
+
+If you are taking a train to Boston, you can take the Red Line train from South Station directly to Harvard. The closest airport is the Boston Logan International Airport which is a short (~30 minute) drive from Harvard. You can also get to Harvard by taking the Silver Line bus from the airport to South Station and then taking the Red Line train.
+
+## Hotels
+
+There are several hotels in and around Harvard Square. We strongly recommend that you book your hotels as soon as possible since room tend to get booked out soon close to commencement week. Here are some hotels in Harvard Square:<br>
+
+<div class="row" >
+  <div class="one-half column" >
+  <a href="https://www.harvardsquarehotel.com">Harvard Square Hotel </a><br>110 Mount Auburn Street, Harvard Square,
+<br>Cambridge, MA 02138 USA<br> (617) 864-5200
+  </div>
+  <div class="one-half column" >
+  <a href="https://www.marriott.com/en-us/hotels/boscs-sheraton-commander-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Sheraton Commander Hotel</a><br>16 Garden Street<br>Cambridge, MA 02138 USA<br> (617)-868-8322
+  </div>
+</div>
+
 
 {%raw%}
 <!--- 
-All talks and posters at SALT34 will take place on the University of Rochester's [River Campus](https://www.google.com/maps/place/Wegmans+Hall/@43.1260797,-77.6326735,17z/). 
 
 Talk sessions and on-site registration will take place on the first floor of [Wegmans Hall](https://www.rochester.edu/college/ecm/locations/wegmans.html) (Room 1400; <a href="https://maps.app.goo.gl/erMSWCyUjNKpYigv7">map</a>), and coffee breaks will take place on the first floor of [Goergen Hall](https://www.rochester.edu/college/ecm/locations/goergen.html) (Munnerlyn Atrium; <a href="https://maps.app.goo.gl/PvRXJY6xbWBgUyxR8">map</a>). On Wednesday evening (May 29), there will be a reception concurrent with the poster session, both in <a href="https://www.rochester.edu/college/rettnerhall/facilities/atrium.html">Rettner Hall</a> (Rettner Atrium; <a href="https://maps.app.goo.gl/koZ8dDNAnxJNfjjdA">map</a>).
 
 <hr/>
 
-## Travel
 
-The best options for traveling to Rochester from the Greater Rochester International Airport (ROC) is to take a cab or ride share. The ride to campus as well as all of the hotels listed below is less than 10 miles and usually takes 10-15 minutes.
 
 <hr/>
 
