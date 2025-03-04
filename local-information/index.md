@@ -7,10 +7,13 @@ layout: default
 
 All talks and posters at SALT35 will take place in the Science Center at 1 Oxford Street, just outside Harvard Yard.
 
+<hr/>
 
 ## Travel
 
 If you are taking a train to Boston, you can take the Red Line train from South Station directly to Harvard. The closest airport is the Boston Logan International Airport which is a short (~30 minute) drive from Harvard. You can also get to Harvard by taking the Silver Line bus from the airport to South Station and then taking the Red Line train.
+
+<hr/>
 
 ## Hotels
 
@@ -25,7 +28,28 @@ There are several hotels in and around Harvard Square. We strongly recommend tha
   <a href="https://www.marriott.com/en-us/hotels/boscs-sheraton-commander-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Sheraton Commander Hotel</a><br>16 Garden Street<br>Cambridge, MA 02138 USA<br> (617)-868-8322
   </div>
 </div>
+ <div class="one-half column" >
+  <a href="https://www.charleshotel.com">The Charles Hotel </a><br>1 Bennett Street <br>Cambridge, MA 02138 USA<br> (800)-882-1818
+  </div>
+</div>
+</div>
+ <div class="one-half column" >
+  <a href="https://www.thehotelveritas.com">The Hotel Veritas </a><br>1 1 Remington Street <br>Cambridge, MA 02138 USA<br> (617)-520-5000
+  </div>
+</div>
 
+There are also more hotels around Porter Square which is just one stop away from Harvard on the Red Line:<br>
+
+<div class="row" >
+  <div class="one-half column" >
+  <a href="http://www.theportersquarehotel.com/">Porter Square Hotel</a><br>1924 Massachusetts Ave<br> Cambridge, MA 02140 <br> (617)-499-3399
+  </div>
+  <div class="one-half column" >
+  <a href="http://www.hotel1868.com/">Hotel 1868</a><br>1868 Massachusetts Ave<br> Cambridge, MA 02140 <br> (617)-499-2998
+  </div>
+</div>
+
+<hr/>
 
 {%raw%}
 <!--- 
