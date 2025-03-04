@@ -28,6 +28,7 @@ There are several hotels in and around Harvard Square. We strongly recommend tha
   <a href="https://www.marriott.com/en-us/hotels/boscs-sheraton-commander-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Sheraton Commander Hotel</a><br>16 Garden Street<br>Cambridge, MA 02138 USA<br> (617)-868-8322
   </div>
 </div>
+
  <div class="one-half column" >
   <a href="https://www.charleshotel.com">The Charles Hotel </a><br>1 Bennett Street <br>Cambridge, MA 02138 USA<br> (800)-882-1818
   </div>
