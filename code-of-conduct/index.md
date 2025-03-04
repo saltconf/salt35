@@ -13,6 +13,10 @@ All participants of SALT35 are subject to the [LSA’s Civility Policy](https://
 
 <hr/>
 
+### Equity in Linguistics
+Please take a look at these [guidelines](https://genderinlinguistics.org/inclusive-language/) from The LSA Committee on Gender Equity in Linguistics (formerly COSWL) for how to use inclusive language to ensure the conference is a welcoming environment.
+
+
 ### Enforcement
 
 Participants who are asked to stop any harassing behavior are expected to comply immediately.
