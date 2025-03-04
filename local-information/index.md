@@ -30,6 +30,18 @@ There are several hotels in and around Harvard Square. We strongly recommend tha
 </div>
 
 
+ <div class="one-half column" >
+  <a href="https://www.charleshotel.com">The Charles Hotel </a><br>1 Bennett Street <br>Cambridge, MA 02138 USA<br> (800)-882-1818
+  </div>
+</div>
+</div>
+ <div class="one-half column" >
+  <a href="https://www.thehotelveritas.com">The Hotel Veritas </a><br>1 1 Remington Street <br>Cambridge, MA 02138 USA<br> (617)-520-5000
+  </div>
+</div>
+
+
+
 There are also more hotels around Porter Square which is just one stop away from Harvard on the Red Line:<br>
 
 <div class="row" >
