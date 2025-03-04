@@ -29,7 +29,7 @@ There are several hotels in and around Harvard Square. We strongly recommend tha
   </div>
 </div>
 
-
+<div class="row" >
  <div class="one-half column" >
   <a href="https://www.charleshotel.com">The Charles Hotel </a><br>1 Bennett Street <br>Cambridge, MA 02138 USA<br> (800)-882-1818
   </div>
