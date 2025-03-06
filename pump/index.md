@@ -13,3 +13,4 @@ We almost always have a lot of mentee interest so we especially encourage partic
 
 
 
+<img src=" /assets/images/pump-logo.svg" alt="PUMP logo" width="150" />
