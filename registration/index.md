@@ -5,7 +5,7 @@ layout: default
  
  Registration for SALT35 will be handled by the Linguistic Society of America.
 
-Please follow the link below to find instructions and information for online registration.
+Please follow the link below to find instructions and information for online registration. Salt35 will take place in person at Harvard University.
   
 <div style="text-align: center; margin-bottom: 1em;">
   <a href="https://www.surveymonkey.com/r/SALT35" id="reg-button">Register Here</a>
@@ -13,6 +13,8 @@ Please follow the link below to find instructions and information for online reg
 
 
 Early registration runs from March 5–April 20, 2025. Late registration runs from April 21- May 18, 2025.
+
+<hr/>
 
 <table class="reg">
   <tbody>
@@ -39,6 +41,8 @@ Early registration runs from March 5–April 20, 2025. Late registration runs fr
     </tr>
   </tbody>
 </table>
+
+<hr/>
 
 {% raw %}
 
