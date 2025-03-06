@@ -17,6 +17,10 @@
   text: <s>"Decision notification"</s>
   
 - date: "March 5"
-  text: "Registration opens"  
-  
+  text: "Registration opens" 
 
+- date: "April 20"
+  text: "Early Bird registration closes" 
+  
+- date: "May 18"
+  text: "Late registration closes" 
