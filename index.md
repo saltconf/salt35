@@ -74,7 +74,7 @@ For more general information on the goals and history of the conference, visit t
 --->
 ## Organizing Committee
 
-Gennaro Chierchia, Kathryn Davidson, Tanya Bondarenko, Ankana Saha, Natasha Thalluri, Nayantara Das, Yiqian Wang
+Gennaro Chierchia, Kathryn Davidson, Tanya Bondarenko, Vincent Rouillard, Ankana Saha, Natasha Thalluri, Nayantara Das, Yiqian Wang
 
 ## Sponsors
 
