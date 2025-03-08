@@ -3,7 +3,7 @@ title: Program
 layout: default
 ---
 
-<embed src="salt35/assets/schedule.pdf" width="1000" height="1000" type="application/pdf" />
+<embed src="salt35/assets/schedule.pdf" width="500" height="700" type="application/pdf" />
 
 <!--- 
 <script type="text/javascript">
