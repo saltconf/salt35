@@ -3,7 +3,7 @@ title: Program
 layout: default
 ---
 
-Coming soon!
+<embed src="salt35/assets/schedule.pdf" type="application/pdf" />
 
 <!--- 
 <script type="text/javascript">
