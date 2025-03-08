@@ -10,6 +10,10 @@
   url: /conference-program/
   relative: true
 
+- title: Information for presenters
+  url: /presenter/
+  relative: true
+  
 - title: Registration
   url: /registration/
   relative: true
@@ -26,9 +30,7 @@
 
  ###################
 
-# - title: Information for presenters
- # url: /presenter/
-  #relative: true
+
   
 - #title: Abstracts
   #url: /abstracts/
