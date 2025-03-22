@@ -150,5 +150,21 @@
       - time: "10:00-10:40"
         talkid: surname_keyword
       - time: "10:40-11:20"
-        talkid: surname_keyword  
+        talkid: surname_keyword
+    - type: break
+      name: Coffee Break
+      time: "11:20-11:40"
+    - type: talk_session
+      name:  Session 10
+      chairid: vincent_rouillard
+      subevents:
+      - time: "11:40-12:20"
+        talkid: surname_keyword
+      - time: "12:20-13:00"
+        talkid: surname_keyword
+      - time: "13:00-13:40"
+        talkid: surname_keyword    
+    - type: break
+      name: Business meeting on Zoom
+      time: "tbd"   
       
