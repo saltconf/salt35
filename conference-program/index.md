@@ -2,10 +2,10 @@
 title: Program
 layout: default
 ---
-
-<embed src="https://saltconf.github.io/salt35/assets/schedule.pdf" width="500" height="700" type="application/pdf" />
-
 <!--- 
+<embed src="https://saltconf.github.io/salt35/assets/schedule.pdf" width="500" height="700" type="application/pdf" />
+--->
+
 
 <script type="text/javascript">
    function lightning(cls, arr) {
@@ -175,4 +175,4 @@ Talk sessions and on-site registration will take place on the first floor of [We
 
 {% endfor %}
 
- --->
+ 
