@@ -116,4 +116,18 @@
       - time: "15:30-16:10"
         talkid: surname_keyword
       - time: "16:10-16:50"
-        talkid: surname_keyword       
+        talkid: surname_keyword
+    - type: break
+      name: Coffee Break
+      time: "16:50-17:10"   
+    - type: talk_session
+      name:  Session 8
+      chairid: vincent_rouillard
+      subevents:
+      - time: "17:10-17:50"
+        talkid: surname_keyword
+      - time: "17:50-18:30"
+        talkid: surname_keyword  
+    - type: break
+      name: Conference Dinner 
+      time: "18:30-21:30"
