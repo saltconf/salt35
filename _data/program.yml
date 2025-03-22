@@ -5,15 +5,16 @@
 # Session 5: Tom Roberts
 # Session 6: Malte Zimmermann
 
+
 - day: tuesday
-  date: Tuesday, May 28
+  date: Tuesday, May 20
   events:
   - type: break
-    name: Registration
+    name: Registration and breakfast
     time: "8:00–8:45"
   - type: welcome
     name: Welcome
-    chairid: jeff_runner
+    chairid: gennaro_chierchia   ####Added new details here
     time: "8:45–9:00"
   - type: talk_session
     name: Talk Session 1
