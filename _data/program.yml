@@ -71,11 +71,10 @@
     - time: "17:10-18:10"
       talkid: arregui_title   #### new details added till here
  - day: wednesday
-  date: Wednesday, May 21
+  date: Wednesday, May 29
   events:
   - type: break
-    name: Breakfast
-    time: "7:00–8:00"
+    name: Run starting from University of Rochester Interfaith Chapel (<a href="https://www.google.com/maps/d/u/1/edit?mid=1J115oOp20izhkcHEprvcdLpzofGZS0k&usp=sharing">map</a>)
   - type: talk_session
     name: "Talk Session 3"
     chairid: clemens_mayr
