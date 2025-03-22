@@ -82,23 +82,6 @@
     subevents:
     - time: "9:00-10:00"
       talkid: pearson_title
-  - type: talk_session
-    name:  Session 5
-    chairid: vincent_rouillard
-    subevents:
-    - time: "10:00-10:40"
-      talkid: surname_keyword
-    - time: "10:40-11:20"
-      talkid: surname_keyword  
-  - type: break
-    name: Coffee Break
-    time: "11:20-11:40"
-  - type: talk_session
-    name:  Session 6
-    chairid: vincent_rouillard
-    subevents:
-    - time: "11:40-12:20"
-      talkid: surname_keyword   ### new details till here
   - type: break
     name: Coffee Break
     time: "15:30-15:50"
