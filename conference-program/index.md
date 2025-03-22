@@ -3,6 +3,10 @@ title: Program
 layout: default
 ---
 
+ 
+<embed src="https://saltconf.github.io/salt35/assets/schedule.pdf" width="500" height="700" type="application/pdf" />
+
+<!---
 
 <script type="text/javascript">
    function lightning(cls, arr) {
@@ -171,4 +175,5 @@ All talks and posters at SALT35 will take place in the Science Center at 1 Oxfor
 
 {% endfor %}
 
- 
+ --->
+
