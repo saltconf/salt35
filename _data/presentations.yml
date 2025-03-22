@@ -38,10 +38,8 @@ talks:
     - name_surname
     title: Title of presentation
     abstract_formats: [md]
-    materials_type: slides
-    materials_format: pdf
-
-    
+    materials_type: null
+    materials_format: null   
   bade_more:
     authors:
     - nadine_bade
