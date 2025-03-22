@@ -70,43 +70,45 @@
     subevents:
     - time: "17:10-18:10"
       talkid: arregui_title   #### new details added till here
-- day: wednesday
-  date: Wednesday, May 29
+ - day: wednesday
+  date: Wednesday, May 21
   events:
   - type: break
-    name: Run starting from University of Rochester Interfaith Chapel (<a href="https://www.google.com/maps/d/u/1/edit?mid=1J115oOp20izhkcHEprvcdLpzofGZS0k&usp=sharing">map</a>)
-    time: "7:00–8:00"
+    name: Breakfast
+    time: "8:30-9:00"
   - type: talk_session
-    name: "Talk Session 3"
-    chairid: clemens_mayr
+    name: "Invited Talk"
+    chairid: vincent_rouillard
     subevents:
-    - time: "9:00-9:40"
-      talkid: romero_mood
-    - time: "9:40-10:20"
-      talkid: flor_coarse
-    - time: "10:20-11:00"
-      talkid: gatchalian_optional
+    - time: "9:00-10:00"
+      talkid: pearson_title
+  - type: talk_session
+    name:  Session 5
+    chairid: vincent_rouillard
+    subevents:
+    - time: "10:00-10:40"
+      talkid: surname_keyword
+    - time: "10:40-11:20"
+      talkid: surname_keyword  
   - type: break
     name: Coffee Break
-    time: "11:00-11:20"
+    time: "11:20-11:40"
+  - type: talk_session
+    name:  Session 6
+    chairid: vincent_rouillard
+    subevents:
+    - time: "11:40-12:20"
+      talkid: surname_keyword  
   - type: lightning
-    chairid: julian_grove
-    name: "Lightning Talk Session A"
-    time: "11:20-12:00"
-  - type: break
-    name: Coffee Break
-    time: "12:00-12:20"
-  - type: lightning
-    chairid: julian_grove
-    name: "Lightning Talk Session B"
+    chairid: vincent_rouillard
+    name: "Lightning Talk Session 2"
     time: "12:20-13:00"
   - type: break
-    name: Lunch (<i>not provided</i>)
-    time: "13:00-14:30"
-  - type: keynote
-    time: "14:30-15:30"
-    chairid: julian_grove
-    talkid: rawlins_asking
+    name: Lunch (<i>on your own and pop-up mentoring</i>)
+    time: "13:00-14:00"
+  - type: poster
+    name: Poster Session B
+    time: "14:00-15:30"   ### new details added till here
   - type: break
     name: Coffee Break
     time: "15:30-15:50"
