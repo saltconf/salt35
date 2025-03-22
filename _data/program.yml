@@ -75,7 +75,7 @@
   events:
   - type: break
     name: Breakfast
-    time: "8:30-9:00"
+    time: "7:00–8:00"
   - type: talk_session
     name: "Talk Session 3"
     chairid: clemens_mayr
