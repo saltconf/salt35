@@ -5,167 +5,135 @@
 # Session 5: Tom Roberts
 # Session 6: Malte Zimmermann
 
-
 - day: tuesday
-  date: Tuesday, May 20
+  date: Tuesday, May 28
   events:
   - type: break
-    name: Registration and breakfast
+    name: Registration
     time: "8:00–8:45"
   - type: welcome
     name: Welcome
-    chairid: gennaro_chierchia
+    chairid: jeff_runner
     time: "8:45–9:00"
   - type: talk_session
-    name: Invited Talk
-    chairid: vincent_rouillard 
+    name: Talk Session 1
+    chairid: mary_moroney
     subevents:
-    - time: "9:00-10:00"
-      talkid: shwarz_talk
-  - type: talk_session
-    name:  Session 1
-    chairid: vincent_rouillard
-    subevents:
-    - time: "10:00-10:40"
+    - time: "9:00-9:40"
       talkid: roberts_double
+    - time: "9:40-10:20"
+      talkid: banerjee_accounting
+    - time: "10:20-11:00"
+      talkid: wang_tiered
   - type: break
     name: Coffee Break
-    time: "10:40-11:00"
- - type: talk_session
-    name:  Session 2
-    chairid: vincent_rouillard
-    subevents:
-    - time: "11:00-11:40"
-      talkid: roberts_double   
- - type: lightning
-    chairid: vincent_rouillard
-    name: "Lightning Talk Session 1"
-    time: "11:40-12:20"
- - type: break
-    name: Lunch (<i>on your own</i>)
-    time: "12:20-13:20"
- - type: poster
-    name: Poster Session A
-    time: "13:20-14:50"
- - type: talk_session
-    name:  Session 3
-    chairid: vincent_rouillard
-    subevents:
-    - time: "14:50-15:30"
-      talkid: roberts_double
-    - time: "15:30-16:10"
-      talkid: roberts_double  
+    time: "11:00-11:20"
+  - type: workshop
+    chairid: mary_moroney
+    name: Spotlighting sign languages in semantics
+    time: "11:20-12:50"
+  - type: break
+    name: Lunch (<i>not provided</i>)
+    time: "12:50-14:20"
+  - type: keynote
+    time: "14:20-15:20"
+    chairid: scott_grimm
+    talkid: rett_characterizing
   - type: break
     name: Coffee Break
-    time: "16:10-16:30"
+    time: "15:20-15:40"
   - type: talk_session
-    name:  Session 4
-    chairid: vincent_rouillard
+    name: "Talk Session 2"
+    chairid: maribel_romero
     subevents:
-    - time: "14:30-17:10"
-      talkid: roberts_double  
-  - type: talk_session
-    name: Invited Talk
-    chairid: vincent_rouillard 
-    subevents:
-    - time: "17:10-18:10"
-      talkid: arregui_talk    
- - day: wednesday
-  date: Wednesday, May 21
+    - time: "15:40-16:20"
+      talkid: rouillard_note
+    - time: "16:20-17:00"
+      talkid: yip_only
+    - time: "17:00-17:40"
+      talkid: amiraz_evidence
+  - type: break
+    name: Happy Hour at Three Heads Brewing (<a href="https://maps.app.goo.gl/bwy2VXJMzL4SuXe77">map</a>)
+    time: "18:30–21:00"
+- day: wednesday
+  date: Wednesday, May 29
   events:
   - type: break
-    name: Breakfast
-    time: "8:30-9:00"
+    name: Run starting from University of Rochester Interfaith Chapel (<a href="https://www.google.com/maps/d/u/1/edit?mid=1J115oOp20izhkcHEprvcdLpzofGZS0k&usp=sharing">map</a>)
+    time: "7:00–8:00"
   - type: talk_session
-    name: "Invited Talk"
-    chairid: vincent_rouillard
+    name: "Talk Session 3"
+    chairid: clemens_mayr
     subevents:
-    - time: "9:00-10:00"
-      talkid: pearson_talk
- - type: talk_session
-    name:  Session 5
-    chairid: vincent_rouillard
-    subevents:
-    - time: "10:00-10:40"
-      talkid: roberts_double
-    - time: "10:40-11:20"
-      talkid: roberts_double  
+    - time: "9:00-9:40"
+      talkid: romero_mood
+    - time: "9:40-10:20"
+      talkid: flor_coarse
+    - time: "10:20-11:00"
+      talkid: gatchalian_optional
   - type: break
     name: Coffee Break
-    time: "11:20-11:40"
-  - type: talk_session
-    name:  Session 6
-    chairid: vincent_rouillard
-    subevents:
-    - time: "11:40-12:20"
-      talkid: roberts_double  
+    time: "11:00-11:20"
   - type: lightning
-    chairid: vincent_rouillard
-    name: "Lightning Talk Session 2"
+    chairid: julian_grove
+    name: "Lightning Talk Session A"
+    time: "11:20-12:00"
+  - type: break
+    name: Coffee Break
+    time: "12:00-12:20"
+  - type: lightning
+    chairid: julian_grove
+    name: "Lightning Talk Session B"
     time: "12:20-13:00"
- - type: break
-    name: Lunch (<i>on your own and pop-up mentoring</i>)
-    time: "13:00-14:00"
- - type: poster
-    name: Poster Session B
-    time: "14:00-15:30"
- - type: talk_session
-    name:  Session 7
-    chairid: vincent_rouillard
-    subevents:
-    - time: "15:30-16:10"
-      talkid: roberts_double
-    - time: "16:10-16:50"
-      talkid: roberts_double  
+  - type: break
+    name: Lunch (<i>not provided</i>)
+    time: "13:00-14:30"
+  - type: keynote
+    time: "14:30-15:30"
+    chairid: julian_grove
+    talkid: rawlins_asking
   - type: break
     name: Coffee Break
-    time: "16:50-17:10"   
+    time: "15:30-15:50"
   - type: talk_session
-    name:  Session 8
-    chairid: vincent_rouillard
+    name: "Talk Session 4"
+    chairid: manfred_krifka
     subevents:
+    - time: "15:50-16:30"
+      talkid: bondarenko_javanese
+    - time: "16:30-17:10"
+      talkid: lecavelier_question
     - time: "17:10-17:50"
-      talkid: roberts_double
-    - time: "17:50-18:30"
-      talkid: roberts_double  
-  - type: break
-    name: Conference Dinner 
-    time: "18:30-21:30"
-  - day: thursday
-  date: Thursday, May 22
+      talkid: bassi_pathological
+  - type: poster
+    name: Poster Session and Reception
+    time: "18:00-19:30"
+- day: thursday
+  date: Thursday, May 30
   events:
-  - type: break
-    name: Breakfast
-    time: "8:30-9:00"
   - type: talk_session
-    name: "Invited Talk"
-    chairid: vincent_rouillard
+    name: "Talk Session 5"
+    chairid: tom_roberts
     subevents:
-    - time: "9:00-10:00"
-      talkid: mayr_talk
- - type: talk_session
-    name:  Session 9
-    chairid: vincent_rouillard
-    subevents:
-    - time: "10:00-10:40"
-      talkid: roberts_double
-    - time: "10:40-11:20"
-      talkid: roberts_double  
+    - time: "9:00-9:40"
+      talkid: bade_more
+    - time: "9:40-10:20"
+      talkid: krifka_number
   - type: break
     name: Coffee Break
-    time: "11:20-11:40"
-  - type: talk_session
-    name:  Session 10
-    chairid: vincent_rouillard
-    subevents:
-    - time: "11:40-12:20"
-      talkid: roberts_double
-    - time: "12:20-13:00"
-      talkid: roberts_double
-    - time: "13:00-13:40"
-      talkid: roberts_double    
+    time: "10:20-10:40"
+  - type: keynote
+    time: "10:40-11:40"
+    chairid: aaron_white
+    talkid: henderson_morphosemantics
   - type: break
-    name: Business meeting on Zoom
-    time: "16:50-17:10"   
-    
-
+    name: Coffee Break
+    time: "11:40-12:00"
+  - type: talk_session
+    name: "Talk Session 6"
+    chairid: malte_zimmermann
+    subevents:
+    - time: "12:00-12:40"
+      talkid: mayr_non-de
+    - time: "12:40-13:20"
+      talkid: kaiser_morphology
