@@ -17,25 +17,36 @@
     chairid: gennaro_chierchia   ####Added new details here
     time: "8:45–9:00"
   - type: talk_session
-    name: Talk Session 1
-    chairid: mary_moroney
+    name: Invited Talk
+    chairid: vincent_rouillard 
     subevents:
-    - time: "9:00-9:40"
-      talkid: roberts_double
-    - time: "9:40-10:20"
-      talkid: banerjee_accounting
-    - time: "10:20-11:00"
-      talkid: wang_tiered
+    - time: "9:00-10:00"
+      talkid: shwarz_title
+  - type: talk_session
+    name:  Session 1
+    chairid: vincent_rouillard
+    subevents:
+    - time: "10:00-10:40"
+      talkid: surname_keyword
   - type: break
     name: Coffee Break
-    time: "11:00-11:20"
-  - type: workshop
-    chairid: mary_moroney
-    name: Spotlighting sign languages in semantics
-    time: "11:20-12:50"
+    time: "10:40-11:00"
+  - type: talk_session
+    name:  Session 2
+    chairid: vincent_rouillard
+    subevents:
+    - time: "11:00-11:40"
+      talkid: surname_keyword   
+  - type: lightning
+    chairid: vincent_rouillard
+    name: "Lightning Talk Session 1"
+    time: "11:40-12:20"
   - type: break
-    name: Lunch (<i>not provided</i>)
-    time: "12:50-14:20"
+    name: Lunch (<i>on your own</i>)
+    time: "12:20-13:20"
+  - type: poster
+    name: Poster Session A
+    time: "13:20-14:50"   ####new details added till here
   - type: keynote
     time: "14:20-15:20"
     chairid: scott_grimm
