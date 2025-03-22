@@ -2,9 +2,6 @@
 title: Program
 layout: default
 ---
- <!---
-<embed src="https://saltconf.github.io/salt35/assets/schedule.pdf" width="500" height="700" type="application/pdf" />
---->
 
 
 <script type="text/javascript">
