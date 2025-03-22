@@ -131,3 +131,24 @@
     - type: break
       name: Conference Dinner 
       time: "18:30-21:30"
+    - day: thursday
+      date: Thursday, May 22
+      events:
+    - type: break
+      name: Breakfast
+      time: "8:30-9:00"
+    - type: talk_session
+      name: "Invited Talk"
+      chairid: vincent_rouillard
+      subevents:
+      - time: "9:00-10:00"
+        talkid: mayr_title
+    - type: talk_session
+      name:  Session 9
+      chairid: vincent_rouillard
+      subevents:
+      - time: "10:00-10:40"
+        talkid: surname_keyword
+      - time: "10:40-11:20"
+        talkid: surname_keyword  
+      
