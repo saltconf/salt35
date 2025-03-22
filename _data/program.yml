@@ -98,17 +98,7 @@
     chairid: vincent_rouillard
     subevents:
     - time: "11:40-12:20"
-      talkid: surname_keyword  
-  - type: lightning
-    chairid: vincent_rouillard
-    name: "Lightning Talk Session 2"
-    time: "12:20-13:00"
-  - type: break
-    name: Lunch (<i>on your own and pop-up mentoring</i>)
-    time: "13:00-14:00"
-  - type: poster
-    name: Poster Session B
-    time: "14:00-15:30"   ### new details added till here
+      talkid: surname_keyword   ### new details till here
   - type: break
     name: Coffee Break
     time: "15:30-15:50"
