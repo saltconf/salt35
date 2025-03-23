@@ -63,7 +63,55 @@ hazel_pearson:
   institutions:
   - Queen Mary University of London
   website: "https://sites.google.com/site/hazelpearsonling/home"
-
+daniel_altshuler:
+  institutions:
+  - University of Oxford
+  name: Daniel Altshuler
+  website: https://danielaltshuler.com
+filipe_kobayashi:
+  name: Filipe Hisao Kobayashi
+  institutions:
+  - University of Salzburg
+  website: http://fhkobayashi.net/
+maribel_romero:
+  institutions:
+  - Universität Konstanz
+  name: Maribel Romero
+  website: https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/index.html
+danny_fox:
+  name: Danny Fox
+  institutions:
+  -MIT
+  website: null
+yasutada_sudo:
+  name: Yasutada Sudo
+  institutions:
+  - UCL
+  website: null
+ciyang_qing:
+  name: Ciyang Qing
+  institutions:
+  - null
+  website:
+deniz_ozyildiz:
+  name: Deniz Özyıldız
+  institutions:
+  - University of Konstanz
+  website: null
+wataru_uegaki:
+  name: Wataru Uegaki
+  institutions:
+  - University of Edinburgh
+luke_adamson:
+  name: Luke James Adamson
+  institutions:
+  - ZAS
+  website: null
+kajsa_djarv:
+  name: Kajsa Djärv
+  institutions:
+  - University of Edinburgh
+  website: null
  
  
 
