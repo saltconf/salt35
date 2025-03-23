@@ -114,7 +114,7 @@
       chairid: vincent_rouillard
       subevents:
       - time: "15:30-16:10"
-        talkid: surname_keyword
+        talkid: levina_nominals
       - time: "16:10-16:50"
         talkid: surname_keyword
     - type: break
