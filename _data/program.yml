@@ -52,7 +52,7 @@
     chairid: vincent_rouillard
     subevents:
     - time: "14:50-15:30"
-      talkid: surname_keyword
+      talkid: mortier_alternatives
     - time: "15:30-16:10"
       talkid: surname_keyword 
   - type: break
