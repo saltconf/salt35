@@ -21,7 +21,7 @@
     chairid: vincent_rouillard 
     subevents:
     - time: "9:00-10:00"
-      talkid: shwarz_title
+      talkid: rett_characterizing
   - type: talk_session
     name:  Session 1
     chairid: name_surname
