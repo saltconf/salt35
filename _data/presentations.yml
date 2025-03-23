@@ -378,7 +378,7 @@ posters:
     abstract_formats: null
     materials_type: null
     materials_format: null
-  charnavel_relatives
+  charnavel_relatives:
     authors:
     - isabelle_charnavel  
     - anouk_dieuleveut  
