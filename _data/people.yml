@@ -144,7 +144,46 @@ nina_haslinger:
   name: Nina Haslinger
   institutions: 'MIT/ZAS'
   website: null 
-
+shen_aguinda:
+ name: Shen Aguinda
+ institutions: null
+ website: null
+guillaume_guitang:
+  name: Guillaume Guitang
+  institutions: null
+  website: null
+nathaniel_scott:
+  name: Nathaniel Scott
+  institutions: null
+  website: null
+scott_anderbois:
+  name: Scott AnderBois
+  institutions: null
+  website: null
+patrick_elliott:
+  name: Patrick Elliott
+  institutions: null
+  website: null
+adrian_brasoveanu:
+  name: Adrian Brasoveanu
+  institutions: null
+  website: null
+jessica_mendes:
+  name: Jéssica Mendes
+  institutions: Georg-August Universität Göttingen
+  website: null
+daniel_kang:
+  name: Daniel Kang
+  institutions: null
+  website: null
+koda_li:
+  name: Koda Li
+  institutions: null
+  website: null
+simon_charlow:
+  name: Simon Charlow
+  institutions: Yale University
+  website: null
   
   
 
