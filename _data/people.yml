@@ -63,21 +63,6 @@ hazel_pearson:
   institutions:
   - Queen Mary University of London
   website: "https://sites.google.com/site/hazelpearsonling/home"
-daniel_altshuler:
-  institutions:
-  - University of Oxford
-  name: Daniel Altshuler
-  website: https://danielaltshuler.com
-filipe_kobayashi:
-  name: Filipe Hisao Kobayashi
-  institutions:
-  - Penn
-  website: http://fhkobayashi.net/
-maribel_romero:
-  institutions:
-  - Universität Konstanz
-  name: Maribel Romero
-  website: https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/index.html
 aaron_white:
   name: Aaron Steven White
   institutions:
