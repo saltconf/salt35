@@ -182,6 +182,15 @@ posters:
     lightning_bin: 0
     abstract_formats: null
     materials_type: null
-    materials_format: null   
-    
+    materials_format: null 
+  surname_keyword:
+    authors:
+    - name_surname
+    - name_surname
+    title: Title of presentation
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null    
+      
   
