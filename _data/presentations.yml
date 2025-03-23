@@ -323,8 +323,132 @@ posters:
     lightning_bin: 1
     abstract_formats: null
     materials_type: null
-    materials_format: null    
-      
+    materials_format: null
+  haberland_monotonicity:
+    authors:
+    - christopher_haberland
+    - shane_threlkeld
+    title: Degree of monotonicity is correlated with ease of learning for quantifiers
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  nicolae_polarity:
+    authors:
+    - andreea_nicolae
+    - stephanie_solt
+    title: On the derivation of polarity sensitivity in the domain of degree modifiers
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  gajewski_anaphora:
+    authors:
+    - jon_gajewski
+    title: 'Neg-raising, accessibility and propositional anaphora'
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  zhang_disjunction:
+    authors:
+    - yichi_zhang
+    title: On speech act disjunction
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  renans_kinds:
+    authors:
+    - agata_renans
+    - akua_campbell 
+    - sampson_korsah
+    title: Bare singular and plural kinds
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  newkirk_bardi:
+    authors:
+    - lydia_newkirk  
+    - claire_bowern 
+    - tomas_lynch
+    title: 'Degreeless intensification and scale structure: Evidence from Bardi'
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  charnavel_relatives
+    authors:
+    - isabelle_charnavel  
+    - anouk_dieuleveut  
+    - tom_meadows  
+    - david_muller  
+    - dominique_sportiche
+    title: 'Who am I to (dis)agree? Interpretation sensitive agreement: Experimental evidence from French relatives'
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  alstott_aspect:
+    authors:
+    - johanna_alstott
+    title: 'On aspectual coercion in "before"-clauses: Evidence from processing'
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  kendrick_disjunction:
+    authors:
+    - jonathan_kendrick  
+    - yunhui_bai
+    title: Restriction in Doubly Modal Disjunctions
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  wu_metalinguistic:
+    authors:
+    - yifan_wu 
+    - helena_aparicio
+    title: 'First-person metalinguistic disagreements update the standard of precision, both up and down'
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  xia_pronoun:
+    authors:
+    - chenxi_xia
+    title: 'The resolution of silence: Towards an attention-coherence approach to Mandarin null pronoun resolution'
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  nadathur_frustratives:
+    authors:
+    - prerna_nadathur 
+    - michael_everdell
+    title: 'Reanalyzing frustration: event maximality and non-inertia in two O''dam frustratives'
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  santorio_conditional:
+    authors:
+    - paolo_santorio
+    title: Don’t speak vacuously! Antecedent compatibility and trivalent conditionals
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  feiman_maximality:
+    authors:
+    - diego_feiman
+    title: Probabilistic non-maximality
+    lightning_bin: 1
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
 
 
   
