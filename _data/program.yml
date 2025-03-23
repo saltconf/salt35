@@ -18,10 +18,10 @@
     time: "8:45–9:00"
   - type: keynote
     name: Invited Talk
-    chairid: vincent_rouillard 
+    chairid: name_surname
     subevents:
     - time: "9:00-10:00"
-      talkid: rett_characterizing
+      talkid: mayr_title
   - type: talk_session
     name:  Session 1
     chairid: name_surname
@@ -38,7 +38,7 @@
     - time: "11:00-11:40"
       talkid: qing_questions   
   - type: lightning
-    chairid: vincent_rouillard
+    chairid: name_surname
     name: "Lightning Talk Session 1"
     time: "11:40-12:20"
   - type: break
@@ -49,7 +49,7 @@
     time: "13:20-14:50"   ####new details added till here
   - type: talk_session
     name:  Session 3
-    chairid: vincent_rouillard
+    chairid: name_surname
     subevents:
     - time: "14:50-15:30"
       talkid: mortier_alternatives
@@ -60,13 +60,13 @@
     time: "16:10-16:30"
   - type: talk_session
     name:  Session 4
-    chairid: vincent_rouillard
+    chairid: name_surname
     subevents:
     - time: "16:30-17:10"
       talkid: altshuler_alternatives  
   - type: keynote
     name: Invited Talk
-    chairid: vincent_rouillard 
+    chairid: name_surname
     subevents:
     - time: "17:10-18:10"
       talkid: arregui_title  #### new details added till here
@@ -78,13 +78,13 @@
       time: "8:30-9:00"
     - type: keynote
       name: "Invited Talk"
-      chairid: vincent_rouillard
+      chairid: name_surname
       subevents:
       - time: "9:00-10:00"
         talkid: pearson_title
     - type: talk_session
       name:  Session 5
-      chairid: vincent_rouillard
+      chairid: name_surname
       subevents:
       - time: "10:00-10:40"
         talkid: adamson_complementation
@@ -95,12 +95,12 @@
       time: "11:20-11:40"
     - type: talk_session
       name:  Session 6
-      chairid: vincent_rouillard
+      chairid: name_surname
       subevents:
       - time: "11:40-12:20"
         talkid: kang_anaphora
     - type: lightning
-      chairid: vincent_rouillard
+      chairid: name_surname
       name: "Lightning Talk Session 2"
       time: "12:20-13:00"
     - type: break
@@ -111,7 +111,7 @@
       time: "14:00-15:30"
     - type: talk_session
       name:  Session 7
-      chairid: vincent_rouillard
+      chairid: name_surname
       subevents:
       - time: "15:30-16:10"
         talkid: levina_nominals
@@ -122,7 +122,7 @@
       time: "16:50-17:10"   
     - type: talk_session
       name:  Session 8
-      chairid: vincent_rouillard
+      chairid: name_surname
       subevents:
       - time: "17:10-17:50"
         talkid: kubota_presupposition
@@ -139,13 +139,13 @@
       time: "8:30-9:00"
     - type: keynote
       name: "Invited Talk"
-      chairid: vincent_rouillard
+      chairid: name_surname
       subevents:
       - time: "9:00-10:00"
         talkid: mayr_title
     - type: talk_session
       name:  Session 9
-      chairid: vincent_rouillard
+      chairid: name_surname
       subevents:
       - time: "10:00-10:40"
         talkid: kobayashi_quantification
@@ -156,7 +156,7 @@
       time: "11:20-11:40"
     - type: talk_session
       name:  Session 10
-      chairid: vincent_rouillard
+      chairid: name_surname
       subevents:
       - time: "11:40-12:20"
         talkid: mendes_conditionals
