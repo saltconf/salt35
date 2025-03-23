@@ -32,7 +32,7 @@ keynotes:
 
 talks:
   name: Talks
-  surname_key:
+  surname_keyword:
     authors:
     - name_surname
     - name_surname
@@ -174,7 +174,7 @@ talks:
     
 posters:
   name: Posters
-  surname_keyword:
+  surname_key:
     authors:
     - name_surname
     - name_surname
