@@ -66,7 +66,27 @@ talks:
     abstract_formats: null
     materials_type: null
     materials_format: null  
- 
+  williams_complementation:
+    authors:
+    - will_williams
+    title: The presuppositions of ''forget''
+    abstract_formats: null
+    materials_type: null
+    materials_format: null    
+  levina_nominals:
+    authors:
+    - ekaterina_levina
+    title: Definite but not specific: weak definites and clitic doubling
+    abstract_formats: null
+    materials_type: null
+    materials_format: null  
+  degano_nominals:
+    authors:
+    - marco_degano
+    title: Plural Epistemic Indefinites
+    abstract_formats: null
+    materials_type: null
+    materials_format: null   
     
 
 posters:
