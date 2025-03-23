@@ -36,7 +36,7 @@
     chairid: vincent_rouillard
     subevents:
     - time: "11:00-11:40"
-      talkid: surname_keyword   
+      talkid: qing_questions   
   - type: lightning
     chairid: vincent_rouillard
     name: "Lightning Talk Session 1"
