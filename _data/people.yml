@@ -1,3 +1,8 @@
+name_surname:
+  name: Name Surname
+  institutions:
+  -University
+  website: null
 kate_davidson:
   name: Kathryn Davidson
   institutions:
