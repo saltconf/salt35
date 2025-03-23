@@ -306,8 +306,14 @@ jacopo_romoli:
   name: Jacopo Romoli
   institutions: null
   website: null
-  name: Christopher Haberland 
+christopher_haberland:
+  name: Christopher Haberland
+  institutions: null
+  website: null
+shane_threkeld:
   name: Shane Steinert-Threlkeld
+  institutions: null
+  website: null
 andreea_nicolae:
   institutions:
   - ZAS
