@@ -122,7 +122,24 @@ marco_degano:
   name: Marco Degano
   institutions: null
   website: null 
- 
+jad_wehbe:
+  name: Jad Wehbe
+  institutions:
+  - MIT
+  website: null
+yusuke_kubota:
+  name: Yusuke Kubota
+  institutions: null
+  website: null
+adele_mortier:
+  name: Adèle Hénot-Mortier
+  institutions:
+  - MIT
+  website: null
+nina_haslinger:
+  name: Nina Haslinger
+  institutions: 'MIT/ZAS'
+  website: null 
 
   
   
