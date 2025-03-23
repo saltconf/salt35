@@ -27,7 +27,7 @@
     chairid: vincent_rouillard
     subevents:
     - time: "10:00-10:40"
-      talkid: surname_keyword
+      talkid: fox_questions
   - type: break
     name: Coffee Break
     time: "10:40-11:00"
