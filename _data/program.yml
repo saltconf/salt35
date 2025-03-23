@@ -116,7 +116,7 @@
       - time: "15:30-16:10"
         talkid: levina_nominals
       - time: "16:10-16:50"
-        talkid: surname_keyword
+        talkid: degano_nominals
     - type: break
       name: Coffee Break
       time: "16:50-17:10"   
