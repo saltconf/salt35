@@ -62,8 +62,8 @@
     name:  Session 4
     chairid: vincent_rouillard
     subevents:
-    - time: "14:30-17:10"
-      talkid: surname_keyword  
+    - time: "16:30-17:10"
+      talkid: altshuler_alternatives  
   - type: talk_session
     name: Invited Talk
     chairid: vincent_rouillard 
@@ -98,7 +98,7 @@
       chairid: vincent_rouillard
       subevents:
       - time: "11:40-12:20"
-        talkid: surname_keyword
+        talkid: kang_anaphora
     - type: lightning
       chairid: vincent_rouillard
       name: "Lightning Talk Session 2"
@@ -148,9 +148,9 @@
       chairid: vincent_rouillard
       subevents:
       - time: "10:00-10:40"
-        talkid: surname_keyword
+        talkid: kobayashi_quantification
       - time: "10:40-11:20"
-        talkid: surname_keyword
+        talkid: elliott_quantification
     - type: break
       name: Coffee Break
       time: "11:20-11:40"
@@ -159,11 +159,11 @@
       chairid: vincent_rouillard
       subevents:
       - time: "11:40-12:20"
-        talkid: surname_keyword
+        talkid: mendes_conditionals
       - time: "12:20-13:00"
-        talkid: surname_keyword
+        talkid: brasoveanu_conditionals
       - time: "13:00-13:40"
-        talkid: surname_keyword    
+        talkid: charlow_updates    
     - type: break
       name: Business meeting on Zoom
       time: "tbd"   
