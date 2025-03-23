@@ -127,7 +127,50 @@ talks:
     abstract_formats: null
     materials_type: null
     materials_format: null 
-
+  elliott_quantification:
+    authors:
+    - patrick_elliott
+    title: Determiners as predicates
+    abstract_formats: null
+    materials_type: null
+    materials_format: null 
+  kobayashi_quantification:
+    authors:
+    - filipe_kobayashi
+    title: From NPs to predicates of individual concepts
+    abstract_formats: null
+    materials_type: null
+    materials_format: null 
+  brasoveanu_conditionals:
+    authors:
+    - adrian_brasoveanu
+    title: Towards a Cognitively Plausible Quantitative Formalization of Counterfactual Interpretation
+    abstract_formats: null
+    materials_type: null
+    materials_format: null    
+  mendes_conditionals:
+    authors:
+    - jessica_mendes
+    title: A new perspective on deictic shift
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
+  kang_anaphora:
+    authors:
+    - daniel_kang
+    - koda_li
+    - scott_anderbois
+    title: Propositional anaphora and salience in the semantics of ''in which case'' 
+    abstract_formats: null
+    materials_type: null
+    materials_format: null    
+  charlow_updates:
+    authors:
+    - simon_charlow
+    title: Staged updates 
+    abstract_formats: null
+    materials_type: null
+    materials_format: null
     
 posters:
   name: Posters
