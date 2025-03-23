@@ -87,7 +87,7 @@
       chairid: vincent_rouillard
       subevents:
       - time: "10:00-10:40"
-        talkid: surname_keyword
+        talkid: adamson_complementation
       - time: "10:40-11:20"
         talkid: surname_keyword
     - type: break
