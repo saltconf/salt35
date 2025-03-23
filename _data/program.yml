@@ -127,7 +127,7 @@
       - time: "17:10-17:50"
         talkid: surname_keyword
       - time: "17:50-18:30"
-        talkid: surname_keyword  
+        talkid: wehbe_presupposition 
     - type: break
       name: Conference Dinner 
       time: "18:30-21:30"
