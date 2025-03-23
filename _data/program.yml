@@ -24,7 +24,7 @@
       talkid: shwarz_title
   - type: talk_session
     name:  Session 1
-    chairid: vincent_rouillard
+    chairid: name_surname
     subevents:
     - time: "10:00-10:40"
       talkid: fox_questions
@@ -33,7 +33,7 @@
     time: "10:40-11:00"
   - type: talk_session
     name:  Session 2
-    chairid: vincent_rouillard
+    chairid: name_surname
     subevents:
     - time: "11:00-11:40"
       talkid: qing_questions   
