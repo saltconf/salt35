@@ -14,14 +14,12 @@
     time: "8:00–8:45"
   - type: welcome
     name: Welcome
-    chairid: gennaro_chierchia   ####Added new details here
+    chairid: gennaro_chierchia  
     time: "8:45–9:00"
   - type: keynote
-    name: Invited Talk
+    time: "9:00-10:00"
     chairid: name_surname
-    subevents:
-    - time: "9:00-10:00"
-      talkid: mayr_title
+    talkid: arregui_title
   - type: talk_session
     name:  Session 1
     chairid: name_surname
