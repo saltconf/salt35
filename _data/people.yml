@@ -112,7 +112,16 @@ kajsa_djarv:
   institutions:
   - University of Edinburgh
   website: null
- 
+will_williams:
+  name: Will Williams
+ekaterina_levina:
+  name: Ekaterina Levina
+  institutions: null
+  website: null
+marco_degano:
+  name: Marco Degano
+  institutions: null
+  website: null 
  
 
   
