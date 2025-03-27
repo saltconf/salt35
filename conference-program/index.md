@@ -18,6 +18,7 @@ layout: default
 
 All talks and posters at SALT35 will take place in the Science Center at 1 Oxford Street, just outside Harvard Yard.
 
+ASL interpretation will be available for all keynote talks and presentations.
 
 <p>
   <b>NB:</b> This schedule is preliminary and subject to change.
