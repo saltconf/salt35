@@ -67,17 +67,17 @@ daniel_altshuler:
   institutions:
   - University of Oxford
   name: Daniel Altshuler
-  website: https://danielaltshuler.com
+  website: null
 filipe_kobayashi:
   name: Filipe Hisao Kobayashi
   institutions:
   - University of Salzburg
-  website: http://fhkobayashi.net/
+  website: null
 maribel_romero:
   institutions:
   - Universität Konstanz
   name: Maribel Romero
-  website: https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/index.html
+  website: null
 danny_fox:
   name: Danny Fox
   institutions:
@@ -159,7 +159,7 @@ nathaniel_scott:
 scott_anderbois:
   name: Scott AnderBois
   institutions: null
-  website: https://research.clps.brown.edu/anderbois/index.html
+  website: null
 patrick_elliott:
   name: Patrick Elliott
   institutions: null
@@ -211,7 +211,7 @@ ariele_ye:
 dorothy_ahn:  
   name: Dorothy Ahn
   institutions: null
-  website: https://www.dorothyahn.com
+  website: null
 noga_syon:  
   name: Noga Syon
   institutions: null
@@ -220,7 +220,7 @@ maria_esipova:
   institutions:
   - Bar-Ilan University
   name: Maria Esipova
-  website: https://esipova.net/
+  website: null
 sybil_vachaudez:  
   name: Sybil Vachaudez
   institutions: null
@@ -241,7 +241,7 @@ robert_henderson:
   name: Robert Henderson
   institutions:
   - University of Arizona
-  website: "https://www.rhenderson.net/"
+  website: null
 jeremy_kuhn:  
   name: Jeremy Kuhn
   institutions: null
@@ -318,7 +318,7 @@ andreea_nicolae:
   institutions:
   - ZAS
   name: Andreea Nicolae
-  website: https://sites.google.com/site/andreeanicolae/?pli=1
+  website: null
 stephanie_solt:  
   name: Stephanie Solt
   institutions: null
@@ -411,7 +411,7 @@ paolo_santorio:
   institutions:
   - University of Maryland, College Park
   name: Paolo Santorio
-  website: http://paolosantorio.net
+  website: null
 diego_feiman:  
   name: Diego Feinmann
   institutions: null
