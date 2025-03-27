@@ -304,6 +304,7 @@ posters:
   marty_choice:
     authors:
     - paul_marty
+    - patrick_elliott
     - guillermo_pinal   
     - jacopo_romoli 
     title: 'Free Choice in (non-)monotonic contexts'
