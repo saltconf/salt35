@@ -12,7 +12,7 @@ Please follow the link below to find instructions and information for online reg
 </div>
 
 
-Early registration runs from March 5–April 20, 2025. Late registration runs from April 21- May 18, 2025.
+Early registration runs from March 5 - April 20, 2025. Late registration runs from April 21 - May 18, 2025.
 
 <hr/>
 
