@@ -35,5 +35,5 @@ Please let us know if you have any questions: <span style="font-family: monospac
 
 The [proceedings](https://journals.linguisticsociety.org/proceedings/index.php/SALT) of SALT are published by the [LSA](https://www.linguisticsociety.org/). All presenters at SALT35 may publish in the proceedings. An email will be sent to authors by the editors in June, but some preliminary information is below.
 
-The page limit is 18 pages for talks and posters (24 pages for invited talks). This does not include references, but does include all other material. The proceedings submission deadline is August 15, 2025.
+The page limit is 18 pages for talks and posters, 24 pages for invited speakers, both limits excluding references. The proceedings submission deadline is August 15, 2025.
 
