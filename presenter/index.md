@@ -9,7 +9,7 @@ SALT35 is primarily an in-person conference; however if a presenter is unable to
 
 ASL interpretation will be available for all keynote talks and presentations.
 
-Please let us know if you have any questions: salt35.harvard@gmail.com.
+Please let us know if you have any questions: <span style="font-family: monospace">[salt35.harvard@gmail.com](mailto:salt35.harvard@gmail.com)</span>. 
 
 
 
