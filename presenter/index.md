@@ -5,9 +5,12 @@ layout: default
 
 ## Information for Presenters
 
-All accepted works will be included in the proceedings even if presenters are unable to present in person.
-If come we are able to make pre-recorded presentations available.
+SALT35 is primarily an in-person conference; however if a presenter is unable to attend due to visa, health, or any other restrictions, we can accommodate pre-recorded talks. If you wish to submit a pre-recorded talk, please let us know by May 5, 2025. All accepted works will be included in the proceedings even if presenters are unable to attend.
+
+ASL interpretation will be available for all keynote talks and presentations.
+
 Please let us know if you have any questions: salt35.harvard@gmail.com.
+
 
 
 ## Important Dates
