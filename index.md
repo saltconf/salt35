@@ -82,3 +82,4 @@ SALT35 is supported by the [Mind, Brain and Behaviour Interfaculty Initiative](h
 
  <img src=" assets/images/harvard-logo.svg" alt="Harvard logo" width="150" /> <img src=" assets/images/lsa-logo.svg" alt="LSA logo" width="150" /> 
 
+###### This website has been adapted by Natasha Thalluri (graduate student at Harvard Linguistics), from the SALT34 and SALT33 websites following the websites for SALT30 (Sarah Murray), SALT31 (Roman Feiman), and SALT32 (Rafael Herrera Jiménez), in collaboration with SALT’s steering committee. The logo for SALT35 has been designed by Yvette Yi-Chi Wu (graduate student at Harvard Linguistics).
