@@ -15,9 +15,9 @@ Please let us know if you have any questions: <span style="font-family: monospac
 
 ## Important Dates
 
-- ~~April 1, 2025~~ April 15, 2025: Submit abstract with names ([post to our OSF repository](https://osf.io/meetings/SALT35))
+- ~~April 1, 2025~~ April 15, 2025: Submit abstract with names and affiliations [ to our OSF repository](https://osf.io/meetings/SALT35)
 - May 13, 2025, 11:59 PM  EST: Deadline to sign up for [PUMP](https://osf.io/meetings/SALT35)
-- May 20 - 22,2025: [SALT 35!](https://saltconf.github.io/salt35/conferenceprogram.html)
+- May 20 - 22,2025: [SALT 35!]([https://saltconf.github.io/salt35/conferenceprogram.html](https://saltconf.github.io/salt35/conference-program/))
 - August 15, 2025: Proceedings due
 
 
