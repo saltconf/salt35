@@ -5,7 +5,7 @@ layout: default
 
 ## Information for Presenters
 
-All accepted works will be included in the proceedings even if presenters are unable to present.
+All accepted works will be included in the proceedings even if presenters are unable to present in person.
 If come we are able to make pre-recorded presentations available.
 Please let us know if you have any questions: salt35.harvard@gmail.com.
 
