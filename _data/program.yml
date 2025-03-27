@@ -14,7 +14,7 @@
     time: "8:00–8:45"
   - type: welcome
     name: Welcome
-    chairid: gennaro_chierchia  
+    chairid: name_surname
     time: "8:45–9:00"
   - type: keynote
     time: "9:00-10:00"
