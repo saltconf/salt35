@@ -7,7 +7,7 @@ layout: default
 
 SALT35 is primarily an in-person conference; however if a presenter is unable to attend due to visa, health, or any other restrictions, we can accommodate pre-recorded talks. If you wish to submit a pre-recorded talk, please let us know by May 5, 2025. All accepted works will be included in the proceedings even if presenters are unable to attend.
 
-ASL interpretation will be available for all keynote talks and presentations.
+ASL interpretation will be available for all presentations. Please ensure that your materials are as updated as possible on the OSF site to allow our interpreting team to provide the best access.
 
 Please let us know if you have any questions: <span style="font-family: monospace">[salt35.harvard@gmail.com](mailto:salt35.harvard@gmail.com)</span>. 
 
