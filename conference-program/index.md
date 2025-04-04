@@ -18,7 +18,7 @@ layout: default
 
 All talks and posters at SALT35 will take place in the Science Center at 1 Oxford Street, just outside Harvard Yard. The conference dinner on May 21st will be held at the Cambridge Queen's Head Pub right across the road from the Science Center.
 
-ASL interpretation will be available for all presentations.
+ASL interpretation will be available for all presentations. Please ensure that your materials are as updated as possible on the OSF site to allow our interpreting team to provide the best access.
 
 <p>
   <b>NB:</b> This schedule is preliminary and subject to change.
