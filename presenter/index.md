@@ -9,6 +9,7 @@ SALT35 is primarily an in-person conference; however if a presenter is unable to
 
 ASL interpretation will be available for all presentations. Please ensure that your materials are as updated as possible on the OSF site to allow our interpreting team to provide the best access.
 
+
 Please let us know if you have any questions: <span style="font-family: monospace">[salt35.harvard@gmail.com](mailto:salt35.harvard@gmail.com)</span>. 
 
 
@@ -30,6 +31,7 @@ Please let us know if you have any questions: <span style="font-family: monospac
   Each presentation at SALT 35 will have its own OSF page on the [SALT 35 repository](https://osf.io/meetings/SALT35/). You can upload your abstract as well as videos, slides, handouts, a poster, or a paper draft to your presentation page. 
 [Please upload your abstract to our OSF repository](https://docs.google.com/document/d/1ivLVeF4PX7eZ-S89MI1THm7mx3yhJlOIBzd1sage5CY/edit?usp=sharing) by ~~April 1, 2025~~ April 15, 2025, with your names and affiliations added, and we will link to it in the program. Additional material can then be added to your OSF page.
 
+Posters may be either in portrait or landscape format such that that fit on 4 ft. x 6 ft. landscape poster board. For better accessibility please upload your posters to the OSF respository.
 
 ## Proceedings
 
