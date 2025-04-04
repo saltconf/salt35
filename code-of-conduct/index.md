@@ -9,7 +9,7 @@ layout: default
 
 ### Civility
 
-All participants of SALT35 are subject to the [LSA’s Civility Policy](https://www.linguisticsociety.org/content/lsa-civility-policy). 
+All participants of SALT35 are subject to the [LSA's civility policy](https://www.lsadc.org/lsa_code_of_conduct_for_events). 
 
 <hr/>
 
