@@ -32,7 +32,7 @@ Please let us know if you have any questions: <span style="font-family: monospac
 Each presentation at SALT 35 will have its own OSF page on the [SALT 35 repository](https://osf.io/meetings/SALT35/). You can upload your abstract as well as videos, slides, handouts, a poster, or a paper draft to your presentation page. 
 [Please upload your abstract to our OSF repository](https://docs.google.com/document/d/1ivLVeF4PX7eZ-S89MI1THm7mx3yhJlOIBzd1sage5CY/edit?usp=sharing) by ~~April 1, 2025~~ April 15, 2025, with your names and affiliations added, and we will link to it in the program. Additional material can then be added to your OSF page.
 
-Posters may be either in portrait or landscape format such that they fit on 4 ft. x 6 ft. landscape poster board. For better accessibility please upload your posters to the OSF respository.
+Posters may be either in portrait or landscape format such that they fit on 4 ft. x 6 ft. landscape poster board. For better accessibility please upload your posters to the OSF repository.
 
 ## Proceedings
 
