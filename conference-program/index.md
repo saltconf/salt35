@@ -125,7 +125,7 @@ ASL interpretation will be available for all presentations. For any questions re
     </tr>
     {% for posterinfo in site.data.presentations.posters %}
       {% if lightning_bin == posterinfo[1].lightning_bin %}
-      <tr class="posterInfoLight{{ lightning_bin_str }} hidden">
+      <tr class="posterInfoLight{{ lightning_bin_str }}">
         <td class="time">&nbsp;</td>
         <td class="title">
         {% if posterinfo[1].abstract_formats contains "md" %}
