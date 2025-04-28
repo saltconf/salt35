@@ -195,7 +195,8 @@ posters:
   duff_discourse:
     authors:
     - john_duff  
-    - kelsey_sasaki  
+    - kelsey_sasaki
+    - daniel_altshuler
     title: 'Incremental interpretation of discourse coherence: Evidence from reading times'
     lightning_bin: 0
     abstract_formats: null
