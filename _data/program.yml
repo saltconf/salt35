@@ -18,7 +18,7 @@
     time: "8:45–9:00"
   - type: keynote
     time: "9:00-10:00"
-    chairid: name_surname
+    chairid: kate_davidson
     talkid: schwarz_title
   - type: talk_session
     name:  Session 1
@@ -64,8 +64,8 @@
       talkid: altshuler_alternatives  
   - type: keynote
     time: "17:10-18:10"
-    chairid: name_surname
-    talkid: arregui_title  #### new details added till here
+    chairid: tatiana_bondarenko
+    talkid: arregui_title  
 - day: wednesday
   date: Wednesday, May 21
   events:
@@ -74,7 +74,7 @@
       time: "8:30-9:00"
     - type: keynote
       time: "9:00-10:00"
-      chairid: name_surname
+      chairid: gennaro_chierchia
       talkid: pearson_title
     - type: talk_session
       name:  Session 5
@@ -133,7 +133,7 @@
       time: "8:30-9:00"
     - type: keynote
       time: "9:00-10:00"
-      chairid: name_surname
+      chairid: gennaro_chierchia
       talkid: mayr_title
     - type: talk_session
       name:  Session 9
