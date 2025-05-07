@@ -7,7 +7,7 @@ layout: default
 
 SALT35 is primarily an in-person conference; however if a presenter is unable to attend due to visa, health, or any other restrictions, we can accommodate pre-recorded talks. If you already know that you wish to submit a pre-recorded talk please let us know by May 5th as that will greatly help in our planning. However, we also understand that there may last minute travel issues, in which case we would be happy to work with you to set up a suitable remote presentation format. All accepted works will be included in the proceedings even if presenters are unable to attend.
 
-ASL interpretation will be available for all presentations. The interpreting team greatly relies on timely access to presentation materials in order to prepare for the event. So please ensure that your materials are as updated as possible on the OSF site by the deadlines to allow our interpreting team to provide the best access all attendees.
+ASL interpretation will be available for all presentations. The interpreting team greatly relies on timely access to presentation materials in order to prepare for the event. So please ensure that your materials are as updated as possible on the OSF site by the deadlines to allow our interpreting team to provide the best access to all attendees.
 
 
 Please let us know if you have any questions: <span style="font-family: monospace">[salt35.harvard@gmail.com](mailto:salt35.harvard@gmail.com)</span>. 
@@ -32,7 +32,9 @@ Please let us know if you have any questions: <span style="font-family: monospac
 Each presentation at SALT 35 will have its own OSF page on the [SALT 35 repository](https://osf.io/meetings/SALT35/). You can upload your abstract as well as videos, slides, handouts, a poster, or a paper draft to your presentation page. 
 [Please upload your abstract to our OSF repository](https://docs.google.com/document/d/1ivLVeF4PX7eZ-S89MI1THm7mx3yhJlOIBzd1sage5CY/edit?usp=sharing) by ~~April 1, 2025~~ April 15, 2025, with your names and affiliations added, and we will link to it in the program. Additional material can then be added to your OSF page.
 
-Posters may be either in portrait or landscape format such that they fit on 4 ft. x 6 ft. landscape poster board. For better accessibility please upload your posters to the OSF repository.
+For better accessibility, we request that at least preliminary drafts of talk slides/handouts, posters, and lightning talk slides are uploaded to the OSF project repository by May 15, 2025  so that our interpreters can use the materials to prepare. Presenters can, of course, update their presentation slides till the day before their presentation, but having a preliminary draft version ahead of time helps the interpreting team to provide the best accessibility to everyone.
+
+Posters may be either in portrait or landscape format such that they fit on 4 ft. x 6 ft. landscape poster board.  Recommended poster specifications:  3' x 4' (either orientation is acceptable). For better accessibility please upload your posters to the OSF repository.
 
 ## Proceedings
 
