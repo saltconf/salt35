@@ -25,7 +25,7 @@ Please let us know if you have any questions: <span style="font-family: monospac
 ## Presentations
 
 - Paper sessions: 30 minute talk, 10 minute questions
-- Poster sessions: 3 minute lightning talk, 1.5 hour poster session
+- Poster sessions: 3 minute lightning talk in person, 1.5 hour poster session
 - Invited talk sessions: 45 minute talk, 15 minute questions
 
 
