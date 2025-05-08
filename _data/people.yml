@@ -67,70 +67,74 @@ daniel_altshuler:
   institutions:
   - University of Oxford
   name: Daniel Altshuler
-  website: null
+  website: "https://danielaltshuler.com"
 filipe_kobayashi:
   name: Filipe Hisao Kobayashi
   institutions:
   - University of Salzburg
-  website: null
+  website: "https://fhkobayashi.net"
 maribel_romero:
   institutions:
   - Universität Konstanz
   name: Maribel Romero
-  website: null
+  website: "https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/"
 danny_fox:
   name: Danny Fox
   institutions:
   - MIT
-  website: null
+  website: "https://linguistics.mit.edu/user/fox/"
 yasutada_sudo:
   name: Yasutada Sudo
   institutions:
   - UCL
-  website: null
+  website: "https://www.ucl.ac.uk/~ucjtudo/"
 ciyang_qing:
   name: Ciyang Qing
   institutions:
   - null
-  website:
+  website: "https://sites.google.com/site/qciyang/"
 deniz_ozyildiz:
   name: Deniz Özyıldız
   institutions:
   - University of Konstanz
-  website: null
+  website: "https://www.ling.uni-stuttgart.de/en/institute/team/Oezyildiz/"
 wataru_uegaki:
   name: Wataru Uegaki
   institutions:
   - University of Edinburgh
+  website: "https://www.wataruuegaki.com"
 luke_adamson:
   name: Luke James Adamson
   institutions:
   - ZAS
-  website: null
+  website: "https://lukejamesadamson.wixsite.com/linguistics"
 kajsa_djarv:
   name: Kajsa Djärv
   institutions:
   - University of Edinburgh
-  website: null
+  website: "https://kdjarv.wixsite.com/kajsadjarv"
 will_williams:
   name: Will Williams
+  institutions:
+  - University of Toronto 
+  website: "https://www.willixmwilliams.com"
 ekaterina_levina:
   name: Ekaterina Levina
   institutions: null
-  website: null
+  website: "https://www.katjalevina.com"
 marco_degano:
   name: Marco Degano
   institutions: null
-  website: null 
+  website: "https://m-degano.github.io"
 jad_wehbe:
   name: Jad Wehbe
   institutions:
   - MIT
-  website: null
+  website: "https://jadwehbenet.wordpress.com"
 yusuke_kubota:
   name: Yusuke Kubota
   institutions: null
-  website: null
+  website: "https://www2.ninjal.ac.jp/kubota/"
 misato_ido:
   name: Misato Ido
   institutions: null
@@ -139,11 +143,11 @@ adele_mortier:
   name: Adèle Hénot-Mortier
   institutions:
   - MIT
-  website: null
+  website: "https://adelemortier.github.io"
 nina_haslinger:
   name: Nina Haslinger
   institutions: 'MIT/ZAS'
-  website: null 
+  website: "http://www.ninahaslinger.net"
 shen_aguinda:
  name: Shen Aguinda
  institutions: null
@@ -151,7 +155,7 @@ shen_aguinda:
 guillaume_guitang:
   name: Guillaume Guitang
   institutions: null
-  website: null
+  website: "https://sites.google.com/view/guillaume-guitang/home"
 nathaniel_scott:
   name: Nathaniel Scott
   institutions: null
@@ -159,19 +163,19 @@ nathaniel_scott:
 scott_anderbois:
   name: Scott AnderBois
   institutions: null
-  website: null
+  website: "https://research.clps.brown.edu/anderbois/"
 patrick_elliott:
   name: Patrick Elliott
   institutions: null
-  website: null
+  website: "https://www.patrickdelliott.com"
 adrian_brasoveanu:
   name: Adrian Brasoveanu
   institutions: null
-  website: null
+  website: "https://people.ucsc.edu/~abrsvn/"
 jessica_mendes:
   name: Jéssica Mendes
   institutions: Georg-August Universität Göttingen
-  website: null
+  website: "https://linguistica.fflch.usp.br/en/node/598"
 daniel_kang:
   name: Daniel Kang
   institutions: null
@@ -183,27 +187,27 @@ koda_li:
 simon_charlow:
   name: Simon Charlow
   institutions: Yale University
-  website: null
+  website: "https://simoncharlow.com"
 takanobu_nakamura:  
   name: Takanobu Nakamura
   institutions: null
-  website: null
+  website: "https://takanobunakamura.github.io"
 kenta_mizutani:  
   name: Kenta Mizutani
   institutions: null
-  website: null
+  website: "https://sites.google.com/view/kenta-mizutani/home"
 john_duff:  
   name: John Duff
   institutions: null
-  website: null
+  website: "https://j-duff.github.io"
 kelsey_sasaki:  
   name: Kelsey Sasaki
   institutions: null
-  website: null
+  website: "https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/dr-kelsey-sasaki/"
 osamu_sawada:  
   name: Osamu Sawada
   institutions: null
-  website: null
+  website: "http://www.lit.kobe-u.ac.jp/~sawadao/index.html"
 ariele_ye:  
   name: Ariela Ye
   institutions: null
@@ -211,7 +215,7 @@ ariele_ye:
 dorothy_ahn:  
   name: Dorothy Ahn
   institutions: null
-  website: null
+  website: "https://www.dorothyahn.com"
 noga_syon:  
   name: Noga Syon
   institutions: null
@@ -220,7 +224,7 @@ maria_esipova:
   institutions:
   - Bar-Ilan University
   name: Maria Esipova
-  website: null
+  website: "https://esipova.net"
 sybil_vachaudez:  
   name: Sybil Vachaudez
   institutions: null
@@ -228,7 +232,7 @@ sybil_vachaudez:
 samantha_prins: 
   name: Samantha Prins
   institutions: null
-  website: null
+  website: "https://linguistics.arizona.edu/person/samantha-prins"
 juan_ajsivinac:  
   name: Juan Sian Ajsivinac
   institutions: null
