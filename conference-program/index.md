@@ -41,20 +41,18 @@ ASL interpretation will be available for all presentations. For any questions re
           {{ event.name }} // chair: <a href="{{ chair.website }}" class="chairName">{{ chair.name }}</a>
         </td>
       </tr>
-     {% for talk in event.subevents %}
+      {% for talk in event.subevents %}
         {% assign talkinfo = site.data.presentations.talks[talk.talkid] %}
         <tr class="talk">
           <td class="time">{{ talk.time }}</td>
           <td class="title">
-            {% if talkinfo.abstract_formats contains "http" %}
-  <a href="{{ talkinfo.abstract_formats }}">{{ talkinfo.title }}</a>
-{% elsif talkinfo.abstract_formats contains "md" %}
-  <a href="/salt34/abstracts/{{ talk.talkid }}.html">{{ talkinfo.title }}</a>
-{% elsif talkinfo.abstract_formats contains "pdf" %}
-  <a href="/salt34/abstracts/{{ talk.talkid }}.pdf">{{ talkinfo.title }}</a>
-{% else %}
-  {{ talkinfo.title }}
-{% endif %}
+            {% if talkinfo.abstract_formats contains "md" %}
+              <a href="/salt34/abstracts/{{ talk.talkid }}.html">{{ talkinfo.title }}</a>
+            {% elsif talkinfo.abstract_formats contains "pdf" %}
+              <a href="/salt34/abstracts/{{ talk.talkid }}.pdf">{{ talkinfo.title }}</a>
+            {% else %}
+              {{ talkinfo.title }}
+            {% endif %}
             {% if talkinfo.materials_format != null %}
               [<a href="{{ site.baseurl }}/presentation-materials/{{ talk.talkid }}.{{ talkinfo.materials_format }}">{{ talkinfo.materials_type }}</a>]
             {% endif %}
