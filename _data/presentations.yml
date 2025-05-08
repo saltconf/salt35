@@ -45,7 +45,7 @@ talks:
     - danny_fox
     - yasutada_sudo
     title: Nested ''which''-phrases and degenerate questions
-    abstract_formats: null
+    abstract_formats: "https://osf.io/nq7pz/"
     materials_type: null
     materials_format: null     
   qing_questions:
@@ -55,7 +55,7 @@ talks:
     - maribel_romero
     - wataru_uegaki
     title: 'Wondering hopefully and fearfully: How do desires and inquisitive attitudes interact?'
-    abstract_formats: null
+    abstract_formats: "https://osf.io/ax4de/"
     materials_type: null
     materials_format: null
   adamson_complementation:
@@ -70,7 +70,7 @@ talks:
     authors:
     - will_williams
     title: The presuppositions of ''forget''
-    abstract_formats: null
+    abstract_formats: "https://osf.io/46jcq/"
     materials_type: null
     materials_format: null    
   levina_nominals:
@@ -84,7 +84,7 @@ talks:
     authors:
     - marco_degano
     title: On the plurality of epistemic indefinites
-    abstract_formats: null
+    abstract_formats: "https://osf.io/qg6f7/"
     materials_type: null
     materials_format: null   
   wehbe_presupposition:
@@ -124,7 +124,7 @@ talks:
     - nathaniel_scott
     - scott_anderbois	 		
     title: 'Cross-linguistic variation in the lexical semantics of conjunction'
-    abstract_formats: null
+    abstract_formats: "https://osf.io/9ev48/"
     materials_type: null
     materials_format: null 
   elliott_quantification:
@@ -152,7 +152,7 @@ talks:
     authors:
     - jessica_mendes
     title: A new perspective on deictic shift
-    abstract_formats: null
+    abstract_formats: "https://osf.io/vg8fz/"
     materials_type: null
     materials_format: null
   kang_anaphora:
@@ -161,7 +161,7 @@ talks:
     - koda_li
     - scott_anderbois
     title: Propositional anaphora and salience in the semantics of ''in which case'' 
-    abstract_formats: null
+    abstract_formats: "https://osf.io/uk7v6/"
     materials_type: null
     materials_format: null    
   charlow_updates:
@@ -281,7 +281,7 @@ posters:
     - roger_liao 
     title: On the universal construal of Mandarin any
     lightning_bin: 0
-    abstract_formats: null
+    abstract_formats: "https://osf.io/mz7at/"
     materials_type: null
     materials_format: null
   evcen_conditionals:
