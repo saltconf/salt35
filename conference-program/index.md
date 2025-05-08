@@ -130,7 +130,9 @@ ASL interpretation will be available for all presentations. For any questions re
       <tr class="posterInfoLight{{ lightning_bin_str }}">
         <td class="time">&nbsp;</td>
         <td class="title">
-        {% if posterinfo[1].abstract_formats contains "md" %}
+	{% if posterinfo[1].abstract_formats contains "http" %}
+        <a href="{{ talkinfo.abstract_formats }}">{{ posterinfo[1].title }}</a>	
+        {% elsif posterinfo[1].abstract_formats contains "md" %}
         <a href="/salt34/abstracts/{{ posterinfo[0] }}.html">{{ posterinfo[1].title }}</a>
         {% elsif posterinfo[1].abstract_formats contains "pdf" %}
         <a href="/salt34/abstracts/{{ posterinfo[0] }}.pdf">{{ posterinfo[1].title }}</a>
