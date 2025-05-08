@@ -131,7 +131,7 @@ ASL interpretation will be available for all presentations. For any questions re
         <td class="time">&nbsp;</td>
         <td class="title">
 	{% if posterinfo[1].abstract_formats contains "http" %}
-        <a href="{{ talkinfo.abstract_formats }}">{{ posterinfo[1].title }}</a>	
+        <a href="{{ posterinfo[1].abstract_formats }}">{{ posterinfo[1].title }}</a>	
         {% elsif posterinfo[1].abstract_formats contains "md" %}
         <a href="/salt34/abstracts/{{ posterinfo[0] }}.html">{{ posterinfo[1].title }}</a>
         {% elsif posterinfo[1].abstract_formats contains "pdf" %}
