@@ -46,7 +46,9 @@ ASL interpretation will be available for all presentations. For any questions re
         <tr class="talk">
           <td class="time">{{ talk.time }}</td>
           <td class="title">
-            {% if talkinfo.abstract_formats contains "md" %}
+	    {% if talkinfo.abstract_formats contains "http" %}
+         	<a href="{{ talkinfo.abstract_formats }}">{{ talkinfo.title }}</a>
+            {% elsif talkinfo.abstract_formats contains "md" %}
               <a href="/salt34/abstracts/{{ talk.talkid }}.html">{{ talkinfo.title }}</a>
             {% elsif talkinfo.abstract_formats contains "pdf" %}
               <a href="/salt34/abstracts/{{ talk.talkid }}.pdf">{{ talkinfo.title }}</a>
