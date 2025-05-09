@@ -22,7 +22,7 @@
     talkid: schwarz_title
   - type: talk_session
     name:  Session 1
-    chairid: name_surname
+    chairid: gennaro_chierchia
     subevents:
     - time: "10:00-10:40"
       talkid: fox_questions
@@ -31,12 +31,12 @@
     time: "10:40-11:00"
   - type: talk_session
     name:  Session 2
-    chairid: name_surname
+    chairid: dorothy_ahn
     subevents:
     - time: "11:00-11:40"
       talkid: qing_questions   
   - type: lightning
-    chairid: name_surname
+    chairid: ankana_saha
     name: "Lightning Talk Session 1"
     time: "11:40-12:20"
   - type: break
@@ -47,7 +47,7 @@
     time: "13:20-14:50"   ####new details added till here
   - type: talk_session
     name:  Session 3
-    chairid: name_surname
+    chairid: andreea_nicolae
     subevents:
     - time: "14:50-15:30"
       talkid: mortier_alternatives
@@ -58,7 +58,7 @@
     time: "16:10-16:30"
   - type: talk_session
     name:  Session 4
-    chairid: name_surname
+    chairid: jacopo_romoli
     subevents:
     - time: "16:30-17:10"
       talkid: altshuler_alternatives  
@@ -78,7 +78,7 @@
       talkid: pearson_title
     - type: talk_session
       name:  Session 5
-      chairid: name_surname
+      chairid: tatiana_bondarenko
       subevents:
       - time: "10:00-10:40"
         talkid: adamson_complementation
@@ -94,7 +94,7 @@
       - time: "11:40-12:20"
         talkid: kang_anaphora
     - type: lightning
-      chairid: name_surname
+      chairid: natasha_thalluri
       name: "Lightning Talk Session 2"
       time: "12:20-13:00"
     - type: break
@@ -137,7 +137,7 @@
       talkid: mayr_title
     - type: talk_session
       name:  Session 9
-      chairid: name_surname
+      chairid: vincent_rouillard
       subevents:
       - time: "10:00-10:40"
         talkid: kobayashi_quantification
@@ -148,7 +148,7 @@
       time: "11:20-11:40"
     - type: talk_session
       name:  Session 10
-      chairid: name_surname
+      chairid: kate_davidson
       subevents:
       - time: "11:40-12:20"
         talkid: mendes_conditionals
