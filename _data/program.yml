@@ -89,7 +89,7 @@
       time: "11:20-11:40"
     - type: talk_session
       name:  Session 6
-      chairid: name_surname
+      chairid: jesse_snedeker
       subevents:
       - time: "11:40-12:20"
         talkid: kang_anaphora
@@ -116,7 +116,7 @@
       time: "16:50-17:10"   
     - type: talk_session
       name:  Session 8
-      chairid: name_surname
+      chairid: amir_anvari
       subevents:
       - time: "17:10-17:50"
         talkid: kubota_presupposition
