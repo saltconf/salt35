@@ -226,7 +226,7 @@ osamu_sawada:
 ariele_ye:  
   name: Ariela Ye
   institutions: null
-  website: null
+  website: "https://www.arielaye.com/"
 dorothy_ahn:  
   name: Dorothy Ahn
   institutions: null
@@ -234,7 +234,7 @@ dorothy_ahn:
 noga_syon:  
   name: Noga Syon
   institutions: null
-  website: null
+  website: "https://openreview.net/profile?id=~Noga_Syon1"
 maria_esipova:
   institutions:
   - Bar-Ilan University
@@ -316,7 +316,7 @@ zhendong_liu:
 paul_marty:
   name: Paul Marty
   institutions: null
-  website: null
+  website: "https://scholar.google.fr/citations?user=IAoNdtQAAAAJ&hl=en"
 guillermo_pinal:  
   name: Guillermo Del Pinal
   institutions: null
