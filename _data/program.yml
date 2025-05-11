@@ -8,8 +8,8 @@
     name: Registration and breakfast
     time: "8:00–8:45"
   - type: welcome
-    name: Welcome
-    chairid: name_surname
+    name: Welcome and opening remarks by SALT 35 organisers
+    chairid: 
     time: "8:45–9:00"
   - type: keynote
     time: "9:00-10:00"
