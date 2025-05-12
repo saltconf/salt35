@@ -5,9 +5,9 @@ layout: default
 
 ## Information for Presenters
 
-SALT35 is primarily an in-person conference; however if a presenter is unable to attend due to visa, health, or any other restrictions, we can accommodate pre-recorded talks. If you already know that you wish to submit a pre-recorded talk please let us know by May 5th as that will greatly help in our planning. However, we also understand that there may last minute travel issues, in which case we would be happy to work with you to set up a suitable remote presentation format. All accepted works will be included in the proceedings even if presenters are unable to attend.
+SALT35 is primarily an in-person conference; however if a presenter is unable to attend due to visa, health, or any other restrictions, we can accommodate a virtual presentation. If you already know that you wish to give a virtual presentation please let us know by May 5th as that will greatly help in our planning. However, we also understand that there may last minute travel issues, in which case we would be happy to work with you to set up a suitable remote presentation format. All accepted works will be included in the proceedings even if presenters are unable to attend.
 
-ASL interpretation will be available for all presentations. The interpreting team greatly relies on timely access to presentation materials in order to prepare for the event. So please ensure that your materials are as updated as possible on the OSF site by the deadlines to allow our interpreting team to provide the best access to all attendees.
+ASL interpretation will be available for all presentations. The interpreting team greatly relies on timely access to presentation materials in order to prepare for the event. For better accessibility, we request that at least preliminary drafts of talk slides/handouts, posters, and lightning talk slides are uploaded to the OSF project repository by May 15, 2025  so that our interpreters can use the materials to prepare. Presenters can, of course, update their presentation slides till the day before their presentation, but having a preliminary draft version ahead of time helps the interpreting team to provide the best accessibility to everyone.
 
 
 Please let us know if you have any questions: <span style="font-family: monospace">[salt35.harvard@gmail.com](mailto:salt35.harvard@gmail.com)</span>. 
