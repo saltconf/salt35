@@ -53,7 +53,7 @@ There are also more hotels around Porter Square which is just one stop away from
   </div>
 </div>
 
-
+<hr/>
 
 ##Printing
 
