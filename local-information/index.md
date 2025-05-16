@@ -55,7 +55,7 @@ There are also more hotels around Porter Square which is just one stop away from
 
 <hr/>
 
-##Printing
+## Printing
 
 If you’d like to place an online order for your poster to be printed at the local copier near the conference venue, please contact: 
 
