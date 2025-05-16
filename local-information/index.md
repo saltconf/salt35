@@ -64,6 +64,7 @@ If you’d like to place an online order for your poster to be printed at the lo
   <a href="https://printgnomon.com">Gnomon Copy and Print</a><br> 1308 Massachusetts Ave
 Cambridge, MA 02138 <br>  (617)-491-1111
   </div>
+  </div>
 
 <hr/>
 
