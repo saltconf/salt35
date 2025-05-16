@@ -53,6 +53,18 @@ There are also more hotels around Porter Square which is just one stop away from
   </div>
 </div>
 
+
+
+##Printing
+
+If you’d like to place an online order for your poster to be printed at the local copier near the conference venue, please contact: 
+
+<div class="row" >
+  <div class="one-half column" >
+  <a href="https://printgnomon.com">Gnomon Copy and Print</a><br> 1308 Massachusetts Ave
+Cambridge, MA 02138 <br>  (617)-491-1111
+  </div>
+
 <hr/>
 
 {%raw%}
