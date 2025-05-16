@@ -53,6 +53,13 @@ There are also more hotels around Porter Square which is just one stop away from
   </div>
 </div>
 
+
+## Parking
+
+<a href="https://transportation.harvard.edu/sites/g/files/omnuum731/files/2024-08/Printable_Parking_Map_Remediated.pdf">Harvard Parking Map</a><br>
+<a href="https://hopps.vpcs.harvard.edu/">Harvard Online Parking Permit System</a><br> 
+<a href="https://spothero.com/search?kind=city&id=11&utm_source=google&utm_medium=cpc&utm_term=keyword_spot+hero%3A%3Amatchtype_p&utm_content=731709572086%3A%3Aadpos_%3A%3Anetwork_g%3A%3Adevice_c%3A%3Aa_campaign_22196044970&ad_grp_id=177474086347&gad_source=1&gad_campaignid=22196044970&gbraid=0AAAAADgzQNoKDNXlJGsQ-kTMFZpRgIQMM&gclid=Cj0KCQjww-HABhCGARIsALLO6Xxa_go9Fh9F6C2w5IkCxL13cYQJidSlzjosAKjetuIfSzrqwtC1kEMaAnnvEALw_wcB&view=dl">Harvard Online Parking Permit System</a><br> 
+
 <hr/>
 
 ## Printing
