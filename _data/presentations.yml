@@ -11,7 +11,7 @@ keynotes:
     authors:
     - clemens_mayr
     title: On the scope of indefinites and imprecision
-    abstract_formats: null 
+    abstract_formats: "https://osf.io/wu8c9/"
     materials_type: null
     materials_format: null
   pearson_title:
@@ -25,7 +25,7 @@ keynotes:
     authors:
     - florian_schwarz
     title: Fun filtering facts, if not presupposition projection
-    abstract_formats: null
+    abstract_formats: "https://osf.io/te965/"
     materials_type: null
     materials_format: null
 
@@ -138,7 +138,7 @@ talks:
     authors:
     - filipe_kobayashi
     title: From NPs to predicates of individual concepts
-    abstract_formats: "https://osf.io/ent4m/"
+    abstract_formats: "https://osf.io/k92yx/"
     materials_type: null
     materials_format: null 
   brasoveanu_conditionals:
