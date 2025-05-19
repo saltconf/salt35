@@ -244,7 +244,7 @@ posters:
     - robert_henderson
     - jeremy_kuhn 
     title: 'Semantic micro-variation in distributive marking in Highland Mayan Sign Language'
-    lightning_bin: 0
+    lightning_bin: 1
     abstract_formats: "https://osf.io/utaf6/"
     materials_type: null
     materials_format: null
@@ -376,7 +376,7 @@ posters:
     - claire_bowern 
     - tomas_lynch
     title: 'Degreeless intensification and scale structure: Evidence from Bardi'
-    lightning_bin: 1
+    lightning_bin: 0
     abstract_formats: "https://osf.io/2sj6p/"
     materials_type: null
     materials_format: null
