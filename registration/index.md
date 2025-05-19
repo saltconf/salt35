@@ -12,7 +12,7 @@ Please follow the link below to find instructions and information for online reg
 </div>
 
 
-Early registration runs from March 5 - April 20, 2025. Late registration runs from April 21 - May 18, 2025.
+Early registration runs from March 5 - April 20, 2025. Late registration runs from April 21 - May 18, 2025. Onsite registration is possible May 20-22, 2025
 
 <hr/>
 
@@ -23,20 +23,24 @@ Early registration runs from March 5 - April 20, 2025. Late registration runs fr
       </th>
       <th>Early Registration</th>
       <th>Late Registration</th>
+      <th>Onsite Registration</th>
     </tr>
     <tr>
       <td>(under)graduate students</td>
       <td>$100</td>
+      <td>$120</td>
       <td>$120</td>
     </tr>
     <tr>
       <td>Post-docs and visiting faculty</td>
       <td>$140</td>
       <td>$160</td>
+      <td>$160</td>
     </tr>
    <tr>
       <td>Tenure track faculty and permanently employed staff</td>
       <td>$170</td>
+      <td>$190</td>
       <td>$190</td>
     </tr>
   </tbody>
