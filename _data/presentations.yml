@@ -76,8 +76,8 @@ talks:
   levina_nominals:
     authors:
     - ekaterina_levina
-    title: 'Definite but not specific: weak definites and clitic doubling'
-    abstract_formats: null
+    title: Clitic doubling and specificity
+    abstract_formats: "https://osf.io/egux8/"
     materials_type: null
     materials_format: null  
   degano_nominals:
@@ -99,7 +99,7 @@ talks:
     - yusuke_kubota
     - misato_ido
     title: 'Outlook markers (as abstract discourse markers): An analysis of nanka in Japanese'
-    abstract_formats: null
+    abstract_formats: "https://osf.io/g5jx6/"
     materials_type: null
     materials_format: null    
   mortier_alternatives:
