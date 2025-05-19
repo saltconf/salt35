@@ -154,7 +154,5 @@
         talkid: brasoveanu_conditionals
       - time: "13:00-13:40"
         talkid: charlow_updates    
-    - type: break
-      name: Business meeting on Zoom
-      time: "tbd"   
+      
       
