@@ -5,7 +5,7 @@ layout: default
 
 ## Venue
 
-All talks and posters at SALT35 will take place in the Science Center at 1 Oxford Street, just outside Harvard Yard.
+All talks and posters at SALT35 will take place in the Science Center (Lecture Hall C) at 1 Oxford Street, just outside Harvard Yard.
 The conference dinner on May 21st will be held at the Cambridge Queen's Head Pub right across the road from the Science Center.
 
 
