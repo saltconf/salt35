@@ -76,6 +76,19 @@ Cambridge, MA 02138 <br>  (617)-491-1111
 
 <hr/>
 
+## Food options around Harvard Square
+
+Clover Food Lab <br>
+Science Center <br>
+Weekdays: 9am–4:30pm
+Vegetarian fast food made with local sustainable products. The Science Center has seating and Clover Labs also operates a separate coffee counter. Another location is on the corner of Mass Ave and Holyoke Streets directly next to the Smith Campus Center.
+
+Food Trucks <br>
+Science Center Plaza <br>
+A rotating set of food trucks set up in front of the Science Center. Some trucks accept credit cards, but many are cash only. Seating is available inside the Science Center and in the Science Center Plaza Courtyard. <a href="https://calendar.commonspaces.harvard.edu/?&cat=FDTRK">See here</a> for an up-to-date schedule.
+
+
+
 {%raw%}
 <!--- 
 
