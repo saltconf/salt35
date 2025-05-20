@@ -16,7 +16,7 @@ layout: default
    }
 </script>
 
-All talks and posters at SALT35 will take place in the Science Center at 1 Oxford Street, just outside Harvard Yard. The conference dinner on May 21st will be held at the Cambridge Queen's Head Pub right across the road from the Science Center.
+All talks and posters at SALT35 will take place in the Science Center (Lecture Hall C) at 1 Oxford Street , just outside Harvard Yard. The conference dinner on May 21st will be held at the Cambridge Queen's Head Pub right across the road from the Science Center.
 
 ASL interpretation will be available for all presentations. For any questions related to ASL interpreting, please contact our ASL coordinator Stetson Stanger (<span style="font-family: monospace">[stetsonstanger@fas.harvard.edu](mailto:stetsonstanger@fas.harvard.edu)</span>).  
 
