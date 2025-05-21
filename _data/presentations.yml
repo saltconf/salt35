@@ -235,19 +235,6 @@ posters:
     abstract_formats: "https://osf.io/emwqg/"
     materials_type: null
     materials_format: null
-  vachaudez_distributive:
-    authors:
-    - sybil_vachaudez  
-    - samantha_prins 
-    - juan_ajsivinac  
-    - carlo_geraci  
-    - robert_henderson
-    - jeremy_kuhn 
-    title: 'Semantic micro-variation in distributive marking in Highland Mayan Sign Language'
-    lightning_bin: 1
-    abstract_formats: "https://osf.io/utaf6/"
-    materials_type: null
-    materials_format: null
   biezma_mock:  
     authors:
     - maria_biezma 
@@ -418,14 +405,6 @@ posters:
     abstract_formats: "https://osf.io/8jnk4/"
     materials_type: null
     materials_format: null
-  xia_pronoun:
-    authors:
-    - chenxi_xia
-    title: 'The resolution of silence: Towards an attention-coherence approach to Mandarin null pronoun resolution'
-    lightning_bin: 1
-    abstract_formats: "https://osf.io/9c3u2/"
-    materials_type: null
-    materials_format: null
   nadathur_frustratives:
     authors:
     - prerna_nadathur 
@@ -433,14 +412,6 @@ posters:
     title: 'Reanalyzing frustration: event maximality and non-inertia in two O''dam frustratives'
     lightning_bin: 1
     abstract_formats: "https://osf.io/e96fw/"
-    materials_type: null
-    materials_format: null
-  santorio_conditional:
-    authors:
-    - paolo_santorio
-    title: Don’t speak vacuously! Antecedent compatibility and trivalent conditionals
-    lightning_bin: 1
-    abstract_formats: "https://osf.io/qmrzb/"
     materials_type: null
     materials_format: null
   feiman_maximality:
@@ -451,6 +422,35 @@ posters:
     abstract_formats: "https://osf.io/fvgek/"
     materials_type: null
     materials_format: null
+  santorio_conditional:
+    authors:
+    - paolo_santorio
+    title: Don’t speak vacuously! Antecedent compatibility and trivalent conditionals
+    lightning_bin: 1
+    abstract_formats: "https://osf.io/qmrzb/"
+    materials_type: null
+    materials_format: null  
+  xia_pronoun:
+    authors:
+    - chenxi_xia
+    title: 'The resolution of silence: Towards an attention-coherence approach to Mandarin null pronoun resolution'
+    lightning_bin: 1
+    abstract_formats: "https://osf.io/9c3u2/"
+    materials_type: null
+    materials_format: null  
+  vachaudez_distributive:
+    authors:
+    - sybil_vachaudez  
+    - samantha_prins 
+    - juan_ajsivinac  
+    - carlo_geraci  
+    - robert_henderson
+    - jeremy_kuhn 
+    title: 'Semantic micro-variation in distributive marking in Highland Mayan Sign Language'
+    lightning_bin: 1
+    abstract_formats: "https://osf.io/utaf6/"
+    materials_type: null
+    materials_format: null  
 
 
   
