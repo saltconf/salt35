@@ -93,7 +93,7 @@
       name: "Lightning Talk Session 2"
       time: "12:20-13:00"
     - type: break
-      name: Lunch (<i>on your own </i> ) <a href='https://saltconf.github.io/salt35/pump/'>pop-up mentoring</a> at the Clover Food Lab, Science Center</i>
+      name: Lunch (<i>on your own </i> ) <a href='https://saltconf.github.io/salt35/pump/'>pop-up mentoring</a> at the Clover Food Lab, Science Center
       time: "13:00-14:00"
     - type: poster
       name: Poster Session B
