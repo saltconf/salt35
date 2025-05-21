@@ -414,6 +414,14 @@ posters:
     abstract_formats: "https://osf.io/e96fw/"
     materials_type: null
     materials_format: null
+  santorio_conditional:
+    authors:
+    - paolo_santorio
+    title: Don’t speak vacuously! Antecedent compatibility and trivalent conditionals
+    lightning_bin: 1
+    abstract_formats: "https://osf.io/qmrzb/"
+    materials_type: null
+    materials_format: null    
   feiman_maximality:
     authors:
     - diego_feiman
@@ -422,14 +430,6 @@ posters:
     abstract_formats: "https://osf.io/fvgek/"
     materials_type: null
     materials_format: null
-  santorio_conditional:
-    authors:
-    - paolo_santorio
-    title: Don’t speak vacuously! Antecedent compatibility and trivalent conditionals
-    lightning_bin: 1
-    abstract_formats: "https://osf.io/qmrzb/"
-    materials_type: null
-    materials_format: null  
   xia_pronoun:
     authors:
     - chenxi_xia
