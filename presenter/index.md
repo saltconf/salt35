@@ -38,7 +38,5 @@ Posters may be either in portrait or landscape format such that they fit on 4 ft
 
 ## Proceedings
 
-The [proceedings](https://journals.linguisticsociety.org/proceedings/index.php/SALT/issue/archive) of SALT are published by the [LSA](https://www.linguisticsociety.org/). All presenters at SALT35 may publish in the proceedings. An email will be sent to authors by the editors in June, but some preliminary information is below.
-
-The page limit is 18 pages for talks and posters, 24 pages for invited speakers, both limits excluding references. The proceedings submission deadline is August 15, 2025.
+The [proceedings](https://journals.linguisticsociety.org/proceedings/index.php/SALT/issue/archive) of SALT are published by the [LSA](https://www.linguisticsociety.org/). All presenters at SALT35 may publish in the proceedings. For details regarding the proceedings, please contact  <span style="font-family: monospace">[salt-mailbox@cornell.edu](mailto:salt-mailbox@cornell.edu)</span>
 
